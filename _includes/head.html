@@ -4,9 +4,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
 
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"/>
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs-3.3.7/jq-3.6.0/dt-1.11.3/datatables.min.css"/> 
-  <link rel="stylesheet" href="{{"/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />
+  <link rel="stylesheet" type="text/css"
+    href="https://cdn.datatables.net/v/bs-3.3.7/jq-3.6.0/dt-1.11.3/datatables.min.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="{{" /assets/main.css" | relative_url }}">
+  <style>
+    .roboto-cond {
+      font-family: 'Roboto Condensed', sans-serif;
+    }
+
+    .osans {
+      font-family: 'Open Sans', sans-serif;
+    }
+  </style>
+
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
   {%- include google-analytics.html -%}
