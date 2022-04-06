@@ -1,17 +1,211 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-10T19:17:14+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nargar</title><subtitle>Just a fun little health blog. </subtitle><entry><title type="html">Cortisol replacement</title><link href="http://localhost:4000/hormone/replacement/2021/11/10/cortisol-replacement.html" rel="alternate" type="text/html" title="Cortisol replacement" /><published>2021-11-10T18:39:30+00:00</published><updated>2021-11-10T18:39:30+00:00</updated><id>http://localhost:4000/hormone/replacement/2021/11/10/cortisol-replacement</id><content type="html" xml:base="http://localhost:4000/hormone/replacement/2021/11/10/cortisol-replacement.html">&lt;p&gt;Something about cortisol replacement.&lt;/p&gt;</content><author><name></name></author><category term="hormone" /><category term="replacement" /><summary type="html">Something about cortisol replacement.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2021/11/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-11-10T18:39:30+00:00</published><updated>2021-11-10T18:39:30+00:00</updated><id>http://localhost:4000/jekyll/update/2021/11/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/11/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/nargar/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/nargar/" rel="alternate" type="text/html" /><updated>2022-04-06T22:55:02+00:00</updated><id>http://localhost:4000/nargar/feed.xml</id><title type="html">Nargar</title><subtitle>Feel free to get in touch at nargarvlh@gmail.com. </subtitle><entry><title type="html">Vlh Exp</title><link href="http://localhost:4000/nargar/2022/04/06/vlh-exp.html" rel="alternate" type="text/html" title="Vlh Exp" /><published>2022-04-06T00:00:00+00:00</published><updated>2022-04-06T00:00:00+00:00</updated><id>http://localhost:4000/nargar/2022/04/06/vlh-exp</id><content type="html" xml:base="http://localhost:4000/nargar/2022/04/06/vlh-exp.html">&lt;h1 id=&quot;my-experience-with-covid-long-haul-and-potential-treatments&quot;&gt;My experience with covid long haul and potential treatments&lt;/h1&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1470777639313-60af88918203?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1740&amp;amp;q=80&quot; style=&quot;max-width: 100%;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I want to state here in the beginning that although I will go through some pessimism here early on, this post ends with some tentative optimism.&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;In summer 2021 I was running my own company with two of my friends, where I was working as a software consultant and developer. For the first time, I was my own boss, I had a great girlfriend, and my company’s biggest client (a sizeable Nordic hardware store chain) was impressed with the work we were doing for them, with VPs from abroad having shown interest in the software we were developing.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Today (&lt;em&gt;6 April 2022&lt;/em&gt;), I’m ~ten months into disabling illness. I’m not working, no longer with my girlfriend, not exercising, and nowhere close to being a functional human.  My health record before this was not perfect, I’d been dealing with some fatigue, but was doing well with ADHD treatment.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;The illness I’m struggling with now is a form of covid long haul. As many now know, covid can cause long-lasting issues in susceptible individuals. In some cases, the result, to date, is disability. It’s less widely appreciated that the covid vaccines appear to cause a similar syndrome in some cases. Symptoms described in both disorders are near-identical.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts &quot;Hi, #{name}&quot; end print_hi('Tom') #=&amp;gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.</summary></entry></feed>
+&lt;p&gt;Both have support groups on facebook, and communities on reddit &lt;a href=&quot;https://reddit.com/r/vaccinelonghaulers&quot;&gt;[5]&lt;/a&gt;&lt;a href=&quot;https://reddit.com/r/covidlonghaulers&quot;&gt;[6]&lt;/a&gt;. In addition to people describing the same set of symptoms for both covid- and vaccine long haul, a small sstudy has shown that a considerable proportion of covid long haulers get worse following vaccination. [TODO: Refs] This is in line with various covid long haul group polls which tend to show that roughly a third reports some improvement following vaccination, another third reports symptoms getting worse, and the rest reports no change in symptoms. Some have used dramatic wording when describing their deterioration following vaccination. [TODO: Refs] Anecdotally, it appears that vaccine long haulers often get much worse following a covid infection too. The quality of the reddit-pooled data is poor but I assume people are being honest about their symptoms. Given my own experience, this requires little stretch of the imagination. On top of this we are aware that vaccination following a covid infection in general, increases the likelihood of adverse events, as acknowledged by the CDC, [TODO: Refs]&lt;/p&gt;
+
+&lt;p&gt;I’m for vaccination, but where there is (even a small) risk, there should be freedom of choice. Covid long haul patients should be informed about possible negative consequences of vaccination following long-haul. These adverse events are rare for the (mostly) safe and effective vaccines. But identifying some of the people at-risk may be possible, and worth doing. Professor Warren Tate, a ME/CFS specialist at the University of Otago in NZ has called for exemptions from vaccine mandates for some patients with ME/CFS, citing possible vulnerability to poor sequelae of vaccination. His sentiment is supported by preliminary data from a survey done by the ME/CFS society in NZ, showing a worsening of symptoms without return to baseline in a considerable proportion of patients. &lt;a href=&quot;https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination&quot;&gt;[4]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Intuitively it would seem to make sense to investigate this with autoimmune disorders in general. Part of the problem is that we are not good at collecting healthcare data. Many symptoms/disorders that can’t be immediately identified and diagnosed are dismissed and not reported. We should actively collect and rely more on patient-reported symptoms. Not just for ME/CFS and adverse events to vaccinations, but also f.ex. for women experiencing problems with their menstrual cycle post-vaccination (and presumably post-covid). I can’t claim to know that this is happening without data but we could do better with collecting data.&lt;/p&gt;
+
+&lt;p&gt;All medications have a possible side effect profile. We’re aware of the now-accepted risk of myocarditis that is different by age and gender. And for the H1N1 vaccines it’s generally accepted that they increased the risk of narcolepsy in some people. [TODO: Refs]&lt;/p&gt;
+
+&lt;p&gt;I could have simply written that I’m suffering from long covid but it’s important to point out the true cause of my symptoms in light of some countries calling for mandatory vaccinations (although this is currently old news). For some of us this is equivalent to mandating disability with ensuing misery for the affected individuals and loss of capital for society in general.&lt;/p&gt;
+
+&lt;p&gt;My illness starts in June 2021. On the 8th of that month I received my first dose, and my second on the 29th. The effect of the first dose was unremarkable. I wasn’t concerned by it as evidenced by my showing up for the second jab 3 weeks later. Following the last dose I experienced various debilitating (and confusing) symptoms, the most meaningful of which I still struggle with every day.&lt;/p&gt;
+
+&lt;p&gt;The first thing I remember is getting the worst ‘&lt;strong&gt;migraine&lt;/strong&gt;’ I’d ever experienced. I felt like my head was splitting in half and at times my &lt;strong&gt;vision went dark&lt;/strong&gt;, as if the lights were being dimmed periodically.&lt;/p&gt;
+
+&lt;p&gt;For the next few months my &lt;strong&gt;blood pressure&lt;/strong&gt; was &lt;strong&gt;swinging&lt;/strong&gt; up an down, anywhere from 120/80, normal for me, up to ~187/110, and down again. &lt;strong&gt;Resting heartrate&lt;/strong&gt;, even lying in bed, was constantly over 110 bpm, and at times this was accompanied by bad &lt;strong&gt;chest pain&lt;/strong&gt; and &lt;strong&gt;heart palpitations&lt;/strong&gt;. I had &lt;strong&gt;tingling&lt;/strong&gt; that went &lt;strong&gt;up the front of my throat/neck&lt;/strong&gt;, to the &lt;strong&gt;back of my head&lt;/strong&gt;, and to my &lt;strong&gt;ears&lt;/strong&gt;. I fainted once and today I still often bend down after standing up to prevent this from reoccurring.&lt;/p&gt;
+
+&lt;p&gt;My ears turned beet-red on a few occasions. I had periodic &lt;strong&gt;tremours in my hands&lt;/strong&gt;, and for months I &lt;strong&gt;couldn’t sleep for more than 3 hours per night&lt;/strong&gt;, as was documented in an in-hospital sleep test a few months later. I had &lt;strong&gt;muscle weakness&lt;/strong&gt;. I used to do weight lifting several times per week. I could bench press 125kg (275lbs), but at this point, if I tried to swim a lap in a 25 metre pool I had to stop for a long time to catch my breath and rest.&lt;/p&gt;
+
+&lt;p&gt;When I look at my phone’s photos from that period most of the pictures are of my ears, skin, and blood pressure measurements.&lt;/p&gt;
+
+&lt;p&gt;My most debilitating symptoms were the following, I particularly still struggle with the first one:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Complete and total inability to concentrate&lt;/strong&gt;, &lt;strong&gt;think&lt;/strong&gt;, and &lt;strong&gt;make decisions&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Periods of bad &lt;strong&gt;anxiet/agitation&lt;/strong&gt;, where I would often flood my girlfriend with texts where I speculated what might be wrong&lt;/li&gt;
+  &lt;li&gt;Periods of the worst &lt;strong&gt;irritability/anger&lt;/strong&gt; I’ve felt, with no logical explanation. My thinking was uncharacteristically violent, I’d ‘think expletives’ at people I cared about as well as strangers, after which I would think ‘wow, something is really wrong here.’. I lost my temper easily. On one occasion a doctor I met suggested the tingling I got was ‘muscle tension’, but wanted to send me to a cardiologist for the heart symptoms. The latter being a sensible suggestion but I was so annoyed with his explanation of the tingling that I said: ‘Simple solution for a simple man’ and stormed out, having also refused the appointment with the cardiologist. And even doing &lt;em&gt;just&lt;/em&gt; this required a great deal of self control.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The anxiety and irritability has since then gotten a lot better, but my inability to concentrate remains. I lost my job early. I was so &lt;em&gt;out of it&lt;/em&gt;, I couldn’t focus on what I was working on. My feeling was that I couldn’t think more than 2 simple thoughts per day. I should have contacted my clients and explained my situation to them but this seemed impossible. The project landed on my friend’s shoulders with little explanation offered from me. The cognitive load involved in talking to anyone seemed to be too much.&lt;/p&gt;
+
+&lt;p&gt;I’ve always been a hard worker. I was on the dean’s list at university where I studied computer science. I worked overtime every day of the week at my first job where I was working as a software contractor for a bank, and I derive much of my self value from my ability to think, work, and make money.&lt;/p&gt;
+
+&lt;p&gt;I used to think I would ‘kill myself before applying for disability’, as I could think of no worse fate than ‘becoming a loser’, someone who does not contribute to society. And if I tried to explain my current situation to my old self I’m unconvinced that I would be very understanding. I would write much of my actions (and inaction) today off as laziness. Which is why I can’t really be too resentful of people not easily understanding where I’m coming from today.&lt;/p&gt;
+
+&lt;p&gt;My perspective towards people who are sick and people who are on disability has changed much. I realise now that it’s no one’s dream to be on disability. You become an outlier in society. You don’t feel like you’re contributing, it’s not desireable by opposite sex, and even people who don’t look down on it per se will pity you. Some will have misplaced resentment for your ‘time off’. I’m embarrassed by this to the extent where I hesitate/refuse to write this under my own name. I don’t want to be seen as a victim. Talking to my friends is not helpful. It mostly serves as a reminder that I’m on timeout from life for the time being.&lt;/p&gt;
+
+&lt;p&gt;Describing to my friends what is wrong is complicated, with self-isolation being easier on my mind. I don’t want to answer phone calls because it’s too much effort. If my phone rings unexpectedly I understand that I will be asked how I’m doing, and my response won’t be readily understood. I understand logically that I can’t expect anyone to understand something so distant from the reality they’ve experienced.&lt;/p&gt;
+
+&lt;p&gt;What confuses my friends and family is that I am able to talk, I can form sentences, I seem like I’m fine outwardly. But my &lt;strong&gt;entire days are spent lying flat on the couch because sitting upright is too much effort&lt;/strong&gt;. It depletes all my energy and I can’t think or get anything done. &lt;strong&gt;Contrast this with my previous life where I couldn’t lie down to watch TV until late in the evening, preferably after being productive all day and after some exercise.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m currently more than 2 months late in asking for financial support just because doing it seems like too much effort. I might have to read the contents of a website, compose an email, call someone, do some thinking.. all of which seem like impossible tasks for me.&lt;/p&gt;
+
+&lt;p&gt;When I do talk to my friends I remind them that they would be hard-pressed to find someone more ambitious than me, and that I’m not playing around when I say that I am this ill. That I am unable to do what I say. To work and function. This does help their understanding to a degree but I don’t want to spend my time justifying myself or being pitied. I just want my situation acknowledged and preferably ignored. &lt;em&gt;All my personal time is spent thinking about how to solve these issues&lt;/em&gt; and any off-hand input or questioning is unlikely to be helpful.&lt;/p&gt;
+
+&lt;p&gt;I do best when I don’t exercise. If I walk for more than an hour I experience a flare-up in symptoms. During a flare up, as an example, I may be at the store or pharmacy, but &lt;strong&gt;I can’t focus on anything&lt;/strong&gt;. I may walk around aimlessly, with no idea what I’m looking for, or what I’m doing. Asking for assistance would be too much effort, so the only option is to go hoome and try again later. &lt;strong&gt;At my worst I can’t really make sense of sentences or paragraphs I’m reading&lt;/strong&gt;. Sleeping is the only thing that really helps at those times, but I am not fixed or particularly rested after sleep. Just slightly less trashed.&lt;/p&gt;
+
+&lt;p&gt;If I do intense exercise, such as &lt;strong&gt;weightlifting&lt;/strong&gt;, my symptoms flare up as follows:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I get intense &lt;strong&gt;pressure&lt;/strong&gt;/heat inside of my face/&lt;strong&gt;head&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;My body, &lt;strong&gt;limbs&lt;/strong&gt;, hands and feet in particular, &lt;strong&gt;go ice-cold&lt;/strong&gt; and stay that way for hours&lt;/li&gt;
+  &lt;li&gt;My &lt;strong&gt;tinnitus&lt;/strong&gt; (developed at the start of this) is &lt;strong&gt;sent roaring&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;My &lt;strong&gt;shortness of breath&lt;/strong&gt; is exacerbated / more noticeable with little or no straining involved&lt;/li&gt;
+  &lt;li&gt;My &lt;strong&gt;thinking&lt;/strong&gt; becomes &lt;strong&gt;confused&lt;/strong&gt;, I &lt;strong&gt;can’t focus, read, or write&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;My mood plummets and I get &lt;strong&gt;irritability and/or depression&lt;/strong&gt; like I did in the beginning&lt;/li&gt;
+  &lt;li&gt;My &lt;strong&gt;muscles tense up&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;The poor thinking in particular &lt;strong&gt;takes days to recover&lt;/strong&gt; to the already-subpar baseline&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I experience similar symptoms after:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Eating sugar, this sounds to my prejudiced self as if I just buy into anyone pushing a no-sugar/plant-based diet, but I don’t. Sugar makes my symptoms flare up for some reason. Not as intensely as exercise would but enough for me to avoid chocolate for the first time in my life.&lt;/li&gt;
+  &lt;li&gt;My ADHD medication, which worked well for me prior to the vaccination now helps for about an hour before triggering a flare-up as described above. This has caused me to avoid the medication from the start.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I had no idea how to cope with this. When I got sick I got the feeling that this was out of the ordinary and that I wouldn’t receive much help. The only person I felt could help me was me, and I’d never been more poorly equipped to help myself. I shortly gave up on trying to do my job. My girlfriend at the time was in the UK and I’d intended to sort out her car for her while she was abroad.&lt;/p&gt;
+
+&lt;p&gt;The little thinking I did do at the time was not very logical. All I focused on was my girlfriend’s car, while half-dead and wondering whether I would die from the symptoms. I’d then lay down in the grass after exertion and rest, and when at home I’d try my best to do research and read about my symptoms.&lt;/p&gt;
+
+&lt;p&gt;I suggested to my girlfriend that we take a break because I saw that how I was feeling was making her feel bad. We eventually broke up. I love and appreciate her still, but I’m happy she hasn’t had to sit around and see me go through this process, or see how I’m doing today, even if somewhat improved moodwise.&lt;/p&gt;
+
+&lt;p&gt;I shortly realised I would not be getting another job unless I’d find a solution for my symptoms. A couple of months in I did find that I’d developed hyperthyroidism which I opted to have definitive treatment for, in the form of surgery. It took me much too long to realise and decide on this because it felt like I &lt;strong&gt;couldn’t think or make decisions&lt;/strong&gt;. I couldn’t bring myself to go to the doctor or ask for testing.&lt;/p&gt;
+
+&lt;p&gt;In the weeks after my surgery some of the irritability and perhaps particularly agitation seemed to subside to a degree, but I still couldn’t think, or exercise. I flew to the UK and spent more than half a year in London to give myself a change of scenery. I wanted to be able to focus on recovery without being reminded every day that I was no longer participating in society like my friends and colleagues, and that I was no longer with the girlfriend who I loved. In London I did some exploring, I tried weight-lifting, climbing, and running. Both lifting and running made my symptoms worse, and excessively long walks seemed bad for my cognition too. But on a positive note.. the restaurants in London are amazing. Particularly I liked the amount of Korean restaurants. We happen to have a shortage of those where I’m from. Amazon next-day delivery is pretty good too.&lt;/p&gt;
+
+&lt;p&gt;Earlier on I’d found people with symptoms identical to mine through youtube interviews, and eventually I’d got into the online support groups and communities. Some examples of people with post-vaccine long haul can beb found here. [YT: Kyle and srt]. It’s been insightful to read about other peoples experiences to see the different (but largely similar) presentation of symptoms. It also helped to realise that although the reaction was rare, I was not alone in this.&lt;/p&gt;
+
+&lt;p&gt;After noting that some people in these groups tended to get worse with exercise, in some cases without returning to their new baseline of symptoms, I decided to take it easy with the exercise for the time being. It already seemed liketrying to power-through with the exercise was futile.&lt;/p&gt;
+
+&lt;p&gt;This brings us to today, the 6th of April 2022.&lt;/p&gt;
+
+&lt;p&gt;I’ve tried various treatments with varying degrees of success at this point.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;All my waking&lt;/strong&gt;/lucid &lt;strong&gt;hours are spent reading research papers&lt;/strong&gt;, &lt;strong&gt;reading about other peoples experiences and symptoms&lt;/strong&gt;, and generally looking for possible solutions.&lt;/p&gt;
+
+&lt;p&gt;Many of my physical symptoms I did manage to get under control to a great degree early on, but &lt;strong&gt;my concentration and thinking remains poor&lt;/strong&gt;. I also still get much worse with exercise and ADHD medication.&lt;/p&gt;
+
+&lt;p&gt;Status today:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tingling and numbness is largely gone, unless symptoms are flaring up&lt;/li&gt;
+  &lt;li&gt;Tinnitus is gone, - unless flare up&lt;/li&gt;
+  &lt;li&gt;Ears are not turning beet-red anymore&lt;/li&gt;
+  &lt;li&gt;I don’t get the agitation I did early on&lt;/li&gt;
+  &lt;li&gt;I sleep longer, unless my symptoms are flaring&lt;/li&gt;
+  &lt;li&gt;My blood pressure is not swinging wildly&lt;/li&gt;
+  &lt;li&gt;My resting heartrate are fine unless I’m flaring up&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;I cannot sit upright for more than a few minutes at a time withoutu getting exhausted&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;I cannot accomplish easy tasks or function as a person&lt;/li&gt;
+  &lt;li&gt;I &lt;strong&gt;cannot concentrate at all&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;I cannot live a normal life for the time being&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To add some tentative positivity to this, &lt;strong&gt;in the past month, I’ve been able to have days where I can be productive. I can think, perform tasks, and I can write software&lt;/strong&gt;. This is a &lt;strong&gt;huge deal&lt;/strong&gt;, as I’ve wondered for most of this time &lt;strong&gt;whether my brain was totally gone&lt;/strong&gt;, the only way I had to explain my symptoms to anyone is I &lt;strong&gt;feel like I’ve had severe stroke&lt;/strong&gt;, that’s how impaired my thinking, life, and energy is.&lt;/p&gt;
+
+&lt;p&gt;So seeing that this is still achievable is a big deal. &lt;em&gt;The caveat is that it’s only possible with the help of medications, and they seem to put a great strain on my body. So I am hesitant to do this for extended periods, I only do this when I must get something done.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The rest of this post will go into blood tests and medications I’ve tried, some research I’ve done and my thoughts on it, as well as what I make of my future prospects. It might not be very interesting for anyone outside the ‘Long Haul’ community. Unless the reader is a big nerd.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;testing-treatments-and-results&quot;&gt;Testing, treatments and results&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Brief disclaimer: I’m not recommending anybody try to imitate what I describe below. The methods mentioned are potentially dangerous and could lead to injury, permanent disability, or death. Consult your doctor, do not self-treat.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My intention is to slowly add to this post, the symptoms experienced by long haulers, studies, possible etiology, possible treatments, and my own experiments and results. This will probably take some time, and I can only write this while medicated, adding further delay.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I should start by saying that although there are broad similarities with the presentation of symptoms for most long haulers, they aren’t exactly the same and the causes will likely vary. For instance I am not convinced that kalium plays a part for everyone as I am convinced that it does for me.&lt;/p&gt;
+
+&lt;p&gt;I believe the variation in presentation depends on where we get injured. It’s well documented that the spike protein causes endothelial dysfunction. [TODO: Refs] How this damage manifests will depend on where in the body it occurs. If it’s in the veins/around the  kidney, it could cause dysfunction and symptoms related to the kidneys (this in itself can be quite broad and confusing). If damage occurs in the brain, there could be hypoxia and damage to neurons there. As we know the brain controls most things in the body and damage done there can  manfiest in a variety of ways. This is why every stroke patient or patient with traumatic brain injury can present with just about any symptom under the sun. We’re not all the same and the symptoms will depend on location, severity, and our body’s response to the injury.&lt;/p&gt;
+
+&lt;p&gt;Early on in my illness I had several tests.&lt;/p&gt;
+
+&lt;p&gt;Most of them were unremarkable. Liver function tests were normal, the majority of kidney tests including electrolytes and creatinine were normal. Lipids (total cholesterol) were consistently under the reference range. Which is unspecific but consistent with hyperthyroidism.&lt;/p&gt;
+
+&lt;p&gt;TSH was entirely suppressed at a point with FT4 and FT3 within range (subclinical hyperthyroidism) but eventually the tests showed FT4 and FT3 very elevated, for which I had definitive treatment. Complete blood count was broadly fine, ferritin on the lower end but also okay, cortisol also low-normal which would typically be unusual in the presence of hyperthyroidism but stimulation testing was fine.&lt;/p&gt;
+
+&lt;p&gt;I had some discolouration of the skin on my chest and between my eyebrows (loss of colour) that persists but hasn’t gotten worse.&lt;/p&gt;
+
+&lt;p&gt;My biggest worry was vaccine-induced autoimmunity, and thus I had the following tests:&lt;/p&gt;
+
+&lt;p&gt;TPO antibodies (such as those seen in Hashimotos hypothyroidism and Graves) slightly elevated on 2 occasions, fine in another laboratory. ANCA antibodies present but not elevated (Lupus, often associated with kidney damage). RF slightly elevated. Anti-phospholipid antibodies present but not elevated, clotting factors all normal. ds-DNA (primarily associated with Lupus) also present but not elevated. ANA very low in the range.RF-IgG slightly elevated. Adrenal cortex antibodies not detected, so addison’s disease unlikely.&lt;/p&gt;
+
+&lt;p&gt;On numerous occasions since then I’ve tested AM cortisol which consistently comes back at around 200 nmol/L, which is low-normal, equivocal &lt;a href=&quot;https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/cortisol.aspx&quot;&gt;[3]&lt;/a&gt;, but both ACA was negative and synacthen stimulation showed normal adrenal response to synthetic ACTH stimulation. Hydrocortisone supplementation (very low dose) has still been beneficial for my symptoms, including mood, joint pain, and general flare-ups. Doses that are too high seem to magnify my tinnitus. If I don’t take any I seem to get worse joint pain, some itching, and worse cognitive symptoms.&lt;/p&gt;
+
+&lt;p&gt;I noted early that many of my physical symptoms seemed to get worse with eating, in particular when I ate something containing potassium. Since I suspected that I naturally restricted my diet quite a bit which likely influenced the testing that followed.&lt;/p&gt;
+
+&lt;p&gt;Despite any interventions I made, ‘hyperkalemia’ was detected on 3 occasions, with 3 additional tests showing kalium within the reference range range. The reason for testing potassium was that a lot of my early symptoms were consistent with hyperkalemia. Including &lt;strong&gt;tiredness, weakness, numbness, tingling, nausea, shortness of breath, chest pain,&lt;/strong&gt; and &lt;strong&gt;palpitations&lt;/strong&gt;
+&lt;a href=&quot;https://www.healthline.com/health/high-potassium-hyperkalemia#symptoms&quot;&gt;[1]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fludrocortisone was helpful for me with managing these symptoms, up to 0.3mg/daily helped me not having to be as limited with my diet. I could eat some potassium without tingling/chest pain and palpitations coming on. If I stopped the medicine the sensitivity to these foods increased again.&lt;/p&gt;
+
+&lt;p&gt;Since then I’ve dropped this medication but it was helpful to me early on. Fludrocortisone is typically used for adrenal insufficiency (primary) to replace aldosterone. It increases sodium retention and decreases potassium, having only a mild alkolytic effect if potassium depletion is prevented (extrapolating from aldosterone suppl. result). &lt;a href=&quot;https://jasn.asnjournals.org/content/11/2/369&quot;&gt;[2]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;References:&lt;/h1&gt;
+&lt;p&gt;(See below for relevant quotes)&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://www.healthline.com/health/high-potassium-hyperkalemia#symptoms&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://jasn.asnjournals.org/content/11/2/369 _Journal of the American Society of Nephrology, 2000&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/cortisol.aspx _Oxford University Hospitals&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination _&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://reddit.com/r/vaccinelonghaulers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://reddit.com/r/covidlonghaulers&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;relevant-quotes-from-each-citation&quot;&gt;Relevant quotes from each citation&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The symptoms of high potassium depend on the level of the mineral in your blood. […] if your potassium levels are high enough to cause symptoms, you &lt;em&gt;may&lt;/em&gt; have: &lt;strong&gt;tiredness&lt;/strong&gt; or &lt;strong&gt;weakness&lt;/strong&gt;, a feeling of &lt;strong&gt;numbness&lt;/strong&gt; or &lt;strong&gt;tingling&lt;/strong&gt;, &lt;strong&gt;nausea&lt;/strong&gt;,
+&lt;strong&gt;trouble breathing&lt;/strong&gt;, &lt;strong&gt;chest pain&lt;/strong&gt;, &lt;strong&gt;palpitations&lt;/strong&gt; […]&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;strong&gt;Dietary potassium depletion&lt;/strong&gt; is &lt;strong&gt;associated with modest metabolic alkalosis&lt;/strong&gt; and with an &lt;strong&gt;increase in intracellular sodium&lt;/strong&gt; and proton concentrations and suppression of aldosterone (27,28). Metabolic alkalosis is generated primarily by an intracellular shift of protons. However, potassium depletion is also associated with enhanced renal ammonia production, and a contribution of increased net acid excretion has not been excluded in humans (29,30). Similarly, &lt;strong&gt;administration of aldosterone causes only a slight degree of metabolic alkalosis if potassium depletion is prevented&lt;/strong&gt; (31).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;[…]In adult patients who are not on steroid treatment, 9 a.m. cortisol &amp;lt;100 nmol/L suggests adrenal insufficiency, &lt;strong&gt;9 a.m. cortisol &amp;gt;400 nmol/L makes adrenal insufficiency unlikely&lt;/strong&gt;, - For 9 a.m. cortisol of &lt;strong&gt;100-400, consider a short synacthen test&lt;/strong&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Expert &lt;strong&gt;says some chronic fatigue syndrome sufferers should be exempt from Covid-19 vaccination&lt;/strong&gt; “&lt;strong&gt;University of Otago’s Emeritus Professor Warren Tate&lt;/strong&gt; says he is aware of serious reactions triggered by the Pfizer vaccine in several people who have the condition. He believes some of those with the disease &lt;strong&gt;shouldn’t be expected to be vaccinated&lt;/strong&gt;.” Preliminary findings of a &lt;strong&gt;survey of ME/CFS sufferers and those with Long Covid&lt;/strong&gt;, carried out by the &lt;strong&gt;Associated New Zealand ME Society&lt;/strong&gt; (ANZMES), found &lt;strong&gt;nearly 20 percent of the 359 survey participants had experienced a relapse, with worsened symptoms that had not returned to baseline, after taking the Pfizer vaccine&lt;/strong&gt;. The findings will be submitted to the Immunisation Advisory Centre (Imac) and the Ministry. Tate has also submitted data to Imac over his concerns.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;So here below we will do some testing.&lt;/p&gt;
+
+&lt;p&gt;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..&lt;/p&gt;</content><author><name></name></author><summary type="html">My experience with covid long haul and potential treatments</summary></entry></feed>
