@@ -1,0 +1,11 @@
+We develop the site on the branch gh-pages. 
+The url for the site will be: <username>.github.io/nargar (project name).
+
+To get it running I had to install ruby with brew (to /usr).
+
+Had to run gem install --user-install ffi -- --enable-libffi-alloc as per https://github.com/ffi/ffi/issues/864
+-------------
+
+bundle exec jekyll serve
+
+---------
