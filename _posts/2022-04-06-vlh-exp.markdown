@@ -2,91 +2,119 @@
 
 <img markdown="0" src="https://images.unsplash.com/photo-1470777639313-60af88918203?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1740&amp;q=80" style="max-width: 100%;" />
 
-I'm not recommending anybody try to imitate what I describe below. The methods mentioned are potentially dangerous and could lead to injury, permanent disability, or death. Consult your doctor, do not self-treat.  
+I want to state here in the beginning that although I will go through some pessimism here early on, this post ends with some tentative optimism.
 
-I want to state here in the beginning that this post ends with some tentative optimism.
+In summer 2021 I was running my own company with two of my friends, where I was working as a software consultant and developer. For the first time, I was my own boss, I had a great girlfriend, and my company's biggest client (a sizeable Nordic hardware store chain) was impressed with the work we were doing for them, with VPs from abroad having shown interest in the software we were developing.
 
-In summer 2021 I was running my own company with two friends as a software consultant and developer. I was working independently for the first time, had a beautiful (and all around great) girlfriend and our company's biggest client (a large hardware store chain) was really impressed with the work we were doing for them, and we got along really well. 
+Today (*6 April 2022*), I'm ~ten months into disabling illness. I'm not working, no longer with my girlfriend, not exercising, and nowhere close to being a functional human.  My health record before this was not perfect, I'd been dealing with some fatigue, but was doing well with ADHD treatment.
 
-At the time of writing I'm almost 10 months into disabling illness. My health record prior to this is not impeccable. I had been dealing with some fatigue, but I was doing really well with some treatment for ADHD (using medication). 
+The illness I'm struggling with now is a form of covid long haul. As many now know, covid can cause long-lasting issues in susceptible individuals. In some cases, the result, to date, is disability. It's less widely appreciated that the covid vaccines appear to cause a similar syndrome in some cases. Symptoms described in both disorders are near-identical. 
 
-What I'm dealing with now is a form of covid long haul. As many know by now, covid can cause long-lasting issues in people who are susceptible, and in some cases the result (to date) is disability. Perhaps less known is that it appears that the vaccines can cause a similar syndrome by themselves, with symptoms between the two disorders being almost identical. 
+Both have support groups on facebook, and communities on reddit [[5]](https://reddit.com/r/vaccinelonghaulers)[[6]](https://reddit.com/r/covidlonghaulers). In addition to people describing the same set of symptoms for both covid- and vaccine long haul, a small sstudy has shown that a considerable proportion of covid long haulers get worse following vaccination. [TODO: Refs] This is in line with various covid long haul group polls which tend to show that roughly a third reports some improvement following vaccination, another third reports symptoms getting worse, and the rest reports no change in symptoms. Some have used dramatic wording when describing their deterioration following vaccination. [TODO: Refs] Anecdotally, it appears that vaccine long haulers often get much worse following a covid infection too. The quality of the reddit-pooled data is poor but I assume people are being honest about their symptoms. Given my own experience, this requires little stretch of the imagination. On top of this we are aware that vaccination following a covid infection in general, increases the likelihood of adverse events, as acknowledged by the CDC, [TODO: Refs]
 
-There are support groups for both conditions on facebook, and a community on reddit at reddit.com/r/vaccinelonghaulers. Further connection between the two disorders seems apparent, with independent (small) studies having shown a considerable proportion of covid long haulers getting worse from vaccination. [TODO: Refs] Vaccination following a covid infection increases the likelihood of adverse events, [TODO: Refs] and various /r/covidlonghaulers polls show around 33% reporting improvement following vaccination, 33% reporting no change, and 33% reporting worsening of symptoms, with some describing the change as 'ruining their lives'. [TODO: Refs] The quality of the reddit-pooled data is poor but I will assume that the majority are being honest about their symptoms. Given my own symptoms and experience this does not require much stretch of the imagination.  
+I'm for vaccination, but where there is (even a small) risk, there should be freedom of choice. Covid long haul patients should be informed about possible negative consequences of vaccination following long-haul. These adverse events are rare for the (mostly) safe and effective vaccines. But identifying some of the people at-risk may be possible, and worth doing. Professor Warren Tate, a ME/CFS specialist at the University of Otago in NZ has called for exemptions from vaccine mandates for some patients with ME/CFS, citing possible vulnerability to poor sequelae of vaccination. His sentiment is supported by preliminary data from a survey done by the ME/CFS society in NZ, showing a worsening of symptoms without return to baseline in a considerable proportion of patients. [[4]](https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination) 
 
-This may come off as anti-vax sentiment, but I'm for vaccination as long as there's personal choice involved, preferably with informed consent. Covid long haul patients should be informed of possible consequences of vaccination following long-haul. These adverse events are of course rare for the (mostly)-safe and effective vaccines. But I will include here a message from a professor in NZ calling for an exemption from vaccination for some patients with CFS, citing possible increased vulnerability to poor sequelae, supported by preliminary data from a survey done by the ME/CFS society in NZ. [[4]](https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination)
+Intuitively it would seem to make sense to investigate this with autoimmune disorders in general. Part of the problem is that we are not good at collecting healthcare data. Many symptoms/disorders that can't be immediately identified and diagnosed are dismissed and not reported. We should actively collect and rely more on patient-reported symptoms. Not just for ME/CFS and adverse events to vaccinations, but also f.ex. for women experiencing problems with their menstrual cycle post-vaccination (and presumably post-covid). I can't claim to know that this is happening without data but we could do better with collecting data. 
 
-For all intents and purposes I could have written this post saying simply: 'I am suffering from long covid' but I believe it's important to point out (my perceived) true cause of symptoms in light of some countries calling for mandatory vaccinations, which in some cases might be equivalent to mandating disability and ensuing misery/loss of capital for society in general. Additionally I wanted potential readers who may have suffered an adverse event to know that they're not alone. 
+All medications have a possible side effect profile. We're aware of the now-accepted risk of myocarditis that is different by age and gender. And for the H1N1 vaccines it's generally accepted that they increased the risk of narcolepsy in some people. [TODO: Refs] 
 
-On 8 June 2021 I got my first dose of the covid-19 vaccine. The first shot had no remarkable impact on me. I felt maybe slightly fatigued, but nothing I was concerned by. On 29 June 2021 I got my second dose dose. 
+I could have simply written that I'm suffering from long covid but it's important to point out the true cause of my symptoms in light of some countries calling for mandatory vaccinations (although this is currently old news). For some of us this is equivalent to mandating disability with ensuing misery for the affected individuals and loss of capital for society in general. 
 
-Following this one I experience a plethora of weird symptoms. It starts with the worst 'migraine' I've ever experienced. I felt like my head was splitting in two and at a couple of points I could see my vision go almost black/dark. 
+My illness starts in June 2021. On the 8th of that month I received my first dose, and my second on the 29th. The effect of the first dose was unremarkable. I wasn't concerned by it as evidenced by my showing up for the second jab 3 weeks later. Following the last dose I experienced various debilitating (and confusing) symptoms, the most meaningful of which I still struggle with every day.
 
-The days following this my blood pressure was swinging wildly, from a healthy 120/80 to ~187/110 and down again. On top of this my resting heartrate was constantly at > 110 bpm, with occasional chest pain. I had tingling that went up my neck, to the the top of the back of my head, and to my ears. I fainted once and had near-syncope on numerous occasions after this. 
+The first thing I remember is getting the worst '**migraine**' I'd ever experienced. I felt like my head was splitting in half and at times my **vision went dark**, as if the lights were being dimmed periodically. 
 
-My ears turned beet-red on a few occasions. I had bad tremours in my hands, and for months I couldn't sleep for more than 3 hours per night, as was documented on a in-hospital sleep test a few months later. I had muscle weakness. I used to do a lot of weight lifting, I could bench press 125kg (275lbs) and at this point if I tried to swim a lap in a 25 meter pool I had to stop for a long time to catch my breath and rest. 
+For the next few months my **blood pressure** was **swinging** up an down, anywhere from 120/80, normal for me, up to ~187/110, and down again. **Resting heartrate**, even lying in bed, was constantly over 110 bpm, and at times this was accompanied by bad **chest pain** and **heart palpitations**. I had **tingling** that went **up the front of my throat/neck**, to the **back of my head**, and to my **ears**. I fainted once and today I still often bend down after standing up to prevent this from reoccurring. 
 
-From that period most of my phone's photos are of my ears/skin/blood pressure measurements and such. 
+My ears turned beet-red on a few occasions. I had periodic **tremors in my hands**, and for months I **couldn't sleep for more than 3 hours per night**, as was documented in an in-hospital sleep test a few months later. I had **muscle weakness**. I used to do weight lifting several times per week. I could bench press 125kg (275lbs), but at this point, if I tried to swim a lap in a 25 metre pool I had to stop for a long time to catch my breath and rest. 
 
-Worse than any physical effects though, was that I had a combination of: 
-- Complete and total inability to concentrate, think, and make decisions
-- I had periods of bad anxiety/agitation, where I would often flood my girlfriend at the time with texts (which I found hard to contorl), mixed with,
-- Periods of the worst irritability/anger I've ever felt, pointless anger, with no underlying reason. I would find myself thinking overly violent thoughts, and think 'expletives' at people I cared about as well as strangers. I lost my temper with a doctor I met at the time who suggested my tingling was 'muscle tension', told him: 'Simple solution for a simple man' and stormed out. 
+When I look at my phone's photos from that period most of the pictures are of my ears, skin, and blood pressure measurements. 
 
+My most debilitating symptoms were the following, I particularly still struggle with the first one: 
+- **Complete and total inability to concentrate**, **think**, and **make decisions**
+- Periods of bad **anxiet/agitation**, where I would often flood my girlfriend with texts where I speculated what might be wrong
+- Periods of the worst **irritability/anger** I've felt, with no logical explanation. My thinking was uncharacteristically violent, I'd 'think expletives' at people I cared about as well as strangers, after which I would think 'wow, something is really wrong here.'. I lost my temper easily. On one occasion a doctor I met suggested the tingling I got was 'muscle tension', but wanted to send me to a cardiologist for the heart symptoms. The latter being a sensible suggestion but I was so annoyed with his explanation of the tingling that I said: 'Simple solution for a simple man' and stormed out, having also refused the appointment with the cardiologist. And even doing *just* this required a great deal of self control.
 
-Over time the anxiety and irritability has gotten a lot better, but my inability to concentrate remains. I lost my job early on, I simply lifted out of it. I couldn't focus on the tasks I was working on, and the simple task of sending them an email and telling them about my situation seemed impossible. 
+The anxiety and irritability has since then gotten a lot better, but my inability to concentrate remains. I lost my job early. I was so *out of it*, I couldn't focus on what I was working on. My feeling was that I couldn't think more than 2 simple thoughts per day. I should have contacted my clients and explained my situation to them but this seemed impossible. The project landed on my friend's shoulders with little explanation offered from me. The cognitive load involved in talking to anyone seemed to be too much.
 
-I've always been a hard worker. I was on the dean's list at university where I studied computer science, I worked overtime every day of the week at my first job where I was working as a software contractor for a bank, and I derive much of my self value from my ability to think, work, and make money. 
+I've always been a hard worker. I was on the dean's list at university where I studied computer science. I worked overtime every day of the week at my first job where I was working as a software contractor for a bank, and I derive much of my self value from my ability to think, work, and make money. 
 
-I used to think I would 'kill myself before going on disability', as I could think of no worse fate than becoming a loser. Someone who does not contribute to society. And if I tried to explain my situation to my old self I'm not sure I would be very understanding. I would write much of this off as laziness, 'why doesn't he just do x and y, it takes < 5 minutes'. 
+I used to think I would 'kill myself before applying for disability', as I could think of no worse fate than 'becoming a loser', someone who does not contribute to society. And if I tried to explain my current situation to my old self I'm unconvinced that I would be very understanding. I would write much of my actions (and inaction) today off as laziness. Which is why I can't really be too resentful of people not easily understanding where I'm coming from today.
 
-My perspective today towards people who are sick and perhaps people who are on disability is dramatically changed. I see and realise that it's no one's dream to be on disability. You become an outlier in society. You're not contributing, it's not something that is 'in demand' by the opposite sex, and even people who don't look 'down on it' per se will pity you. Some will have misplaced resentment for your 'time off'.  Personally I'm so embarrassed by this I hesitate to write this under my own name. I talk to almost no one about what has happened. I don't think it would be helpful and all it does is remind me that I'm on timeout for the time being. 
+My perspective towards people who are sick and people who are on disability has changed much. I realise now that it's no one's dream to be on disability. You become an outlier in society. You don't feel like you're contributing, it's not desireable by opposite sex, and even people who don't look down on it per se will pity you. Some will have misplaced resentment for your 'time off'. I'm embarrassed by this to the extent where I hesitate/refuse to write this under my own name. I don't want to be seen as a victim. Talking to my friends is not helpful. It mostly serves as a reminder that I'm on timeout from life for the time being. 
 
-I find it difficult to describe to friends what is wrong. I prefer to self-isolate. I don't want to answer phone calls because it's too much cognitive load, and I know beforehand that I won't be understood, and I couldn't expect anyone to possibly understand something so distant from someone with full health.
+Describing to my friends what is wrong is complicated, with self-isolation being easier on my mind. I don't want to answer phone calls because it's too much effort. If my phone rings unexpectedly I understand that I will be asked how I'm doing, and my response won't be readily understood. I understand logically that I can't expect anyone to understand something so distant from the reality they've experienced.
 
-What confuses my friends and perhaps family is that I can talk, I can say words, I seem like I'm fine outwardly. But my entire days are spent lying on the couch because sitting upright is too much effort. It depletes all my energy and I can't think or do anything. I'm more than a month late in asking for financial support just because doing so is too much effort. I might have to read the content of a website, compose an email message, call someone, think.. all of which now seem to be impossible tasks to me. 
+What confuses my friends and family is that I am able to talk, I can form sentences, I seem like I'm fine outwardly. But my **entire days are spent lying flat on the couch because sitting upright is too much effort**. It depletes all my energy and I can't think or get anything done. **Contrast this with my previous life where I couldn't lie down to watch TV until late in the evening, preferably after being productive all day and after some exercise.**
 
-I remind my friends that they would be hard-pressed to find someone more ambitious than me, and that I'm not playing around when I say that I am this ill. That I am unable to do what I say. To work and function. I don't want pity or empathy. I just want my situation acknowledged and preferably ignored. All my personal time is spent thinking about how to solve these issues and any off-hand input is unlikely to be helpful. 
+ I'm currently more than 2 months late in asking for financial support just because doing it seems like too much effort. I might have to read the contents of a website, compose an email, call someone, do some thinking.. all of which seem like impossible tasks for me. 
 
-I do best when I don't exercise. If I walk for more than an hour I experience a flare-up in symptoms. If I take an example, I may be at the store or pharmacy, but I can't focus in on anything. I just walk around aimlessly, with no idea what I'm looking for or doing. And I feel like asking for help would be too much effort, so I tend to go home and try again later. At my worst I can't really make sense of sentences/paragraphs I'm reading. Only sleeping really helps with that, but I don't feel rested after sleep. Just slightly less trashed. 
+When I do talk to my friends I remind them that they would be hard-pressed to find someone more ambitious than me, and that I'm not playing around when I say that I am this ill. That I am unable to do what I say. To work and function. This does help their understanding to a degree but I don't want to spend my time justifying myself or being pitied. I just want my situation acknowledged and preferably ignored. *All my personal time is spent thinking about how to solve these issues* and any off-hand input or questioning is unlikely to be helpful. 
 
-If I do intense exercise, like weightlifting, my symptoms flare up as follows: 
-- I get intense pressure/heat inside of my face/head
-- My body, in particular my hands and feet go ice-cold and stay that way for hours
-- My tinnitus (developed at the start of this) goes roaring and stays that way for possibly 3-4 days
-- My shortness of breath is exacerbated / more noticeable with little straining involved 
-- My thinking becomes more confused, I can't focus or read, or write 
-- My mood plummets and I get irritability and/or depression like I did in the beginning 
-- My muscles go very tense 
+I do best when I don't exercise. If I walk for more than an hour I experience a flare-up in symptoms. During a flare up, as an example, I may be at the store or pharmacy, but **I can't focus on anything**. I may walk around aimlessly, with no idea what I'm looking for, or what I'm doing. Asking for assistance would be too much effort, so the only option is to go hoome and try again later. **At my worst I can't really make sense of sentences or paragraphs I'm reading**. Sleeping is the only thing that really helps at those times, but I am not fixed or particularly rested after sleep. Just slightly less trashed. 
 
-Somewhat interestingly these are some of the same symptoms I get after:
-- Eating sugars, this sounds like I'm faking to me.. like I just buy into anyone pushing a plant-based diet, but I don't. Sugars make my symptoms flare. Not as intensely as the exercise but to an extent where I avoid chocolate for the first time in my life. 
-- My ADHD medication that worked well for me prior to the vaccination now helps for about an hour before triggering the flare-up as described above after intense exercise. 
+If I do intense exercise, such as **weightlifting**, my symptoms flare up as follows: 
+- I get intense **pressure**/heat inside of my face/**head**
+- My body, **limbs**, hands and feet in particular, **go ice-cold** and stay that way for hours
+- My **tinnitus** (developed at the start of this) is **sent roaring**
+- My **shortness of breath** is exacerbated / more noticeable with little or no straining involved 
+- My **thinking** becomes **confused**, I **can't focus, read, or write**
+- My mood plummets and I get **irritability and/or depression** like I did in the beginning 
+- My **muscles tense up**
+- The poor thinking in particular **takes days to recover** to the already-subpar baseline
 
+I experience similar symptoms after:
+- Eating sugar, this sounds to my prejudiced self as if I just buy into anyone pushing a no-sugar/plant-based diet, but I don't. Sugar makes my symptoms flare up for some reason. Not as intensely as exercise would but enough for me to avoid chocolate for the first time in my life. 
+- My ADHD medication, which worked well for me prior to the vaccination now helps for about an hour before triggering a flare-up as described above. This has caused me to avoid the medication from the start.  
 
-I had no idea how to deal with this at the time when I got this. In the beginning the first thing I gave up on was my job. My girlfriend at the time was in the UK and I promised to/was going to fix up the car for her while she was out there. 
+I had no idea how to cope with this. When I got sick I got the feeling that this was out of the ordinary and that I wouldn't receive much help. The only person I felt could help me was me, and I'd never been more poorly equipped to help myself. I shortly gave up on trying to do my job. My girlfriend at the time was in the UK and I'd intended to sort out her car for her while she was abroad. 
 
-In retrospect I was not doing much logical thinking at the time but the car was all I focused on, while half-dead. I'd then lay down in the grass/at home and try my best to do research and read. 
+The little thinking I did do at the time was not very logical. All I focused on was my girlfriend's car, while half-dead and wondering whether I would die from the symptoms. I'd then lay down in the grass after exertion and rest, and when at home I'd try my best to do research and read about my symptoms. 
 
-I suggested to my girlfriend at the time that we take a break because I saw how I was feeling was making her feel bad. We eventually broke up, and I love and appreciate her still. But I'm happy she doesn't have to sit around to see how I am now, even if somewhat improved moodwise. 
+I suggested to my girlfriend that we take a break because I saw that how I was feeling was making her feel bad. We eventually broke up. I love and appreciate her still, but I'm happy she hasn't had to sit around and see me go through this process, or see how I'm doing today, even if somewhat improved moodwise. 
 
-Eventually I realised my job was entirely lost for the time being and I saw I wouldn't get back on that horse right away. I'd developed hyperthyroidism for which I had surgery for. It took me much too long to realise and decide on this because it felt like I couldn't think or make decisions. I couldn't bring myself to go to the doctor or ask for testing. 
+I shortly realised I would not be getting another job unless I'd find a solution for my symptoms. A couple of months in I did find that I'd developed hyperthyroidism which I opted to have definitive treatment for, in the form of surgery. It took me much too long to realise and decide on this because it felt like I **couldn't think or make decisions**. I couldn't bring myself to go to the doctor or ask for testing. 
 
-Following my surgery for hyperthyroidism I noted relatively quickly that although some of the irritability and mood issues from early on were subsiding, I still couldn't think, or exercise. I spent more than half a year abroad in London to give myself a change in scenery. I wanted to be able to focus on recovery without being reminded every day that I was no longer participating in society like my friends and colleagues, or no longer with the girlfriend I loved. In London I would do some exploring, try weight-lifting, climbing, and running. But from both weight-lifting and running I saw only deterioration of symptoms. Long walks seemed bad for my cognition as well. 
+In the weeks after my surgery some of the irritability and perhaps particularly agitation seemed to subside to a degree, but I still couldn't think, or exercise. I flew to the UK and spent more than half a year in London to give myself a change of scenery. I wanted to be able to focus on recovery without being reminded every day that I was no longer participating in society like my friends and colleagues, and that I was no longer with the girlfriend who I loved. In London I did some exploring, I tried weight-lifting, climbing, and running. Both lifting and running made my symptoms worse, and excessively long walks seemed bad for my cognition too. But on a positive note.. the restaurants in London are amazing. Particularly I liked the amount of Korean restaurants. We happen to have a shortage of those where I'm from. Amazon next-day delivery is pretty good too. 
 
-Eventually I did see someone dealing with the exact same symptoms as I, and then another, and another. [Refs: Youtube] I became a member of several groups of people who are dealing with the same thing as me. And I noted with those groups that many people got worse with exercise, some permanently, and thus decided to take it easy with that for the time being. 
+Earlier on I'd found people with symptoms identical to mine through youtube interviews, and eventually I'd got into the online support groups and communities. Some examples of people with post-vaccine long haul can beb found here. [YT: Kyle and srt]. It's been insightful to read about other peoples experiences to see the different (but largely similar) presentation of symptoms. It also helped to realise that although the reaction was rare, I was not alone in this. 
 
-Today, on the 6th of April 2022, I've so far tried various therapies with varying success. I've spent all of my waking/lucid hours reading research papers and watching videos/seeing what other people are thinking and describing. 
+After noting that some people in these groups tended to get worse with exercise, in some cases without returning to their new baseline of symptoms, I decided to take it easy with the exercise for the time being. It already seemed liketrying to power-through with the exercise was futile. 
 
-My status today is: 
-I still get flare-ups, but I did manage to control the tingling, my rapid heartrate (except on exertion), my swings in blood pressure aren't there anymore either, my ears are not turning beet-red. I don't get anxiety or agitation at all, but irritability and depression does come with exercise- or medication-induced flare-ups. 
+This brings us to today, the 6th of April 2022. 
 
-My biggest complaints are still lack of energy. I cannot find the energy to sit straight, and I cannot concentrate, think, and complete tasks. I cannot live a normal life currently.
+I've tried various treatments with varying degrees of success at this point. 
 
+**All my waking**/lucid **hours are spent reading research papers**, **reading about other peoples experiences and symptoms**, and generally looking for possible solutions.
+
+Many of my physical symptoms I did manage to get under control to a great degree early on, but **my concentration and thinking remains poor**. I also still get much worse with exercise and ADHD medication. 
+
+Status today: 
+- Tingling and numbness is largely gone, unless symptoms are flaring up
+- Tinnitus is gone, - unless flare up 
+- Ears are not turning beet-red anymore
+- I don't get the agitation I did early on 
+- I sleep longer, unless my symptoms are flaring 
+- My blood pressure is not swinging wildly
+- My resting heartrate are fine unless I'm flaring up 
+- **I cannot sit upright for more than a few minutes at a time withoutu getting exhausted**
+- I cannot accomplish easy tasks or function as a person 
+- I **cannot concentrate at all**
+- I cannot live a normal life for the time being
+
+To add some tentative positivity to this, **in the past month, I've been able to have days where I can be productive. I can think, perform tasks, and I can write software**. This is a **huge deal**, as I've wondered for most of this time **whether my brain was totally gone**, the only way I had to explain my symptoms to anyone is I **feel like I've had severe stroke**, that's how impaired my thinking, life, and energy is.
+
+So seeing that this is still achievable is a big deal. *The caveat is that it's only possible with the help of medications, and they seem to put a great strain on my body. So I am hesitant to do this for extended periods, I only do this when I must get something done.* 
+
+**The rest of this post will go into blood tests and medications I've tried, some research I've done and my thoughts on it, as well as what I make of my future prospects. It might not be very interesting for anyone outside the 'Long Haul' community. Unless the reader is a big nerd.**
 
 ---
 
-# Testing, therapies and results
+# Testing, treatments and results
+
+> Brief disclaimer: I'm not recommending anybody try to imitate what I describe below. The methods mentioned are potentially dangerous and could lead to injury, permanent disability, or death. Consult your doctor, do not self-treat.  
+
+> My intention is to slowly add to this post, the symptoms experienced by long haulers, studies, possible etiology, possible treatments, and my own experiments and results. This will probably take some time, and I can only write this while medicated, adding further delay. 
 
 I should start by saying that although there are broad similarities with the presentation of symptoms for most long haulers, they aren't exactly the same and the causes will likely vary. For instance I am not convinced that kalium plays a part for everyone as I am convinced that it does for me. 
 
@@ -126,6 +154,10 @@ Since then I've dropped this medication but it was helpful to me early on. Fludr
 3. https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/cortisol.aspx _Oxford University Hospitals
 
 4. https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination _
+
+5. https://reddit.com/r/vaccinelonghaulers
+
+6. https://reddit.com/r/covidlonghaulers
 
 # Relevant quotes from each citation
 
