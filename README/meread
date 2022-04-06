@@ -9,3 +9,8 @@ Had to run gem install --user-install ffi -- --enable-libffi-alloc as per https:
 bundle exec jekyll serve
 
 ---------
+
+Note that the default markdown parser used by Jekyll is 'kramdown'.
+
+----------
+
