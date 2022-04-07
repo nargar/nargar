@@ -124,7 +124,7 @@ So seeing that my brain can still work under any conditions is a big deal to me.
 
 > My intention is to slowly add to this post, an exhaustive list of symptoms experienced by long haulers, studies, possible etiologies, possible treatments, and my own experiments and results. This will probably take some time, and I can only write this while medicated, adding further delay. 
 
-> Anything that worked for me will not necessarily work for the reader. Even though there are broad similarities in the presentation of symptoms between most long haulers they aren't the same and the causes will likely vary. I believe the variation in presentation depends on where we get injured. It's well documented that the spike protein causes endothelial dysfunction. [TODO: Refs] How this damage presents in the individual depends on where it occurs. If it's in the veins/around the kidney, it could cause dysfunction and symptoms related to renal impairment (which on its own, can be quite broad and confusing). Potentially some hypoxia and nerve damange could happen in the brain, with symptoms showing up in a variety of ways. This is why every stroke patient or patient with traumatic brain injury can present with just about any symptom under the sun. We're not all the same and the symptoms will depend on location, severity, and our body's response to the injury. 
+> Anything that worked for me will not necessarily work for the reader. Even though there are broad similarities in the presentation of symptoms between most long haulers they aren't the same and the causes will likely vary. I believe the variation in presentation depends on where we get injured. It's well documented that the spike protein causes endothelial dysfunction. [[14]](https://pubmed.ncbi.nlm.nih.gov/33360731/){:target="_blank"} How this damage presents in the individual depends on where it occurs. If it's in the veins/around the kidney, it could cause dysfunction and symptoms related to renal impairment (which on its own, can be quite broad and confusing). Potentially some hypoxia and nerve damage could happen in the brain, with symptoms showing up in a variety of ways. This is why every stroke patient or patient with traumatic brain injury can present with just about any symptom under the sun. We're not all the same and the symptoms will depend on location, severity, and our body's response to the injury. 
 
 # My own blood test results
 Early on in my illness I had several blood tests. Most of them were unremarkable. Liver function tests were normal, the majority of kidney tests including electrolytes and creatinine were normal. Lipids (total cholesterol, LDL, HDL, and triglycerides) were consistently under the reference range. Which is unspecific but consistent with hyperthyroidism. High cholesterol on the contrary is common in hypothyroidism. 
@@ -176,6 +176,9 @@ Since then I've dropped fludrocortisone but I still think it's worth noting. Flu
 12. https://www.cnbc.com/amp/2022/02/23/cdc-says-waiting-longer-between-pfizer-moderna-doses-may-reduce-myocarditis-risk.html 
 
 13. https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html _Symptoms of long covid, according to the CDC 
+
+14. https://pubmed.ncbi.nlm.nih.gov/33360731/ _Endothelial cell damage is the central part of COVID-19 and a mouse model induced by injection of the S1 subunit of the spike protein - TODO: Add studies here
+
 # Relevant quotes from each citation
 
 1. > The symptoms of high potassium depend on the level of the mineral in your blood. [...] if your potassium levels are high enough to cause symptoms, you *may* have: **tiredness** or **weakness**, a feeling of **numbness** or **tingling**, **nausea**,
@@ -216,6 +219,8 @@ symptoms following vaccination.
 12. > [According to the CDC, waiting longer between mRNA doses may reduce the risk of myocarditis]
 
 13. > Difficulty breathing or **shortness of breath**,**tiredness** or **fatigue**,**Symptoms** that get **worse after** physical or mental **activities**, **Difficulty thinking or concentrating** (sometimes referred to as “**brain fog**”), Cough, **Chest** or stomach **pain**, **Headache**, **Fast-beating or pounding heart** (also known as **heart palpitations**), **Joint** or **muscle pain**, **Pins-and-needles** feeling, Diarrhea, **Sleep problems**, Fever, **Dizziness on standing** (lightheadedness), Rash, **Mood changes**, Change in smell or taste, Changes in menstrual period cycles
+
+14. > **Endothelial cell damage** is the central part of COVID-19 and a mouse model induced by injection of the S1 subunit of the spike protein [...] The **S1 subunit localized to the endothelia of microvessels in the mice brain** and showed co-localization with caspase-3, **ACE2, IL6, TNFα**, and C5b-9. The surrounding neurons showed increased neuronal NOS and decreased MFSD2a. It is concluded that **ACE2+ endothelial damage is a central part of SARS-CoV2 pathology and may be induced by the spike protein alone**. Thus, the diagnostic pathologist can use either hematoxylin and eosin stain or immunohistochemistry for caspase 3 and ACE2 to document the endothelial cell damage of COVID-19.
 
 ---
 
