@@ -81,9 +81,9 @@ I shortly realised I would not be getting another job unless I'd find a solution
 
 In the weeks after my surgery some of the irritability and perhaps particularly agitation seemed to subside to a degree, but I still couldn't think, or exercise. I flew to the UK and spent more than half a year in London to give myself a change of scenery. I wanted to be able to focus on recovery without being reminded every day that I was no longer participating in society like my friends and colleagues, and that I was no longer with the girlfriend who I loved. In London I did some exploring, I tried weight-lifting, climbing, and running. Both lifting and running made my symptoms worse, and excessively long walks seemed bad for my cognition too. But on a positive note.. the restaurants in London are amazing. Particularly I liked the amount of Korean restaurants. We happen to have a shortage of those where I'm from. Amazon next-day delivery is pretty good too. 
 
-Earlier on I'd found people with symptoms identical to mine through youtube interviews, and eventually I'd got into the online support groups and communities. Some examples of people with post-vaccine long haul can beb found here. [YT: Kyle and srt]. It's been insightful to read about other peoples experiences to see the different (but largely similar) presentation of symptoms. It also helped to realise that although the reaction was rare, I was not alone in this. 
+Earlier on I'd found people with symptoms identical to mine through youtube interviews, and eventually I'd gotten into the online support groups and communities. I've added embedded YT videos of interviews with people with post-vaccine long haul down in the references [[15]](#vlh-1)[[16]](#vlh-2). It's been insightful to read about other peoples experiences to see the different (but largely similar) presentation of symptoms. It also helped me to realise that, although my reaction to the vaccine is rare, I am not alone in this. 
 
-After noting that some people in these groups tended to get worse with exercise, in some cases without returning to their new baseline of symptoms, I decided to take it easy with the exercise for the time being. It already seemed liketrying to power-through with the exercise was futile. 
+After noting that some people in these groups tended to get worse with exercise, in some cases without returning to their new baseline of symptoms, I decided to take it easy with the workouts for the time being. It already seemed like trying to power-through wasn't delivering much for me. 
 
 This brings us to today, the 6th of April 2022. 
 
@@ -177,6 +177,10 @@ Since then I've dropped fludrocortisone but I still think it's worth noting. Flu
 
 14. https://pubmed.ncbi.nlm.nih.gov/33360731/ _Endothelial cell damage is the central part of COVID-19 and a mouse model induced by injection of the S1 subunit of the spike protein - TODO: Add studies here
 
+15. https://www.youtube.com/watch?v=SobqUw7gqhs _I identify with his symptoms in particular.
+
+16. https://www.youtube.com/watch?v=H7inaTiDKaU _Kyle 
+
 # Relevant quotes from each citation
 
 1. > The symptoms of high potassium depend on the level of the mineral in your blood. [...] if your potassium levels are high enough to cause symptoms, you *may* have: **tiredness** or **weakness**, a feeling of **numbness** or **tingling**, **nausea**,
@@ -219,6 +223,10 @@ symptoms following vaccination.
 13. > Difficulty breathing or **shortness of breath**,**tiredness** or **fatigue**,**Symptoms** that get **worse after** physical or mental **activities**, **Difficulty thinking or concentrating** (sometimes referred to as “**brain fog**”), Cough, **Chest** or stomach **pain**, **Headache**, **Fast-beating or pounding heart** (also known as **heart palpitations**), **Joint** or **muscle pain**, **Pins-and-needles** feeling, Diarrhea, **Sleep problems**, Fever, **Dizziness on standing** (lightheadedness), Rash, **Mood changes**, Change in smell or taste, Changes in menstrual period cycles
 
 14. > **Endothelial cell damage** is the central part of COVID-19 and a mouse model induced by injection of the S1 subunit of the spike protein [...] The **S1 subunit localized to the endothelia of microvessels in the mice brain** and showed co-localization with caspase-3, **ACE2, IL6, TNFα**, and C5b-9. The surrounding neurons showed increased neuronal NOS and decreased MFSD2a. It is concluded that **ACE2+ endothelial damage is a central part of SARS-CoV2 pathology and may be induced by the spike protein alone**. Thus, the diagnostic pathologist can use either hematoxylin and eosin stain or immunohistochemistry for caspase 3 and ACE2 to document the endothelial cell damage of COVID-19.
+
+15. <iframe id="vlh-1" width="560" height="315" src="https://www.youtube.com/embed/SobqUw7gqhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+16. <iframe id="vlh-2" width="560" height="315" src="https://www.youtube.com/embed/H7inaTiDKaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
