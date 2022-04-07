@@ -6,13 +6,15 @@ I want to state here in the beginning that although I will start this post with 
 
 In summer 2021 I was running my own company with two of my friends, where I was working as a software consultant and developer. I was my own boss, I had a great girlfriend, and my company's biggest client (a sizeable Nordic hardware store chain) was impressed with the work we were doing for them, with VPs from abroad having shown interest in the software we were developing.
 
-Today (*6 April 2022*), I'm ~ten months into disabling illness. I'm not working, no longer with my girlfriend, not exercising, and nowhere close to being a functional human.  My health record before this was not perfect, I'd been dealing with some fatigue, but was doing well with ADHD treatment.
+Today (*6 April 2022*), I'm ~ten months into disabling illness. I'm not working, no longer with my girlfriend, not exercising, and nowhere close to being functional as a person. Before this I had been dealing with some fatigue, but was doing really well with ADHD treatment.
 
-The illness I'm struggling with now is a form of covid long haul. As many now know, covid can cause long-lasting issues in susceptible individuals. In some cases, the result, to date, is disability. It's less widely appreciated that the covid vaccines appear to cause a similar syndrome in some cases. Symptoms described in both disorders are near-identical. 
+The illness I'm struggling with is a form of PASC/Long Covid. As many now know, covid can cause long-lasting problems in susceptible individuals. In some cases, the present result is disability. It's less widely appreciated that the covid vaccines themselves appear to cause a similar syndrome for some. The set of symptoms described in both disorders is near-identical. 
 
-Both have support groups on facebook, and communities on reddit [[5]](https://reddit.com/r/vaccinelonghaulers)[[6]](https://reddit.com/r/covidlonghaulers). In addition to people describing the same set of symptoms for both covid- and vaccine long haul, a small sstudy has shown that a considerable proportion of covid long haulers get worse following vaccination. [TODO: Refs] This is in line with various covid long haul group polls which tend to show that roughly a third reports some improvement following vaccination, another third reports symptoms getting worse, and the rest reports no change in symptoms. Some have used dramatic wording when describing their deterioration following vaccination. [TODO: Refs] Anecdotally, it appears that vaccine long haulers often get much worse following a covid infection too. The quality of the reddit-pooled data is poor but I assume people are being honest about their symptoms. Given my own experience, this requires little stretch of the imagination. On top of this we are aware that vaccination following a covid infection in general, increases the likelihood of adverse events, as acknowledged by the CDC, [TODO: Refs]
+Both have support groups on facebook, and communities on reddit [[5]](https://reddit.com/r/vaccinelonghaulers){:target="_blank"}[[6]](https://reddit.com/r/covidlonghaulers){:target="_blank"}. In addition to people describing the same set of symptoms for both covid- and vaccine long haul, a small Japanese study has shown that a considerable proportion of covid long haulers get worse following vaccination.[[7]](https://onlinelibrary.wiley.com/doi/10.1002/jmv.27689){:target="_blank"} The people with the **highest antibody response post-vaccination** were the ones who **developed worse symptoms**, perhaps indicating an excessive immune response in this group. Various UK studies show **up to 31% of long covid patients developing worse symptoms after vaccination**.[[8]](https://ukhsa.koha-ptfs.co.uk/cgi-bin/koha/opac-retrieve-file.pl?id=fe4f10cd3cd509fe045ad4f72ae0dfff){:target="_blank"}.
 
-I'm for vaccination, but where there is (even a small) risk, there should be freedom of choice. Covid long haul patients should be informed about possible negative consequences of vaccination following long-haul. These adverse events are rare for the (mostly) safe and effective vaccines. But identifying some of the people at-risk may be possible, and worth doing. Professor Warren Tate, a ME/CFS specialist at the University of Otago in NZ has called for exemptions from vaccine mandates for some patients with ME/CFS, citing possible vulnerability to poor sequelae of vaccination. His sentiment is supported by preliminary data from a survey done by the ME/CFS society in NZ, showing a worsening of symptoms without return to baseline in a considerable proportion of patients. [[4]](https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination) 
+This is in line with various covid long haul group polls which tend to show that roughly a third of long haulers report some improvement following vaccination, another third describes symptoms getting worse worse, and the rest reports no change. Some have used dramatic wording when describing their deterioration following vaccination. [TODO: Refs] Anecdotally, it appears that vaccine long haulers often get much worse following a covid infection too. The quality of the reddit-pooled data is poor but I assume people are being honest about their symptoms. Given my own experience, this requires little stretch of the imagination. On top of this we are aware that vaccination following a covid infection in general, increases the likelihood of adverse events, as acknowledged by the CDC, [TODO: Refs]
+
+I'm for vaccination, but where there is (even a small) risk, there should be freedom of choice. Covid long haul patients should be informed about possible negative consequences of vaccination following long-haul. These adverse events are rare for the (mostly) safe and effective vaccines. But identifying some of the people at-risk may be possible, and worth doing. Professor Warren Tate, a ME/CFS specialist at the University of Otago in NZ has called for exemptions from vaccine mandates for some patients with ME/CFS, citing possible vulnerability to poor sequelae of vaccination. His sentiment is supported by preliminary data from a survey done by the ME/CFS society in NZ, showing a worsening of symptoms without return to baseline in a considerable proportion of patients. [[4]](https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination){:target="_blank"} 
 
 Intuitively it would seem to make sense to investigate this with autoimmune disorders in general. Part of the problem is that we are not good at collecting healthcare data. Many symptoms/disorders that can't be immediately identified and diagnosed are dismissed and not reported. We should actively collect and rely more on patient-reported symptoms. Not just for ME/CFS and adverse events to vaccinations, but also f.ex. for women experiencing problems with their menstrual cycle post-vaccination (and presumably post-covid). I can't claim to know that this is happening without data but we could do better with collecting data. 
 
@@ -102,9 +104,9 @@ Status today:
 - I **cannot concentrate at all**
 - I cannot live a normal life for the time being
 
-To add some tentative positivity to this, **in the past month, I've been able to have days where I can be productive. I can think, perform tasks, and I can write software**. This is a **huge deal**, as I've wondered for most of this time **whether my brain was totally gone**, the only way I had to explain my symptoms to anyone is I **feel like I've had severe stroke**, that's how impaired my thinking, life, and energy is.
+To add some tentative positivity to this, **in the past month, I've been able to have days where I can be productive. I can think, perform tasks, and I can write software**. This is a **huge deal**, as I've wondered for most of this time **whether my brain was totally gone**, the most suitable way I found to explain my symptoms to anyone is that I **feel like I've had a stroke**, that's how impaired my thinking feels.
 
-So seeing that this is still achievable is a big deal. *The caveat is that it's only possible with the help of medications, and they seem to put a great strain on my body. So I am hesitant to do this for extended periods, I only do this when I must get something done.* 
+So seeing that my brain can still work under any conditions is a big deal to me. *The caveat is that it's only possible with the help of medications, and they seem to put a great strain on my body. So I am hesitant to do this for extended periods, I only do this when I must get something done.* 
 
 **The rest of this post will go into blood tests and medications I've tried, some research I've done and my thoughts on it, as well as what I make of my future prospects. It might not be very interesting for anyone outside the 'Long Haul' community. Unless the reader is a big nerd.**
 
@@ -125,16 +127,16 @@ Early on I detected subclinical hyperthyroidism, with TSH entirely suppressed bu
 
 I had some discolouration of the skin on my chest and between my eyebrows (loss of colour) that persists but hasn't gotten worse. 
 
-My biggest worry was vaccine-induced autoimmunity, and thus I had the following tests: 
+I was most curious about vaccine-induced autoimmunity, and thus I had the following tests: 
 
 TPO antibodies (such as those seen in Hashimotos hypothyroidism and Graves) slightly elevated on 2 occasions, fine in another laboratory. ANCA antibodies present but not elevated (Lupus, often associated with kidney damage). RF slightly elevated. Anti-phospholipid antibodies present but not elevated, clotting factors all normal. ds-DNA (primarily associated with Lupus) also present but not elevated. ANA very low in the range.RF-IgG slightly elevated. Adrenal cortex antibodies not detected, making primary AI via autoimmmunity unlikely. 
 
-On numerous occasions since then I've tested my AM cortisol, and it consistently comes back at around 150-200 nmol/L, which is low-normal, and in the 'equivocal' range. [[3]](https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/cortisol.aspx). With both negative ACA and a synacthen stimulation test showing normal adrenal response to synthetic ACTH there's little to indicate overt adrenal insufficiency. Hydrocortisone supplementation (very low dose) has still been beneficial for my symptoms, including mood, joint pain, and general flare-ups. Doses that are too high seem to magnify my tinnitus. If I don't take any I seem to get worse joint pain, some itching, and worse cognitive symptoms. 
+On numerous occasions since then I've tested my AM cortisol, and it consistently comes back at around 150-200 nmol/L, which is low-normal, and in the 'equivocal' range. [[3]](https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/cortisol.aspx){:target="_blank"}. With both negative ACA and a synacthen stimulation test showing normal adrenal response to synthetic ACTH there's little to indicate overt adrenal insufficiency. Hydrocortisone supplementation (very low dose) has still been beneficial for my symptoms, including mood, joint pain, and general flare-ups. Doses that are too high seem to magnify my tinnitus. If I don't take any I seem to get worse joint pain, some itching, and worse cognitive symptoms. 
 
 I noted early on, shortly after June 2021, that many of my physical symptoms seemed to get worse with eating, in particular when I ate something containing **potassium**. Since I suspected that this was the case, I restricted my diet quite a bit which likely influenced the test results that followed. 
 
 Despite the interventions I made, '**hyperkalemia**' was detected on 3 occasions, with 3 additional tests showing kalium within the reference range range. The reason for testing potassium was that a lot of my early symptoms were consistent with hyperkalemia. Including **tiredness, weakness, numbness, tingling, nausea, shortness of breath, chest pain,** and **palpitations**
-[[1]](https://www.healthline.com/health/high-potassium-hyperkalemia#symptoms)
+[[1]](https://www.healthline.com/health/high-potassium-hyperkalemia#symptoms){:target="_blank"} 
 
 **Fludrocortisone was helpful** for me with managing these symptoms, up to 0.3mg/daily helped me not having to be as limited with my diet. I could eat some potassium without tingling/chest pain and palpitations coming on. If I stopped the medicine my sensitivity to these foods increased again. 
 
@@ -156,6 +158,10 @@ Since then I've dropped fludrocortisone but I still think it's worth noting. Flu
 
 6. https://reddit.com/r/covidlonghaulers
 
+7. https://onlinelibrary.wiley.com/doi/10.1002/jmv.27689 _Journal of Medical Virology, authors from St. Marianna University School of Medicine, Kawasaki, Kanagawa, Japan
+
+8. https://ukhsa.koha-ptfs.co.uk/cgi-bin/koha/opac-retrieve-file.pl?id=fe4f10cd3cd509fe045ad4f72ae0dfff _UK Health Security Agency, 2022
+
 # Relevant quotes from each citation
 
 1. > The symptoms of high potassium depend on the level of the mineral in your blood. [...] if your potassium levels are high enough to cause symptoms, you *may* have: **tiredness** or **weakness**, a feeling of **numbness** or **tingling**, **nausea**,
@@ -168,6 +174,24 @@ Since then I've dropped fludrocortisone but I still think it's worth noting. Flu
 3. > [...]In adult patients who are not on steroid treatment, 9 a.m. cortisol <100 nmol/L suggests adrenal insufficiency, **9 a.m. cortisol >400 nmol/L makes adrenal insufficiency unlikely**, - For 9 a.m. cortisol of **100-400, consider a short synacthen test**
 
 4. > Expert **says some chronic fatigue syndrome sufferers should be exempt from Covid-19 vaccination** "**University of Otago's Emeritus Professor Warren Tate** says he is aware of serious reactions triggered by the Pfizer vaccine in several people who have the condition. He believes some of those with the disease **shouldn't be expected to be vaccinated**." Preliminary findings of a **survey of ME/CFS sufferers and those with Long Covid**, carried out by the **Associated New Zealand ME Society** (ANZMES), found **nearly 20 percent of the 359 survey participants had experienced a relapse, with worsened symptoms that had not returned to baseline, after taking the Pfizer vaccine**. The findings will be submitted to the Immunisation Advisory Centre (Imac) and the Ministry. Tate has also submitted data to Imac over his concerns.
+
+5. Vaccine long hauler community on reddit
+
+6. Covid long hauler community on reddit
+
+7. > Relationship between changes in **symptoms** and antibody titers after a **single vaccination** in **patients with Long COVID** This study evaluated **post-vaccination changes in symptoms** and antibody titers **in patients with Long COVID**. Patients visiting the outpatient department specializing in Long COVID at our hospital were enrolled. Changes in **symptoms** were **evaluated before** and **14–21 days after** first **vaccination**. Antibody titers were measured using ARCHITECT SARS-CoV-2 IgG II Quant at the same time. This study included **42 patients** [...] **Post-vaccination symptoms** (**fatigue, joint pain**, and taste and olfactory abnormalities) were **relieved**, **worsened**, and **unchanged** in 7 (**16.7%**), 9 (**21.4%**), and 26 (**61.9%**) patients, respectively. Ratios of pre- and post-vaccination antibody titers were 53, 40, and 174 in the unchanged, relief, and worsened groups, respectively. **The worsened group had the significantly highest antibody titer ratio** (p = 0.02). The higher increased rate of the antibody titer in the worsened group than in the non-worsened group suggests an **excessive immune response to vaccination associated with worsening of sequelae**. Although patients with Long COVID should be vaccinated, additional concerns should be addressed.
+
+8. > An online survey by Scherlinger et al [...] asked Frenchspeaking adults with post-acute sequelae of COVID-19 (PASC, persistent symptoms lasting >4 weeks after probable or confirmed COVID-19 infection and no alternative diagnosis to explain the symptoms) whether their symptoms improved or worsened following vaccination
+(Pfizer [78%], Moderna [16%], AstraZeneca [4%]) (20). The survey was completed by **567 respondents** (median age 44 years, 83% women) in August 2021, 64% of participants had a confirmed COVID-19 infection, 25% had one vaccine dose and 45% had 2 vaccine doses. Symptoms of PASC included fever or chills, fatigue, brain fog, headaches, changing mood or impact on morale, sleeping issues, costal pain, dyspnoea, cough, palpitations, muscle aches, joint pain, paraesthesia or tingling, anosmia or ageusia, diarrhoea or vomiting, spontaneous bruises, and pruritus. • Of the 380 participants who reported long COVID at the time of vaccination, 117
+**(31%) reported a global worsening of symptoms** (including fever/chills [74%],
+**gastrointestinal** symptoms [70%], **paraesthesia** [64%] and **arthralgia** [63%]),
+whereas 83 (21.8%) reported a global improvement in symptoms (including
+anosmia [62%] and brain fog [51%]), and 179 (47%) reported no change in
+symptoms following vaccination.
+[...]
+**There was little evidence of differences in results between vaccine types (p=0.60)**
+[...]
+[Another UK survey specified showed 23.2% improved vs. 15.4% worse]
 
 ---
 
