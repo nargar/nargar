@@ -10,15 +10,15 @@ Today (*6 April 2022*), I'm ~ten months into disabling illness. I'm not working,
 
 The illness I'm struggling with is a form of PASC/Long Covid. As many now know, covid can cause long-lasting problems in susceptible individuals. In some cases, the present result is disability. It's less widely appreciated that the covid vaccines themselves appear to cause a similar syndrome for some. The set of symptoms described in both disorders is near-identical. 
 
-Both have support groups on facebook, and communities on reddit [[5]](https://reddit.com/r/vaccinelonghaulers){:target="_blank"}[[6]](https://reddit.com/r/covidlonghaulers){:target="_blank"}. In addition to people describing the same set of symptoms for both covid- and vaccine long haul, a small Japanese study has shown that a considerable proportion of covid long haulers get worse following vaccination [[7]](https://onlinelibrary.wiley.com/doi/10.1002/jmv.27689){:target="_blank"}. The people with the **highest antibody response post-vaccination** were the ones who **developed worse symptoms**, perhaps indicating an excessive immune response in this group. Various UK studies show **up to 31% of long covid patients developing worse symptoms after vaccination** [[8]](https://ukhsa.koha-ptfs.co.uk/cgi-bin/koha/opac-retrieve-file.pl?id=fe4f10cd3cd509fe045ad4f72ae0dfff){:target="_blank"}.
+Both have support groups on facebook, and communities on reddit [[5]](https://reddit.com/r/vaccinelonghaulers){:target="_blank"}[[6]](https://reddit.com/r/covidlonghaulers){:target="_blank"}. In addition to people describing the same set of symptoms for both covid- and vaccine long haul, a small Japanese study has shown that a considerable proportion of covid long haulers get worse following vaccination [[7]](https://onlinelibrary.wiley.com/doi/10.1002/jmv.27689){:target="_blank" data-targ=".citation-7-highlights" class="trigger-modal"}. The people with the **highest antibody response post-vaccination** were the ones who **developed worse symptoms**, perhaps indicating an excessive immune response in this group. Various UK studies show **up to 31% of long covid patients developing worse symptoms after vaccination** [[8]](https://ukhsa.koha-ptfs.co.uk/cgi-bin/koha/opac-retrieve-file.pl?id=fe4f10cd3cd509fe045ad4f72ae0dfff){:target="_blank" data-targ=".citation-8-highlights" class="trigger-modal"}.
 
 This is in line with various covid long haul group polls which tend to show that roughly a third of long haulers report some improvement following vaccination, another third describes symptoms getting worse worse, and the rest reports no change. 
 
-It's important to note (and this is often missed in studies) that some people use very dramatic wording when describing their deterioration following vaccination. So it's not just '31% got slightly worse symptoms', it's 31% got worse and a subset possibly got dramatically worse [[9]](https://www.reddit.com/r/covidlonghaulers/comments/nk05qh/so_am_i_the_only_one_not_feeling_better_after_the/){:target="_blank"}[[10]](https://www.reddit.com/r/covidlonghaulers/comments/thdoia/the_vaccine_made_me_worse/ _a){:target="_blank"}. **Many commenters** (with a fair share of upvotes) **describe their post-vaccination symptoms being much worse than they ever were post-covid**. To try to stay unbiased here, some long haulers do describe improvements post-vaccination, but the nature of the deteroriation experienced by many makes vaccinating these people without informed consent highly unethical. We do not know when or whether they will recover from these symptoms. Anecdotally, vaccine long haulers often get worse following a covid infection too. The quality of the reddit-pooled data is poor but I assume people are being honest about their symptoms. Given my own experience, this requires little stretch of the imagination.
+It's important to note (and this is often missed in studies) that some people use very dramatic wording when describing their deterioration following vaccination. So it's not just '31% got slightly worse symptoms', it's 31% got worse and a subset possibly got dramatically worse [[9]](https://www.reddit.com/r/covidlonghaulers/comments/nk05qh/so_am_i_the_only_one_not_feeling_better_after_the/){:target="_blank" data-targ=".citation-9-highlights" class="trigger-modal"}[[10]](https://www.reddit.com/r/covidlonghaulers/comments/thdoia/the_vaccine_made_me_worse/){:target="_blank" data-targ=".citation-10-highlights" class="trigger-modal"}. **Many commenters** (with a fair share of upvotes) **describe their post-vaccination symptoms being much worse than they ever were post-covid**. To try to stay unbiased here, some long haulers do describe improvements post-vaccination, but the nature of the deteroriation experienced by many makes vaccinating these people without informed consent highly unethical. We do not know when or whether they will recover from these symptoms. Anecdotally, vaccine long haulers often get worse following a covid infection too. The quality of the reddit-pooled data is poor but I assume people are being honest about their symptoms. Given my own experience, this requires little stretch of the imagination.
 
- A nationwide, retrospective cohort study in the US showed that patients who were **vaccinated after a prior covid infection had increased risk of hospitalisation** by a factor of **2.76** [[11]](https://www.sciencedirect.com/science/article/pii/S0264410X22000512){:target="_blank"}. It's worth noting that this misses possible complications such as long haul, which in general does not lead to immediate hospitalissation. It's also worth noting that CDC acknowledges that waiting longer between mRNA doses may reduce the risk of myocarditis. It stands to reason that the same might apply for covid infection [[12]](https://www.cnbc.com/amp/2022/02/23/cdc-says-waiting-longer-between-pfizer-moderna-doses-may-reduce-myocarditis-risk.html){:target="_blank"}.
+ A nationwide, retrospective cohort study in the US showed that patients who were **vaccinated after a prior covid infection had increased risk of hospitalisation** by a factor of **2.76** [[11]](https://www.sciencedirect.com/science/article/pii/S0264410X22000512){:target="_blank" data-targ=".citation-11-highlights" class="trigger-modal"}. It's worth noting that this misses possible complications such as long haul, which in general does not lead to immediate hospitalissation. It's also worth noting that CDC acknowledges that waiting longer between mRNA doses may reduce the risk of myocarditis. It stands to reason that the same might apply for covid infection [[12]](https://www.cnbc.com/amp/2022/02/23/cdc-says-waiting-longer-between-pfizer-moderna-doses-may-reduce-myocarditis-risk.html){:target="_blank" data-targ=".citation-12-highlights" class="trigger-modal"}.
 
-I'm for vaccination, but where there is (even a small) risk, there should be freedom of choice. Covid long haul patients should be informed about possible negative consequences of vaccination following long-haul. These adverse events are rare for the (mostly) safe and effective vaccines. But identifying some of the people at-risk may be possible, and worth doing. Professor Warren Tate, a ME/CFS specialist at the University of Otago in NZ has called for exemptions from vaccine mandates for some patients with ME/CFS, citing possible vulnerability to poor sequelae of vaccination. His sentiment is supported by preliminary data from a survey done by the ME/CFS society in NZ, showing a worsening of symptoms without return to baseline in a considerable proportion of patients [[4]](https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination){:target="_blank"}.
+I'm for vaccination, but where there is (even a small) risk, there should be freedom of choice. Covid long haul patients should be informed about possible negative consequences of vaccination following long-haul. These adverse events are rare for the (mostly) safe and effective vaccines. But identifying some of the people at-risk may be possible, and worth doing. Professor Warren Tate, a ME/CFS specialist at the University of Otago in NZ has called for exemptions from vaccine mandates for some patients with ME/CFS, citing possible vulnerability to poor sequelae of vaccination. His sentiment is supported by preliminary data from a survey done by the ME/CFS society in NZ, showing a worsening of symptoms without return to baseline in a considerable proportion of patients [[4]](https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination){:target="_blank" data-targ=".citation-4-highlights" class="trigger-modal"}.
 
 Intuitively it would seem to make sense to investigate this with autoimmune disorders in general. Part of the problem is that we are not good at collecting healthcare data. Many symptoms/disorders that can't be immediately identified and diagnosed are dismissed and not reported. We should actively collect and rely more on patient-reported symptoms. Not just for ME/CFS and adverse events to vaccinations, but also f.ex. for women experiencing problems with their menstrual cycle post-vaccination (and presumably post-covid). I can't claim to know that this is happening without data but we could do better with collecting data. 
 
@@ -81,7 +81,7 @@ I shortly realised I would not be getting another job unless I'd find a solution
 
 In the weeks after my surgery some of the irritability and perhaps particularly agitation seemed to subside to a degree, but I still couldn't think, or exercise. I flew to the UK and spent more than half a year in London to give myself a change of scenery. I wanted to be able to focus on recovery without being reminded every day that I was no longer participating in society like my friends and colleagues, and that I was no longer with the girlfriend who I loved. In London I did some exploring, I tried weight-lifting, climbing, and running. Both lifting and running made my symptoms worse, and excessively long walks seemed bad for my cognition too. But on a positive note.. the restaurants in London are amazing. Particularly I liked the amount of Korean restaurants. We happen to have a shortage of those where I'm from. Amazon next-day delivery is pretty good too. 
 
-Earlier on I'd found people with symptoms identical to mine through youtube interviews, and eventually I'd gotten into the online support groups and communities. I've added embedded YT videos of interviews with people with post-vaccine long haul down in the references [[15]](#vlh-1)[[16]](#vlh-2). It's been insightful to read about other peoples experiences to see the different (but largely similar) presentation of symptoms. It also helped me to realise that, although my reaction to the vaccine is rare, I am not alone in this. 
+Earlier on I'd found people with symptoms identical to mine through youtube interviews, and eventually I'd gotten into the online support groups and communities. I've added embedded YT videos of interviews with people with post-vaccine long haul down in the references [[15]](#vlh-1){:class="trigger-modal" data-targ=".citation-15-highlights"}[[16]](#vlh-2){:class="trigger-modal" data-targ=".citation-16-highlights"}. It's been insightful to read about other peoples experiences to see the different (but largely similar) presentation of symptoms. It also helped me to realise that, although my reaction to the vaccine is rare, I am not alone in this. 
 
 After noting that some people in these groups tended to get worse with exercise, in some cases without returning to their new baseline of symptoms, I decided to take it easy with the workouts for the time being. It already seemed like trying to power-through wasn't delivering much for me. 
 
@@ -106,7 +106,7 @@ Status today:
 - I **cannot concentrate at all**
 - I cannot live a normal life for the time being
 
-It may be interesting at this point to compare my list of symptoms with the symptoms of covid long haul as described by the CDC [[13]](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank"}. My symptoms align fairly well with other long haulers. Largely the symptoms could be split up into 'neurological, cardiovascular, and dysautonomia (neuro again)'. These are broadly the symptom categories all long haulers deal with, how much each category weighs for any given person varies greatly. 
+It may be interesting at this point to compare my list of symptoms with the symptoms of covid long haul as described by the CDC [[13]](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank" data-targ=".citation-13-highlights" class="trigger-modal"}. My symptoms align fairly well with other long haulers. Largely the symptoms could be split up into 'neurological, cardiovascular, and dysautonomia (neuro again)'. These are broadly the symptom categories all long haulers deal with, how much each category weighs for any given person varies greatly. 
 
 To add some tentative positivity to this, **in the past month, I've been able to have days where I can be productive. I can think, perform tasks, and I can write software**. This is a **huge deal**, as I've wondered for most of this time **whether my brain was totally gone**, the most suitable way I found to explain my symptoms to anyone is that I **feel like I've had a stroke**, that's how impaired my thinking feels.
 
@@ -122,7 +122,7 @@ So seeing that my brain can still work under any conditions is a big deal to me.
 
 > My intention is to slowly add to this post, an exhaustive list of symptoms experienced by long haulers, studies, possible etiologies, possible treatments, and my own experiments and results. This will probably take some time, and I can only write this while medicated, adding further delay. 
 
-> Anything that worked for me will not necessarily work for the reader. Even though there are broad similarities in the presentation of symptoms between most long haulers they aren't the same and the causes will likely vary. I believe the variation in presentation depends on where we get injured. It's well documented that the spike protein causes endothelial dysfunction. [[14]](https://pubmed.ncbi.nlm.nih.gov/33360731/){:target="_blank"} How this damage presents in the individual depends on where it occurs. If it's in the veins/around the kidney, it could cause dysfunction and symptoms related to renal impairment (which on its own, can be quite broad and confusing). Potentially some hypoxia and nerve damage could happen in the brain, with symptoms showing up in a variety of ways. This is why every stroke patient or patient with traumatic brain injury can present with just about any symptom under the sun. We're not all the same and the symptoms will depend on location, severity, and our body's response to the injury. 
+> Anything that worked for me will not necessarily work for the reader. Even though there are broad similarities in the presentation of symptoms between most long haulers they aren't the same and the causes will likely vary. I believe the variation in presentation depends on where we get injured. It's well documented that the spike protein causes endothelial dysfunction [[14]](https://pubmed.ncbi.nlm.nih.gov/33360731/){:target="_blank" data-targ=".citation-14-highlights" class="trigger-modal"}. How this damage presents in the individual depends on where it occurs. If it's in the veins/around the kidney, it could cause dysfunction and symptoms related to renal impairment (which on its own, can be quite broad and confusing). Potentially some hypoxia and nerve damage could happen in the brain, with symptoms showing up in a variety of ways. This is why every stroke patient or patient with traumatic brain injury can present with just about any symptom under the sun. We're not all the same and the symptoms will depend on location, severity, and our body's response to the injury. 
 
 # My own blood test results
 Early on in my illness I had several blood tests. Most of them were unremarkable. Liver function tests were normal, the majority of kidney tests including electrolytes and creatinine were normal. Lipids (total cholesterol, LDL, HDL, and triglycerides) were consistently under the reference range. Which is unspecific but consistent with hyperthyroidism. High cholesterol on the contrary is common in hypothyroidism. 
@@ -135,74 +135,96 @@ I was most curious about vaccine-induced autoimmunity, and thus I had the follow
 
 TPO antibodies (such as those seen in Hashimotos hypothyroidism and Graves) slightly elevated on 2 occasions, fine in another laboratory. ANCA antibodies present but not elevated (Lupus, often associated with kidney damage). RF slightly elevated. Anti-phospholipid antibodies present but not elevated, clotting factors all normal. ds-DNA (primarily associated with Lupus) also present but not elevated. ANA very low in the range.RF-IgG slightly elevated. Adrenal cortex antibodies not detected, making primary AI via autoimmmunity unlikely. 
 
-On numerous occasions since then I've tested my AM cortisol, and it consistently comes back at around 150-200 nmol/L, which is low-normal, and in the 'equivocal' range [[3]](https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/cortisol.aspx){:target="_blank"}. With both negative ACA and a synacthen stimulation test showing normal adrenal response to synthetic ACTH there's little to indicate overt adrenal insufficiency. Hydrocortisone supplementation (very low dose) has still been beneficial for my symptoms, including mood, joint pain, and general flare-ups. Doses that are too high seem to magnify my tinnitus. If I don't take any I seem to get worse joint pain, some itching, and worse cognitive symptoms. 
+On numerous occasions since then I've tested my AM cortisol, and it consistently comes back at around 150-200 nmol/L, which is low-normal, and in the 'equivocal' range [[3]](https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/cortisol.aspx){:target="_blank" data-targ=".citation-3-highlights" class="trigger-modal"}. With both negative ACA and a synacthen stimulation test showing normal adrenal response to synthetic ACTH there's little to indicate overt adrenal insufficiency. Hydrocortisone supplementation (very low dose) has still been beneficial for my symptoms, including mood, joint pain, and general flare-ups. Doses that are too high seem to magnify my tinnitus. If I don't take any I seem to get worse joint pain, some itching, and worse cognitive symptoms. 
 
 I noted early on, shortly after June 2021, that many of my physical symptoms seemed to get worse with eating, in particular when I ate something containing **potassium**. Since I suspected that this was the case, I restricted my diet quite a bit which likely influenced the test results that followed. 
 
-Despite the interventions I made, '**hyperkalemia**' was detected on 3 occasions, with 3 additional tests showing kalium within the reference range range. The reason for testing potassium was that a lot of my early symptoms were consistent with hyperkalemia. Including **tiredness, weakness, numbness, tingling, nausea, shortness of breath, chest pain,** and **palpitations** [[1]](https://www.healthline.com/health/high-potassium-hyperkalemia#symptoms){:target="_blank"}.
+Despite the interventions I made, '**hyperkalemia**' was detected on 3 occasions, with 3 additional tests showing kalium within the reference range range. The reason for testing potassium was that a lot of my early symptoms were consistent with hyperkalemia. Including **tiredness, weakness, numbness, tingling, nausea, shortness of breath, chest pain,** and **palpitations** [[1]](https://www.healthline.com/health/high-potassium-hyperkalemia#symptoms){:target="_blank" data-targ=".citation-1-highlights" class="trigger-modal"}.
 
 **Fludrocortisone was helpful** for me with managing these symptoms, up to 0.3mg/daily helped me not having to be as limited with my diet. I could eat some potassium without tingling/chest pain and palpitations coming on. If I stopped the medicine my sensitivity to these foods increased again. 
 
 In addition to the hyperkalemia described above I also had a urine test that was slightly alkaline, which could indicate a compensatory mechanism for a state of acidosis.  
 
-Since then I've dropped fludrocortisone but I still think it's worth noting. Fludrocortisone is typically used for adrenal insufficiency (primary), to replace aldosterone. It increases sodium retention and decreases potassium, having only a mild alkolytic effect if potassium depletion is prevented (extrapolating from aldosterone suppl. result) [[2]](https://jasn.asnjournals.org/content/11/2/369). It's also sometimes used off-label to treat orthostatic hypotension, which is a common complaint among long haulers [[13]](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank"}.
+Since then I've dropped fludrocortisone but I still think it's worth noting. Fludrocortisone is typically used for adrenal insufficiency (primary), to replace aldosterone. It increases sodium retention and decreases potassium, having only a mild alkolytic effect if potassium depletion is prevented (extrapolating from aldosterone suppl. result) [[2]](https://jasn.asnjournals.org/content/11/2/369){:target="_blank" data-targ=".citation-2-highlights" class="trigger-modal"}. It's also sometimes used off-label to treat orthostatic hypotension, which is a common complaint among long haulers [[13]](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank" data-targ=".citation-13-highlights" class="trigger-modal"}.
 
 
 
 # References:
-(See below for relevant quotes)
-1. https://www.healthline.com/health/high-potassium-hyperkalemia#symptoms
+1. Hyperkalemia (High Potassium): Symptoms, Causes, Treatment. Accessed April 7, 2022. https://www.healthline.com/health/high-potassium-hyperkalemia#symptoms
+    {: .citation-1-title }
 
-2. https://jasn.asnjournals.org/content/11/2/369 _Journal of the American Society of Nephrology, 2000
+2. Metabolic Alkalosis \| American Society of Nephrology. Accessed April 7, 2022. https://jasn.asnjournals.org/content/11/2/369
+    {: .citation-2-title }
 
-3. https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/cortisol.aspx _Oxford University Hospitals
+3. Cortisol - Clinical Biochemistry. Accessed April 7, 2022. https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/cortisol.aspx
+    {: .citation-3-title }
 
-4. https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination _
+4. Expert says some chronic fatigue syndrome sufferers should be exempt from Covid-19 vaccination \| RNZ News. Accessed April 7, 2022. https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination
+    {: .citation-4-title }
 
 5. https://reddit.com/r/vaccinelonghaulers
+    {: .citation-5-title }
 
 6. https://reddit.com/r/covidlonghaulers
+    {: .citation-6-title }
 
-7. https://onlinelibrary.wiley.com/doi/10.1002/jmv.27689 _Journal of Medical Virology, authors from St. Marianna University School of Medicine, Kawasaki, Kanagawa, Japan
+7. Relationship between changes in symptoms and antibody titers after a single vaccination in patients with Long COVID \- Tsuchida \- Journal of Medical Virology \- Wiley Online Library. Accessed April 7, 2022. https://onlinelibrary.wiley.com/doi/10.1002/jmv.27689
+    {: .citation-7-title }
 
-8. https://ukhsa.koha-ptfs.co.uk/cgi-bin/koha/opac-retrieve-file.pl?id=fe4f10cd3cd509fe045ad4f72ae0dfff _UK Health Security Agency, 2022
+8. Details for: The effectiveness of vaccination against long COVID: A rapid evidence briefing › UK Health Security Agency catalogue. Accessed April 7, 2022. https://ukhsa.koha-ptfs.co.uk/cgi-bin/koha/opac-detail.pl?biblionumber=64359
+    {: .citation-8-title }
 
-9. https://www.reddit.com/r/covidlonghaulers/comments/nk05qh/so_am_i_the_only_one_not_feeling_better_after_the/ _anecdotal covid long hauler experiences after vaccination
+9. So... am I the only one NOT feeling better after the vaccine? : covidlonghaulers. Accessed April 7, 2022. https://www.reddit.com/r/covidlonghaulers/comments/nk05qh/so_am_i_the_only_one_not_feeling_better_after_the/
+    {: .citation-9-title }
 
-10. https://www.reddit.com/r/covidlonghaulers/comments/thdoia/the_vaccine_made_me_worse/ _anecdotal covid long hauler experiences with vaccination
+10. The vaccine made me worse!!!! : covidlonghaulers. Accessed April 7, 2022. https://www.reddit.com/r/covidlonghaulers/comments/thdoia/the_vaccine_made_me_worse/
+    {: .citation-10-title }
 
-11. https://www.sciencedirect.com/science/article/pii/S0264410X22000512 _Impact of prior SARS-CoV-2 infection on incidence of hospitalization and adverse events following mRNA SARS-CoV-2 vaccination: A nationwide, retrospective cohort study
+11. Li LL, Zheng C, La J, et al. Impact of prior SARS-CoV-2 infection on incidence of hospitalization and adverse events following mRNA SARS-CoV-2 vaccination: A nationwide, retrospective cohort study. Vaccine. 2022;40(8):1082-1089. doi:10.1016/j.vaccine.2022.01.026
+    {: .citation-11-title }
 
-12. https://www.cnbc.com/amp/2022/02/23/cdc-says-waiting-longer-between-pfizer-moderna-doses-may-reduce-myocarditis-risk.html 
+12. CDC says waiting longer between Pfizer, Moderna doses may reduce myocarditis risk. Accessed April 7, 2022. https://www.cnbc.com/amp/2022/02/23/cdc-says-waiting-longer-between-pfizer-moderna-doses-may-reduce-myocarditis-risk.html
+    {: .citation-12-title }
 
-13. https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html _Symptoms of long covid, according to the CDC 
+13. Post-COVID Conditions \| CDC. Accessed April 7, 2022. https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html
+    {: .citation-13-title }
 
-14. https://pubmed.ncbi.nlm.nih.gov/33360731/ _Endothelial cell damage is the central part of COVID-19 and a mouse model induced by injection of the S1 subunit of the spike protein - TODO: Add studies here
 
-15. https://www.youtube.com/watch?v=SobqUw7gqhs _I identify with his symptoms in particular.
+14. Nuovo GJ, Magro C, Shaffer T, et al. Endothelial cell damage is the central part of COVID-19 and a mouse model induced by injection of the S1 subunit of the spike protein. Ann Diagn Pathol. 2021;51:151682. doi:10.1016/j.anndiagpath.2020.151682
+ TODO: Add studies here
+    {: .citation-14-title }
 
-16. https://www.youtube.com/watch?v=H7inaTiDKaU _Kyle 
+15. https://www.youtube.com/watch?v=SobqUw7gqhs = Vaccine long hauler, healthcare worker
+    {: .citation-15-title }
+
+16. https://www.youtube.com/watch?v=H7inaTiDKaU - Vaccine long hauler, cyclist
+    {: .citation-16-title }
 
 # Relevant quotes from each citation
 
-1. > The symptoms of high potassium depend on the level of the mineral in your blood. [...] if your potassium levels are high enough to cause symptoms, you *may* have: **tiredness** or **weakness**, a feeling of **numbness** or **tingling**, **nausea**,
-**trouble breathing**, **chest pain**, **palpitations** [...]
+1. > "The symptoms of high potassium depend on the level of the mineral in your blood. [...] if your potassium levels are high enough to cause symptoms, you *may* have: **tiredness** or **weakness**, a feeling of **numbness** or **tingling**, **nausea**,
+**trouble breathing**, **chest pain**, **palpitations**" 
+    {: .citation-1-highlights }
 
 
-2. > **Dietary potassium depletion** is **associated with modest metabolic alkalosis** and with an **increase in intracellular sodium** and proton concentrations and suppression of aldosterone (27,28). Metabolic alkalosis is generated primarily by an intracellular shift of protons. However, potassium depletion is also associated with enhanced renal ammonia production, and a contribution of increased net acid excretion has not been excluded in humans (29,30). Similarly, **administration of aldosterone causes only a slight degree of metabolic alkalosis if potassium depletion is prevented** (31).
+2. > "**Dietary potassium depletion** is **associated with modest metabolic alkalosis** and with an **increase in intracellular sodium** and proton concentrations and suppression of aldosterone (27,28). Metabolic alkalosis is generated primarily by an intracellular shift of protons. However, potassium depletion is also associated with enhanced renal ammonia production, and a contribution of increased net acid excretion has not been excluded in humans (29,30). Similarly, **administration of aldosterone causes only a slight degree of metabolic alkalosis if potassium depletion is prevented** (31)"
+    {: .citation-2-highlights }
 
 
-3. > [...]In adult patients who are not on steroid treatment, 9 a.m. cortisol <100 nmol/L suggests adrenal insufficiency, **9 a.m. cortisol >400 nmol/L makes adrenal insufficiency unlikely**, - For 9 a.m. cortisol of **100-400, consider a short synacthen test**
+3. > "In adult patients who are not on steroid treatment, 9 a.m. cortisol <100 nmol/L suggests adrenal insufficiency, **9 a.m. cortisol >400 nmol/L makes adrenal insufficiency unlikely**, - For 9 a.m. cortisol of **100-400, consider a short synacthen test**"
+    {: .citation-3-highlights }
 
-4. > Expert **says some chronic fatigue syndrome sufferers should be exempt from Covid-19 vaccination** "**University of Otago's Emeritus Professor Warren Tate** says he is aware of serious reactions triggered by the Pfizer vaccine in several people who have the condition. He believes some of those with the disease **shouldn't be expected to be vaccinated**." Preliminary findings of a **survey of ME/CFS sufferers and those with Long Covid**, carried out by the **Associated New Zealand ME Society** (ANZMES), found **nearly 20 percent of the 359 survey participants had experienced a relapse, with worsened symptoms that had not returned to baseline, after taking the Pfizer vaccine**. The findings will be submitted to the Immunisation Advisory Centre (Imac) and the Ministry. Tate has also submitted data to Imac over his concerns.
+4. > "Expert **says some chronic fatigue syndrome sufferers should be exempt from Covid-19 vaccination** "**University of Otago's Emeritus Professor Warren Tate** says he is aware of serious reactions triggered by the Pfizer vaccine in several people who have the condition. He believes some of those with the disease **shouldn't be expected to be vaccinated**." Preliminary findings of a **survey of ME/CFS sufferers and those with Long Covid**, carried out by the **Associated New Zealand ME Society** (ANZMES), found **nearly 20 percent of the 359 survey participants had experienced a relapse, with worsened symptoms that had not returned to baseline, after taking the Pfizer vaccine**. The findings will be submitted to the Immunisation Advisory Centre (Imac) and the Ministry. Tate has also submitted data to Imac over his concerns."
+    {: .citation-4-highlights }
 
 5. Vaccine long hauler community on reddit
 
 6. Covid long hauler community on reddit
 
-7. > Relationship between changes in **symptoms** and antibody titers after a **single vaccination** in **patients with Long COVID** This study evaluated **post-vaccination changes in symptoms** and antibody titers **in patients with Long COVID**. Patients visiting the outpatient department specializing in Long COVID at our hospital were enrolled. Changes in **symptoms** were **evaluated before** and **14–21 days after** first **vaccination**. Antibody titers were measured using ARCHITECT SARS-CoV-2 IgG II Quant at the same time. This study included **42 patients** [...] **Post-vaccination symptoms** (**fatigue, joint pain**, and taste and olfactory abnormalities) were **relieved**, **worsened**, and **unchanged** in 7 (**16.7%**), 9 (**21.4%**), and 26 (**61.9%**) patients, respectively. Ratios of pre- and post-vaccination antibody titers were 53, 40, and 174 in the unchanged, relief, and worsened groups, respectively. **The worsened group had the significantly highest antibody titer ratio** (p = 0.02). The higher increased rate of the antibody titer in the worsened group than in the non-worsened group suggests an **excessive immune response to vaccination associated with worsening of sequelae**. Although patients with Long COVID should be vaccinated, additional concerns should be addressed.
+7. > "Relationship between changes in **symptoms** and antibody titers after a **single vaccination** in **patients with Long COVID** This study evaluated **post-vaccination changes in symptoms** and antibody titers **in patients with Long COVID**. Patients visiting the outpatient department specializing in Long COVID at our hospital were enrolled. Changes in **symptoms** were **evaluated before** and **14–21 days after** first **vaccination**. Antibody titers were measured using ARCHITECT SARS-CoV-2 IgG II Quant at the same time. This study included **42 patients** [...] **Post-vaccination symptoms** (**fatigue, joint pain**, and taste and olfactory abnormalities) were **relieved**, **worsened**, and **unchanged** in 7 (**16.7%**), 9 (**21.4%**), and 26 (**61.9%**) patients, respectively. Ratios of pre- and post-vaccination antibody titers were 53, 40, and 174 in the unchanged, relief, and worsened groups, respectively. **The worsened group had the significantly highest antibody titer ratio** (p = 0.02). The higher increased rate of the antibody titer in the worsened group than in the non-worsened group suggests an **excessive immune response to vaccination associated with worsening of sequelae**. Although patients with Long COVID should be vaccinated, additional concerns should be addressed."
+    {: .citation-7-highlights }
 
-8. > An online survey by Scherlinger et al [...] asked Frenchspeaking adults with post-acute sequelae of COVID-19 (PASC, persistent symptoms lasting >4 weeks after probable or confirmed COVID-19 infection and no alternative diagnosis to explain the symptoms) whether their symptoms improved or worsened following vaccination
+8. > "An online survey by Scherlinger et al [...] asked Frenchspeaking adults with post-acute sequelae of COVID-19 (PASC, persistent symptoms lasting >4 weeks after probable or confirmed COVID-19 infection and no alternative diagnosis to explain the symptoms) whether their symptoms improved or worsened following vaccination
 (Pfizer [78%], Moderna [16%], AstraZeneca [4%]) (20). The survey was completed by **567 respondents** (median age 44 years, 83% women) in August 2021, 64% of participants had a confirmed COVID-19 infection, 25% had one vaccine dose and 45% had 2 vaccine doses. Symptoms of PASC included fever or chills, fatigue, brain fog, headaches, changing mood or impact on morale, sleeping issues, costal pain, dyspnoea, cough, palpitations, muscle aches, joint pain, paraesthesia or tingling, anosmia or ageusia, diarrhoea or vomiting, spontaneous bruises, and pruritus. • Of the 380 participants who reported long COVID at the time of vaccination, 117
 **(31%) reported a global worsening of symptoms** (including fever/chills [74%],
 **gastrointestinal** symptoms [70%], **paraesthesia** [64%] and **arthralgia** [63%]),
@@ -212,21 +234,85 @@ symptoms following vaccination.
 [...]
 **There was little evidence of differences in results between vaccine types (p=0.60)**
 [...]
-[Another UK survey specified showed 23.2% improved vs. 15.4% worse]
+[Another UK survey specified showed 23.2% improved vs. 15.4% worse]"
+    {: .citation-8-highlights }
 
 9. > "[...]I'm extremely glad for those who improved. I got Pfizer though and **both doses made me much worse**. **I wasn't cured by any means pre-vax but I was feeling pretty clear-headed and energetic.** Now **my brain fog is** [some of] **the worst it's been**—highly nauseous and had **trouble thinking all day yesterday**." // "I recently got Pfizer too (one dose) and I went through a relapse soon after receiving it. **It brought back the excruciating pain from early last year** (LH since March 2020)." //  "I’ve only had my first dose but it actually **set me back a lot**...**I feel like I’m right back to being a few weeks post covid** when I had been slowly getting a bit better." //  "**Both vaccines absolutely trashed me**. Still trying to recover from the second one." 
+    {: .citation-9-highlights }
 
 10. > "I had the second Phizer shot on December 5th. 3 weeks later [the paramedics] were at my house because my **heart rate was 204**. Ever since then I have had **head pressure and dizziness, heart palpitations** and now I'm getting **pins and needles** in my legs when I'm laying down... I was already a covid longhauler... I was actually feeling somewhat better[...]**3 months out from vaccine and still in bad shape** [...] **I** actually **feel worse from the shot than I did longhauling from Covid**." // "Same." // "Yup, same here. **My long haul was almost nonexistent previous to vax and after it’s worse than my actual covid long haul ever was. By like 100.** And I didn’t even get the 2nd dose"
+    {: .citation-10-highlights }
 
 11. > "**In previously-infected patients, the hospitalization rate increased above baseline** one day **following vaccination** (**158.2**/100,000 after dose 2 versus **57.3**/100,000 pre-dose, p < 0.001)"
+    {: .citation-11-highlights }
 
 12. > [According to the CDC, waiting longer between mRNA doses may reduce the risk of myocarditis]
+    {: .citation-12-highlights }
 
-13. > Difficulty breathing or **shortness of breath**,**tiredness** or **fatigue**,**Symptoms** that get **worse after** physical or mental **activities**, **Difficulty thinking or concentrating** (sometimes referred to as “**brain fog**”), Cough, **Chest** or stomach **pain**, **Headache**, **Fast-beating or pounding heart** (also known as **heart palpitations**), **Joint** or **muscle pain**, **Pins-and-needles** feeling, Diarrhea, **Sleep problems**, Fever, **Dizziness on standing** (lightheadedness), Rash, **Mood changes**, Change in smell or taste, Changes in menstrual period cycles
+13. > "Difficulty breathing or **shortness of breath**,**tiredness** or **fatigue**,**Symptoms** that get **worse after** physical or mental **activities**, **Difficulty thinking or concentrating** (sometimes referred to as “**brain fog**”), Cough, **Chest** or stomach **pain**, **Headache**, **Fast-beating or pounding heart** (also known as **heart palpitations**), **Joint** or **muscle pain**, **Pins-and-needles** feeling, Diarrhea, **Sleep problems**, Fever, **Dizziness on standing** (lightheadedness), Rash, **Mood changes**, Change in smell or taste, Changes in menstrual period cycles"
+    {: .citation-13-highlights }
 
-14. > **Endothelial cell damage** is the central part of COVID-19 and a mouse model induced by injection of the S1 subunit of the spike protein [...] The **S1 subunit localized to the endothelia of microvessels in the mice brain** and showed co-localization with caspase-3, **ACE2, IL6, TNFα**, and C5b-9. The surrounding neurons showed increased neuronal NOS and decreased MFSD2a. It is concluded that **ACE2+ endothelial damage is a central part of SARS-CoV2 pathology and may be induced by the spike protein alone**. Thus, the diagnostic pathologist can use either hematoxylin and eosin stain or immunohistochemistry for caspase 3 and ACE2 to document the endothelial cell damage of COVID-19.
+14. > "**Endothelial cell damage** is the central part of COVID-19 and a mouse model induced by injection of the S1 subunit of the spike protein [...] The **S1 subunit localized to the endothelia of microvessels in the mice brain** and showed co-localization with caspase-3, **ACE2, IL6, TNFα**, and C5b-9. The surrounding neurons showed increased neuronal NOS and decreased MFSD2a. It is concluded that **ACE2+ endothelial damage is a central part of SARS-CoV2 pathology and may be induced by the spike protein alone**. Thus, the diagnostic pathologist can use either hematoxylin and eosin stain or immunohistochemistry for caspase 3 and ACE2 to document the endothelial cell damage of COVID-19."
+    {: .citation-14-highlights }
 
-15. <iframe id="vlh-1" width="560" height="315" src="https://www.youtube.com/embed/SobqUw7gqhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+15. <iframe id="vlh-1" class="citation-15-highlights" width="560" height="315" src="https://www.youtube.com/embed/SobqUw7gqhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-16. <iframe id="vlh-2" width="560" height="315" src="https://www.youtube.com/embed/H7inaTiDKaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+16. <iframe id="vlh-2" class="citation-16-highlights" width="560" height="315" src="https://www.youtube.com/embed/H7inaTiDKaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<div markdown="0" class="modal fade" id="citation-modal" tabindex="-1" role="dialog" aria-labelledby="citation-modal-label">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <span class="modal-title" id="citation-modal-label" style="font-size: 12px;">Some title</span>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script markdown="0" type="text/javascript">
+    window.addEventListener("load", function(){
+        $('.trigger-modal').on('click', function(e) {
+            e.preventDefault();
+            var citationHighlightSelector = $(this).attr('data-targ');
+            console.log('Citation highlight selector: ');
+            console.log(citationHighlightSelector);
+            var citationTitleSelector = citationHighlightSelector.replace('highlights', 'title');
+            $modalBody = $(citationHighlightSelector);
+
+            var hasTitle = $(citationTitleSelector) && $(citationTitleSelector).length;
+            var citationTitle = ""; 
+            
+            if (hasTitle) {
+                citationTitle = $(citationTitleSelector).text();
+            }
+
+            $("#citation-modal").find(".modal-title").text(citationTitle);
+
+            if ($modalBody && $modalBody.length) {
+                if ($($modalBody[0]).prop('tagName') !== 'IFRAME') {
+                    console.log('Not iframe, copying to modal-body');
+                    $("#citation-modal").find(".modal-body").html($modalBody.html());
+                } else {
+                    console.log('totes iframe');
+                    var $currBody = $("#citation-modal").find(".modal-body");
+                    $currBody.html('');
+                    $($modalBody[0]).clone().appendTo($currBody);
+                }
+            }
+            $('#citation-modal').modal('toggle');   
+        });
+
+        $('#citation-modal').on('hidden.bs.modal', function () {
+            $("#citation-modal").find(".modal-body").html(''); 
+        });
+
+    });
+</script>
