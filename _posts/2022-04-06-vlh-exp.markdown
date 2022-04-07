@@ -143,6 +143,8 @@ Despite the interventions I made, '**hyperkalemia**' was detected on 3 occasions
 
 **Fludrocortisone was helpful** for me with managing these symptoms, up to 0.3mg/daily helped me not having to be as limited with my diet. I could eat some potassium without tingling/chest pain and palpitations coming on. If I stopped the medicine my sensitivity to these foods increased again. 
 
+In addition to the hyperkalemia described above I also had a urine test that was slightly alkaline, which could indicate a compensatory mechanism for a state of acidosis.  
+
 Since then I've dropped fludrocortisone but I still think it's worth noting. Fludrocortisone is typically used for adrenal insufficiency (primary), to replace aldosterone. It increases sodium retention and decreases potassium, having only a mild alkolytic effect if potassium depletion is prevented (extrapolating from aldosterone suppl. result) [[2]](https://jasn.asnjournals.org/content/11/2/369). It's also sometimes used off-label to treat orthostatic hypotension, which is a common complaint among long haulers [[13]](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank"}.
 
 
