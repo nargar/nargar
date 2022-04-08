@@ -14,3 +14,6 @@ Note that the default markdown parser used by Jekyll is 'kramdown'.
 
 ----------
 
+I use sudo bundle exec jekyll serve for local development. 
+Zotero for the references. 
+Medical... something something. Style of references. 
