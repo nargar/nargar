@@ -360,14 +360,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit co
 #conclusion
 
 
-
-
-
-
-
-
-
-
 # References:
 1. Hyperkalemia (High Potassium): Symptoms, Causes, Treatment. Accessed April 7, 2022. https://www.healthline.com/health/high-potassium-hyperkalemia#symptoms
     {: .citation-1-title }
@@ -621,7 +613,7 @@ symptoms following vaccination.
   </ul>
 </li>
 <li>
-  <a href="#covid--and-vaccine-long-haul" id="part-1-link">2. Covid- and vaccine long haul</a>
+  <a href="#covid--and-vaccine-long-haul" id="part-2-link">2. Covid- and vaccine long haul</a>
   <ul class="nav">
     <li><a href="#clh-symptoms" >CLH symptoms</a></li>
     <li><a href="#other-similarities-between-clh-and-vlh" >Similarities between CLH and VLH</a></li>
