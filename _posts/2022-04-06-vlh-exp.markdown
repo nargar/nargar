@@ -3,221 +3,7 @@
 <img markdown="0" src="https://images.unsplash.com/photo-1470777639313-60af88918203?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1740&amp;q=80" style="max-width: 100%;" />
 
 
-## TODOS:
-
-- Create a photo showing symptoms by body part/system
-
-After putting temporary subheadings in my post I realise it's all over the place. I think it would be neater if I organise it so that:
---my whole backstory and progression of symptoms comes first, the impact on my life as a whole,  followed by a description of VLH, its general set of symptoms and similarities with CLH,  the role of the vaccine in the context of CLH.. and then.. the.. meaning of these symptoms on peoples lives in general as evidenced by facebook and reddit posts.. would.. make it kind of neat and succinct. I think. 
-
-My personal blood/urine tests and treatments could be an entirely separate post, seeing as it's of interest to almost no one. As well as ideas for treatment targets and what has worked for me. 
-
-Proposed ToC:
-* My backstory
- - What was I working with
- - What about previous fatigue 
- - Relationship with my ex 
- - What am I dealing with (without going into detail)
- - Onset of symptoms
- - Progression of symptoms
- - Last trip/working on the car and so on 
- - Current set of symptoms 
- - Disability and perspective 
- - Hope for the future. 
- - Point towards post 2 and/or more details on LH. 
-* Covid- and vaccine LH 
- - CLH set of symptoms roughly
- - Brief description of VLH
- - Similarities between the two (same symptoms)
- - CLH worsening after vaccination common
- - Increased hospitalisation with prior covid infection 
- - Impact on peoples lives as evidenced by fb and reddit posts 
- - Conclusion
-   -- started writing this without a clear end goal in mind. 
-
-## A brief backstory 
-
-I want to state here in the beginning that although I will start this post with bleak descriptions and pessimism (or realism), I will end it with some tentative optimism.
-
-In summer 2021 I was running my own company with two of my friends, where I was working as a software consultant and developer. I was my own boss, I had a great girlfriend, and my company's biggest client (a sizeable Nordic hardware store chain) was impressed with the work we were doing for them, with VPs from abroad having shown interest in the software we were developing.
-
-Today (*6 April 2022*), I'm ~ten months into disabling illness. I'm not working, no longer with my girlfriend, not exercising, and nowhere close to being functional as a person. Before this I had been dealing with some fatigue, but was doing really well with ADHD treatment.
-
-## Covid- and vaccine long haul
-
-### Same set of symptoms
-The illness I'm struggling with is a form of PASC/Long Covid. As many now know, covid can cause long-lasting problems in susceptible individuals. In some cases, the present result is disability. It's less widely appreciated that the covid vaccines themselves appear to cause a similar syndrome for some. The set of symptoms described in both disorders is near-identical. 
-
-### A significant proportion of covid long haulers get worse symptoms following covid vaccination
-
-Both have support groups on facebook, and communities on reddit [[5]](https://reddit.com/r/vaccinelonghaulers){:target="_blank" data-targ=".citation-5-highlights" class="trigger-modal"}[[6]](https://reddit.com/r/covidlonghaulers){:target="_blank" data-targ=".citation-6-highlights" class="trigger-modal"}. In addition to people describing the same set of symptoms for both covid- and vaccine long haul, a small Japanese study has shown that a considerable proportion of covid long haulers get worse following vaccination [[7]](https://onlinelibrary.wiley.com/doi/10.1002/jmv.27689){:target="_blank" data-targ=".citation-7-highlights" class="trigger-modal"}. The people with the **highest antibody response post-vaccination** were the ones who **developed worse symptoms**, perhaps indicating an excessive immune response in this group. Various UK studies show **up to 31% of long covid patients developing worse symptoms after vaccination** [[8]](https://ukhsa.koha-ptfs.co.uk/cgi-bin/koha/opac-retrieve-file.pl?id=fe4f10cd3cd509fe045ad4f72ae0dfff){:target="_blank" data-targ=".citation-8-highlights" class="trigger-modal"}.
-
-### Community polling in alignment with the studies performed 
-
-This is in line with various covid long haul group polls which tend to show that roughly a third of long haulers report some improvement following vaccination, another third describes symptoms getting worse worse, and the rest reports no change. 
-
-### Wording often dramatic, symptoms not just 'slightly worse', in many cases the descriptions are devastating
-
-It's important to note (and this is often missed in studies) that some people use very dramatic wording when describing their deterioration following vaccination. So it's not just '31% got slightly worse symptoms', it's 31% got worse and a subset possibly got dramatically worse [[9]](https://www.reddit.com/r/covidlonghaulers/comments/nk05qh/so_am_i_the_only_one_not_feeling_better_after_the/){:target="_blank" data-targ=".citation-9-highlights" class="trigger-modal"}[[10]](https://www.reddit.com/r/covidlonghaulers/comments/thdoia/the_vaccine_made_me_worse/){:target="_blank" data-targ=".citation-10-highlights" class="trigger-modal"}. **Many commenters** (with a fair share of upvotes) **describe their post-vaccination symptoms being much worse than they ever were post-covid**. To try to stay unbiased here, some long haulers do describe improvements post-vaccination, but the nature of the deteroriation experienced by many makes vaccinating these people without informed consent highly unethical. We do not know when or whether they will recover from these symptoms. Anecdotally, vaccine long haulers often get worse following a covid infection too. The quality of the reddit-pooled data is poor but I assume people are being honest about their symptoms. Given my own experience, this requires little stretch of the imagination.
-
-### Increased risk of hospitalisation in patients vaccinated with a prior covid infection
-
- A nationwide, retrospective cohort study in the US showed that patients who were **vaccinated after a prior covid infection had increased risk of hospitalisation** by a factor of **2.76** [[11]](https://www.sciencedirect.com/science/article/pii/S0264410X22000512){:target="_blank" data-targ=".citation-11-highlights" class="trigger-modal"}. It's worth noting that this misses possible complications such as long haul, which in general does not lead to immediate hospitalissation. It's also worth noting that CDC acknowledges that waiting longer between mRNA doses may reduce the risk of myocarditis. It stands to reason that the same might apply for covid infection [[12]](https://www.cnbc.com/amp/2022/02/23/cdc-says-waiting-longer-between-pfizer-moderna-doses-may-reduce-myocarditis-risk.html){:target="_blank" data-targ=".citation-12-highlights" class="trigger-modal"}.
-
-### Vaccines do good, but it's not not 'one-size fits all', informed consent is necessary
-I'm for vaccination, but where there is (even a small) risk, there should be freedom of choice. Covid long haul patients should be informed about possible negative consequences of vaccination following long-haul. These adverse events are rare for the (mostly) safe and effective vaccines. But identifying some of the people at-risk may be possible, and worth doing. Professor Warren Tate, a ME/CFS specialist at the University of Otago in NZ has called for exemptions from vaccine mandates for some patients with ME/CFS, citing possible vulnerability to poor sequelae of vaccination. His sentiment is supported by preliminary data from a survey done by the ME/CFS society in NZ, showing a worsening of symptoms without return to baseline in a considerable proportion of patients [[4]](https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination){:target="_blank" data-targ=".citation-4-highlights" class="trigger-modal"}.
-
-### Problem with data collection
-Intuitively it would seem to make sense to investigate this with autoimmune disorders in general. Part of the problem is that we are not good at collecting healthcare data. Many symptoms/disorders that can't be immediately identified and diagnosed are dismissed and not reported. We should actively collect and rely more on patient-reported symptoms. Not just for ME/CFS and adverse events to vaccinations, but also f.ex. for women experiencing problems with their menstrual cycle post-vaccination (and presumably post-covid). I can't claim to know that this is happening without data but we could do better with collecting data. 
-
-### Why I mention the VLH onset
-I could have simply written that I'm suffering from long covid but it's important to point out the true cause of my symptoms in light of some countries calling for mandatory vaccinations (although this is currently old news). For some of us this is equivalent to mandating disability with ensuing misery for the affected individuals and loss of capital for society in general. 
-
-### Back to the background story and symptoms (move this above?)
-My illness starts in June 2021. On the 8th of that month I received my first dose, and my second on the 29th. The effect of the first dose was unremarkable. I wasn't concerned by it as evidenced by my showing up for the second jab 3 weeks later. Following the last dose I experienced various debilitating (and confusing) symptoms, the most meaningful of which I still struggle with every day.
-
-The first thing I remember is getting the worst '**migraine**' I'd ever experienced. I felt like my head was splitting in half and at times my **vision went dark**, as if the lights were being dimmed periodically. 
-
-For the next few months my **blood pressure** was **swinging** up an down, anywhere from 120/80, normal for me, up to ~187/110, and down again. **Resting heartrate**, even lying in bed, was constantly over 110 bpm, and at times this was accompanied by bad **chest pain** and **heart palpitations**. I had **tingling** that went **up the front of my throat/neck**, to the **back of my head**, and to my **ears**. I fainted once and today I still often bend down after standing up to prevent this from reoccurring. 
-
-My ears turned beet-red on a few occasions. I had periodic **tremors in my hands**, and for months I **couldn't sleep for more than 3 hours per night**, as was documented in an in-hospital sleep test a few months later. I had **muscle weakness**. I used to do weight lifting several times per week. I could bench press 125kg (275lbs), but at this point, if I tried to swim a lap in a 25 metre pool I had to stop for a long time to catch my breath and rest. 
-
-When I look at my phone's photos from that period most of the pictures are of my ears, skin, and blood pressure measurements. 
-
-My most debilitating symptoms were the following, I particularly still struggle with the first one: 
-- **Complete and total inability to concentrate**, **think**, and **make decisions**
-- Periods of bad **anxiet/agitation**, where I would often flood my girlfriend with texts where I speculated what might be wrong
-- Periods of the worst **irritability/anger** I've felt, with no logical explanation. My thinking was uncharacteristically violent, I'd 'think expletives' at people I cared about as well as strangers, after which I would think 'wow, something is really wrong here.'. I lost my temper easily. On one occasion a doctor I met suggested the tingling I got was 'muscle tension', but wanted to send me to a cardiologist for the heart symptoms. The latter being a sensible suggestion but I was so annoyed with his explanation of the tingling that I said: 'Simple solution for a simple man' and stormed out, having also refused the appointment with the cardiologist. And even doing *just* this required a great deal of self control.
-
-The anxiety and irritability has since then gotten a lot better, but my inability to concentrate remains. I lost my job early. I was so *out of it*, I couldn't focus on what I was working on. My feeling was that I couldn't think more than 2 simple thoughts per day. I should have contacted my clients and explained my situation to them but this seemed impossible. The project landed on my friend's shoulders with little explanation offered from me. The cognitive load involved in talking to anyone seemed to be too much.
-
-I've always been a hard worker. I was on the dean's list at university where I studied computer science. I worked overtime every day of the week at my first job where I was working as a software contractor for a bank, and I derive much of my self value from my ability to think, work, and make money. 
-
-### Regarding disability
-I used to think I would 'kill myself before applying for disability', as I could think of no worse fate than 'becoming a loser', someone who does not contribute to society. And if I tried to explain my current situation to my old self I'm unconvinced that I would be very understanding. I would write much of my actions (and inaction) today off as laziness. Which is why I can't really be too resentful of people not easily understanding where I'm coming from today.
-
-My perspective towards people who are sick and people who are on disability has changed much. I realise now that it's no one's dream to be on disability. You become an outlier in society. You don't feel like you're contributing, it's not desireable by opposite sex, and even people who don't look down on it per se will pity you. Some will have misplaced resentment for your 'time off'. I'm embarrassed by this to the extent where I hesitate/refuse to write this under my own name. I don't want to be seen as a victim. Talking to my friends is not helpful. It mostly serves as a reminder that I'm on timeout from life for the time being. 
-
-### Understanding, communication with friends and family
-Describing to my friends what is wrong is complicated, with self-isolation being easier on my mind. I don't want to answer phone calls because it's too much effort. If my phone rings unexpectedly I understand that I will be asked how I'm doing, and my response won't be readily understood. I understand logically that I can't expect anyone to understand something so distant from the reality they've experienced.
-
-What confuses my friends and family is that I am able to talk, I can form sentences, I seem like I'm fine outwardly. But my **entire days are spent lying flat on the couch because sitting upright is too much effort**. It depletes all my energy and I can't think or get anything done. **Contrast this with my previous life where I couldn't lie down to watch TV until late in the evening, preferably after being productive all day and after some exercise.**
-
- I'm currently more than 2 months late in asking for financial support just because doing it seems like too much effort. I might have to read the contents of a website, compose an email, call someone, do some thinking.. all of which seem like impossible tasks for me. 
-
-When I do talk to my friends I remind them that they would be hard-pressed to find someone more ambitious than me, and that I'm not playing around when I say that I am this ill. That I am unable to do what I say. To work and function. This does help their understanding to a degree but I don't want to spend my time justifying myself or being pitied. I just want my situation acknowledged and preferably ignored. *All my personal time is spent thinking about how to solve these issues* and any off-hand input or questioning is unlikely to be helpful. 
-
-### Avoiding exercise, cognitive load
-I do best when I don't exercise. If I walk for more than an hour I experience a flare-up in symptoms. During a flare up, as an example, I may be at the store or pharmacy, but **I can't focus on anything**. I may walk around aimlessly, with no idea what I'm looking for, or what I'm doing. Asking for assistance would be too much effort, so the only option is to go hoome and try again later. **At my worst I can't really make sense of sentences or paragraphs I'm reading**. Sleeping is the only thing that really helps at those times, but I am not fixed or particularly rested after sleep. Just slightly less trashed. 
-
-### Flare ups in symptoms
-If I do intense exercise, such as **weightlifting**, my symptoms flare up as follows: 
-- I get intense **pressure**/heat inside of my face/**head**
-- My body, **limbs**, hands and feet in particular, **go ice-cold** and stay that way for hours
-- My **tinnitus** (developed at the start of this) is **sent roaring**
-- My **shortness of breath** is exacerbated / more noticeable with little or no straining involved 
-- My **thinking** becomes **confused**, I **can't focus, read, or write**
-- My **mood** plummets and I get **irritability and/or depression** like I did in the beginning 
-- My **muscles tense up**
-- The poor thinking in particular **takes days to recover** to the already-subpar baseline
-
-I experience similar symptoms after:
-- Eating sugar, this sounds to my prejudiced self as if I just buy into anyone pushing a no-sugar/plant-based diet, but I don't. Sugar makes my symptoms flare up for some reason. Not as intensely as exercise would but enough for me to avoid chocolate for the first time in my life. 
-- My ADHD medication, which worked well for me prior to the vaccination now helps for about an hour before triggering a flare-up as described above. This has caused me to avoid the medication from the start.  
-
-### Lost in the beginning
-I had no idea how to cope with this. When I got sick I got the feeling that this was out of the ordinary and that I wouldn't receive much help. The only person I felt could help me was me, and I'd never been more poorly equipped to help myself. I shortly gave up on trying to do my job. My girlfriend at the time was in the UK and I'd intended to sort out her car for her while she was abroad. 
-
-The little thinking I did do at the time was not very logical. All I focused on was my girlfriend's car, while half-dead and wondering whether I would die from the symptoms. I'd then lay down in the grass after exertion and rest, and when at home I'd try my best to do research and read about my symptoms. 
-
-### Relationshpi with my ex
-I suggested to my girlfriend that we take a break because I saw that how I was feeling was making her feel bad. We eventually broke up. I love and appreciate her still, but I'm happy she hasn't had to sit around and see me go through this process, or see how I'm doing today, even if somewhat improved moodwise. 
-
-### Losing my job
-I shortly realised I would not be getting another job unless I'd find a solution for my symptoms. A couple of months in I did find that I'd developed hyperthyroidism which I opted to have definitive treatment for, in the form of surgery. It took me much too long to realise and decide on this because it felt like I **couldn't think or make decisions**. I couldn't bring myself to go to the doctor or ask for testing. 
-
-### Surgery and moving abroad, trying to power through
-In the weeks after my surgery some of the irritability and perhaps particularly agitation seemed to subside to a degree, but I still couldn't think, or exercise. I flew to the UK and spent more than half a year in London to give myself a change of scenery. I wanted to be able to focus on recovery without being reminded every day that I was no longer participating in society like my friends and colleagues, and that I was no longer with the girlfriend who I loved. In London I did some exploring, I tried weight-lifting, climbing, and running. Both lifting and running made my symptoms worse, and excessively long walks seemed bad for my cognition too. But on a positive note.. the restaurants in London are amazing. Particularly I liked the amount of Korean restaurants. We happen to have a shortage of those where I'm from. Amazon next-day delivery is pretty good too. 
-
-### Finding people with the same set of symptoms
-Earlier on I'd found people with symptoms identical to mine through youtube interviews, and eventually I'd gotten into the online support groups and communities. I've added embedded YT videos of interviews with people with post-vaccine long haul down in the references [[15]](#vlh-1){:class="trigger-modal" data-targ=".citation-15-highlights"}[[16]](#vlh-2){:class="trigger-modal" data-targ=".citation-16-highlights"}. It's been insightful to read about other peoples experiences to see the different (but largely similar) presentation of symptoms. It also helped me to realise that, although my reaction to the vaccine is rare, I am not alone in this. 
-
-After noting that some people in these groups tended to get worse with exercise, in some cases without returning to their new baseline of symptoms, I decided to take it easy with the workouts for the time being. It already seemed like trying to power-through wasn't delivering much for me. 
-
-### My symptoms today
-This brings us to today, the 6th of April 2022. 
-
-I've tried various treatments with varying degrees of success at this point. 
-
-**All my waking**/lucid **hours are spent reading research papers**, **reading about other peoples experiences and symptoms**, and generally looking for possible solutions.
-
-Many of my physical symptoms I did manage to get under control to a great degree early on, but **my concentration and thinking remains poor**. I also still get much worse with exercise and ADHD medication. 
-
-Status today: 
-- Tingling and numbness is largely gone, unless symptoms are flaring up
-- Tinnitus is gone, - unless flare up 
-- Ears are not turning beet-red anymore
-- I don't get the agitation I did early on 
-- I sleep longer, unless my symptoms are flaring 
-- My blood pressure is not swinging wildly
-- My resting heartrate are fine unless I'm flaring up 
-- **I cannot sit upright for more than a few minutes at a time withoutu getting exhausted**
-- I cannot accomplish easy tasks or function as a person 
-- I **cannot concentrate at all**
-- I cannot live a normal life for the time being
-
-### Brief comparison with the CLH symptoms
-
-It may be interesting at this point to compare my list of symptoms with the symptoms of covid long haul as described by the CDC [[13]](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank" data-targ=".citation-13-highlights" class="trigger-modal"}. My symptoms align fairly well with other long haulers. Largely the symptoms could be split up into 'neurological, cardiovascular, and dysautonomia (neuro again)'. These are broadly the symptom categories all long haulers deal with, how much each category weighs for any given person varies greatly. 
-
-### Things looking up to an extent, brain semi-functional behind the scenes 
-
-To add some tentative positivity to this, **in the past month, I've been able to have days where I can be productive. I can think, perform tasks, and I can write software**. This is a **huge deal**, as I've wondered for most of this time **whether my brain was totally gone**, the most suitable way I found to explain my symptoms to anyone is that I **feel like I've had a stroke**, that's how impaired my thinking feels.
-
-So seeing that my brain can still work under any conditions is a big deal to me. *The caveat is that it's only possible with the help of medications, and they seem to put a great strain on my body. So I am hesitant to do this for extended periods, I only do this when I must get something done.* 
-
-**The rest of this post will go into blood tests and medications I've tried, some research I've done and my thoughts on it, as well as what I make of my future prospects. It might not be very interesting for anyone outside the 'Long Haul' community. Unless the reader is a big nerd.**
-
-## Consider writing about VLH/CLH after your whole story -- the set of symptoms -- similarity with CLH - the impact on peoples lives (as per facebook and reddit) 
-
----
-
-# Testing, treatments and results so far (consider only a brief description here, with details in a follow-up post, as well as possible treatment targets)
-
-> Brief disclaimer: No one should imitate what I describe below. The methods mentioned are potentially dangerous and could lead to injury, permanent disability, or death. Always consult your physician.   
-
-> My intention is to slowly add to this post, an exhaustive list of symptoms experienced by long haulers, studies, possible etiologies, possible treatments, and my own experiments and results. This will probably take some time, and I can only write this while medicated, adding further delay. 
-
-> Anything that worked for me will not necessarily work for the reader. Even though there are broad similarities in the presentation of symptoms between most long haulers they aren't the same and the causes will likely vary. I believe the variation in presentation depends on where we get injured. It's well documented that the spike protein causes endothelial dysfunction [[14]](https://pubmed.ncbi.nlm.nih.gov/33360731/){:target="_blank" data-targ=".citation-14-highlights" class="trigger-modal"}. How this damage presents in the individual depends on where it occurs. If it's in the veins/around the kidney, it could cause dysfunction and symptoms related to renal impairment (which on its own, can be quite broad and confusing). Potentially some hypoxia and nerve damage could happen in the brain, with symptoms showing up in a variety of ways. This is why every stroke patient or patient with traumatic brain injury can present with just about any symptom under the sun. We're not all the same and the symptoms will depend on location, severity, and our body's response to the injury. 
-
-# My own blood test results
-Early on in my illness I had several blood tests. Most of them were unremarkable. Liver function tests were normal, the majority of kidney tests including electrolytes and creatinine were normal. Lipids (total cholesterol, LDL, HDL, and triglycerides) were consistently under the reference range. Which is unspecific but consistent with hyperthyroidism. High cholesterol on the contrary is common in hypothyroidism. 
-
-Early on I detected subclinical hyperthyroidism, with TSH entirely suppressed but FT4 and FT3 within range. Eventually this progressed to overt hyperthyroidism, with FT4 and FT3 very elevated, and I had a thyroidectomy for this. Complete blood count was broadly fine, ferritin low-normal, cortisol also low-normal, which some might say is unusual in the presence of hyperthyroidism but adrenal stimulation testing was fine. 
-
-I had some discolouration of the skin on my chest and between my eyebrows (loss of colour) that persists but hasn't gotten worse. 
-
-I was most curious about vaccine-induced autoimmunity, and thus I had the following tests: 
-
-TPO antibodies (such as those seen in Hashimotos hypothyroidism and Graves) slightly elevated on 2 occasions, fine in another laboratory. ANCA antibodies present but not elevated (Lupus, often associated with kidney damage). RF slightly elevated. Anti-phospholipid antibodies present but not elevated, clotting factors all normal. ds-DNA (primarily associated with Lupus) also present but not elevated. ANA very low in the range.RF-IgG slightly elevated. Adrenal cortex antibodies not detected, making primary AI via autoimmmunity unlikely. 
-
-On numerous occasions since then I've tested my AM cortisol, and it consistently comes back at around 150-200 nmol/L, which is low-normal, and in the 'equivocal' range [[3]](https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/cortisol.aspx){:target="_blank" data-targ=".citation-3-highlights" class="trigger-modal"}. With both negative ACA and a synacthen stimulation test showing normal adrenal response to synthetic ACTH there's little to indicate overt adrenal insufficiency. Hydrocortisone supplementation (very low dose) has still been beneficial for my symptoms, including mood, joint pain, and general flare-ups. Doses that are too high seem to magnify my tinnitus. If I don't take any I seem to get worse joint pain, some itching, and worse cognitive symptoms. 
-
-I noted early on, shortly after June 2021, that many of my physical symptoms seemed to get worse with eating, in particular when I ate something containing **potassium**. Since I suspected that this was the case, I restricted my diet quite a bit which likely influenced the test results that followed. 
-
-Despite the interventions I made, '**hyperkalemia**' was detected on 3 occasions, with 3 additional tests showing kalium within the reference range range. The reason for testing potassium was that a lot of my early symptoms were consistent with hyperkalemia. Including **tiredness, weakness, numbness, tingling, nausea, shortness of breath, chest pain,** and **palpitations** [[1]](https://www.healthline.com/health/high-potassium-hyperkalemia#symptoms){:target="_blank" data-targ=".citation-1-highlights" class="trigger-modal"}.
-
-**Fludrocortisone was helpful** for me with managing these symptoms, up to 0.3mg/daily helped me not having to be as limited with my diet. I could eat some potassium without tingling/chest pain and palpitations coming on. If I stopped the medicine my sensitivity to these foods increased again. 
-
-In addition to the hyperkalemia described above I also had a urine test that was slightly alkaline, which could indicate a compensatory mechanism for a state of acidosis.  
-
-Since then I've dropped fludrocortisone but I still think it's worth noting. Fludrocortisone is typically used for adrenal insufficiency (primary), to replace aldosterone. It increases sodium retention and decreases potassium, having only a mild alkolytic effect if potassium depletion is prevented (extrapolating from aldosterone suppl. result) [[2]](https://jasn.asnjournals.org/content/11/2/369){:target="_blank" data-targ=".citation-2-highlights" class="trigger-modal"}. It's also sometimes used off-label to treat orthostatic hypotension, which is a common complaint among long haulers [[13]](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank" data-targ=".citation-13-highlights" class="trigger-modal"}.
-
-
-
-
-
-# My backstory
+# 1. Backstory
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit convallis, egestas erat sed, placerat nulla. Sed placerat rutrum ante, eget cursus dui molestie sed. Proin lobortis in ante vel accumsan. Etiam aliquam dictum metus, eleifend euismod quam semper eget.
@@ -297,7 +83,7 @@ Point to the improvements. Point to another post that I will write.
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit convallis, egestas erat sed, placerat nulla. Sed placerat rutrum ante, eget cursus dui molestie sed. Proin lobortis in ante vel accumsan. Etiam aliquam dictum metus, eleifend euismod quam semper eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla metus elit, tempus id neque at, imperdiet pellentesque sapien. Curabitur tincidunt ac metus et cursus. Suspendisse sagittis malesuada tortor, ac accumsan tortor luctus sit amet. Nullam nulla urna, malesuada a iaculis vitae, rutrum nec eros. Cras maximus efficitur aliquet. Suspendisse velit lectus, lobortis et purus.
 
 
-# Covid- and vaccine long haul
+# 2. Covid- and vaccine long haul
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit convallis, egestas erat sed, placerat nulla. Sed placerat rutrum ante, eget cursus dui molestie sed. Proin lobortis in ante vel accumsan. Etiam aliquam dictum metus, eleifend euismod quam semper eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla metus elit, tempus id neque at, imperdiet pellentesque sapien. Curabitur tincidunt ac metus et cursus. Suspendisse sagittis malesuada tortor, ac accumsan tortor luctus sit amet. Nullam nulla urna, malesuada a iaculis vitae, rutrum nec eros. Cras maximus efficitur aliquet. Suspendisse velit lectus, lobortis et purus.
@@ -503,7 +289,7 @@ symptoms following vaccination.
 <script markdown="0" type="text/javascript">
     window.addEventListener("load", function() {
 
-        $('body').scrollspy({ target: '#sidebar-scrollspy' });
+        var $spy = $('body').scrollspy({ target: '#sidebar-scrollspy', offset:82 });
 
         // $(window).on('scroll', function() {
         //     $("a").each(function() {
@@ -595,12 +381,20 @@ symptoms following vaccination.
                return false; // Equivalent to the above
             }
         });
+
+        var offset = 80;
+
+        $('#sidebar-scrollspy li a').on('click', function(event) {
+            event.preventDefault();
+            $($(this).attr('href'))[0].scrollIntoView();
+            scrollBy(0, -offset);
+        });
     });
 </script>
 
 <div id="mobile-scrollspy-status-bar">
     <div class="vertical-alignment-container">
-        <span>Current location</span>
+        <span>1. Backstory</span>
     </div>
 </div>
 
@@ -609,9 +403,9 @@ symptoms following vaccination.
 <ul class="nav bs-docs-sidenav">
 
 <li class="active">
-  <a href="#my-backstory" id="part-1-link">1. Backstory</a>
+  <a href="#my-experience-with-covid-long-haul-and-potential-treatments" id="part-1-link">1. Backstory</a>
   <ul class="nav">
-    <li class="active"><a href="#personal-life" >Personal life</a></li>
+    <li class=""><a href="#personal-life" >Personal life</a></li>
     <li class=""><a href="#work-and-relationship" >Work and relationship</a></li>
     <li class=""><a href="#onset-of-illness-and-symptom-progression" >Onset and progression of symptoms</a></li>
     <li class=""><a href="#impact-on-my-life" >Life changes</a></li> <!-- Quit job, irritability, agitation, anxiety, break and break up  -->
@@ -623,7 +417,7 @@ symptoms following vaccination.
   </ul>
 </li>
 <li>
-  <a href="#covid--and-vaccine-long-haul" id="part-2-link">2. Long haul: Covid and vaccine</a>
+  <a href="#2-covid--and-vaccine-long-haul" id="part-2-link">2. Long haul: Covid and vaccine</a>
   <ul class="nav">
     <li><a href="#clh-symptoms" >CLH symptoms</a></li>
     <li><a href="#other-similarities-between-clh-and-vlh" >Similarities between CLH and VLH</a></li>
@@ -638,3 +432,216 @@ symptoms following vaccination.
 </ul>
 
 </nav>
+
+<div class="hidden">
+## TODOS:
+
+- Create a photo showing symptoms by body part/system
+
+After putting temporary subheadings in my post I realise it's all over the place. I think it would be neater if I organise it so that:
+--my whole backstory and progression of symptoms comes first, the impact on my life as a whole,  followed by a description of VLH, its general set of symptoms and similarities with CLH,  the role of the vaccine in the context of CLH.. and then.. the.. meaning of these symptoms on peoples lives in general as evidenced by facebook and reddit posts.. would.. make it kind of neat and succinct. I think. 
+
+My personal blood/urine tests and treatments could be an entirely separate post, seeing as it's of interest to almost no one. As well as ideas for treatment targets and what has worked for me. 
+
+Proposed ToC:
+* Backstory
+ - What was I working with
+ - What about previous fatigue 
+ - Relationship with my ex 
+ - What am I dealing with (without going into detail)
+ - Onset of symptoms
+ - Progression of symptoms
+ - Last trip/working on the car and so on 
+ - Current set of symptoms 
+ - Disability and perspective 
+ - Hope for the future. 
+ - Point towards post 2 and/or more details on LH. 
+* Covid- and vaccine LH 
+ - CLH set of symptoms roughly
+ - Brief description of VLH
+ - Similarities between the two (same symptoms)
+ - CLH worsening after vaccination common
+ - Increased hospitalisation with prior covid infection 
+ - Impact on peoples lives as evidenced by fb and reddit posts 
+ - Conclusion
+   -- started writing this without a clear end goal in mind. 
+
+## A brief backstory 
+
+I want to state here in the beginning that although I will start this post with bleak descriptions and pessimism (or realism), I will end it with some tentative optimism.
+
+In summer 2021 I was running my own company with two of my friends, where I was working as a software consultant and developer. I was my own boss, I had a great girlfriend, and my company's biggest client (a sizeable Nordic hardware store chain) was impressed with the work we were doing for them, with VPs from abroad having shown interest in the software we were developing.
+
+Today (*6 April 2022*), I'm ~ten months into disabling illness. I'm not working, no longer with my girlfriend, not exercising, and nowhere close to being functional as a person. Before this I had been dealing with some fatigue, but was doing really well with ADHD treatment.
+
+## Covid- and vaccine long haul
+
+### Same set of symptoms
+The illness I'm struggling with is a form of PASC/Long Covid. As many now know, covid can cause long-lasting problems in susceptible individuals. In some cases, the present result is disability. It's less widely appreciated that the covid vaccines themselves appear to cause a similar syndrome for some. The set of symptoms described in both disorders is near-identical. 
+
+### A significant proportion of covid long haulers get worse symptoms following covid vaccination
+
+Both have support groups on facebook, and communities on reddit [[5]](https://reddit.com/r/vaccinelonghaulers){:target="_blank" data-targ=".citation-5-highlights" class="trigger-modal"}[[6]](https://reddit.com/r/covidlonghaulers){:target="_blank" data-targ=".citation-6-highlights" class="trigger-modal"}. In addition to people describing the same set of symptoms for both covid- and vaccine long haul, a small Japanese study has shown that a considerable proportion of covid long haulers get worse following vaccination [[7]](https://onlinelibrary.wiley.com/doi/10.1002/jmv.27689){:target="_blank" data-targ=".citation-7-highlights" class="trigger-modal"}. The people with the **highest antibody response post-vaccination** were the ones who **developed worse symptoms**, perhaps indicating an excessive immune response in this group. Various UK studies show **up to 31% of long covid patients developing worse symptoms after vaccination** [[8]](https://ukhsa.koha-ptfs.co.uk/cgi-bin/koha/opac-retrieve-file.pl?id=fe4f10cd3cd509fe045ad4f72ae0dfff){:target="_blank" data-targ=".citation-8-highlights" class="trigger-modal"}.
+
+### Community polling in alignment with the studies performed 
+
+This is in line with various covid long haul group polls which tend to show that roughly a third of long haulers report some improvement following vaccination, another third describes symptoms getting worse worse, and the rest reports no change. 
+
+### Wording often dramatic, symptoms not just 'slightly worse', in many cases the descriptions are devastating
+
+It's important to note (and this is often missed in studies) that some people use very dramatic wording when describing their deterioration following vaccination. So it's not just '31% got slightly worse symptoms', it's 31% got worse and a subset possibly got dramatically worse [[9]](https://www.reddit.com/r/covidlonghaulers/comments/nk05qh/so_am_i_the_only_one_not_feeling_better_after_the/){:target="_blank" data-targ=".citation-9-highlights" class="trigger-modal"}[[10]](https://www.reddit.com/r/covidlonghaulers/comments/thdoia/the_vaccine_made_me_worse/){:target="_blank" data-targ=".citation-10-highlights" class="trigger-modal"}. **Many commenters** (with a fair share of upvotes) **describe their post-vaccination symptoms being much worse than they ever were post-covid**. To try to stay unbiased here, some long haulers do describe improvements post-vaccination, but the nature of the deteroriation experienced by many makes vaccinating these people without informed consent highly unethical. We do not know when or whether they will recover from these symptoms. Anecdotally, vaccine long haulers often get worse following a covid infection too. The quality of the reddit-pooled data is poor but I assume people are being honest about their symptoms. Given my own experience, this requires little stretch of the imagination.
+
+### Increased risk of hospitalisation in patients vaccinated with a prior covid infection
+
+ A nationwide, retrospective cohort study in the US showed that patients who were **vaccinated after a prior covid infection had increased risk of hospitalisation** by a factor of **2.76** [[11]](https://www.sciencedirect.com/science/article/pii/S0264410X22000512){:target="_blank" data-targ=".citation-11-highlights" class="trigger-modal"}. It's worth noting that this misses possible complications such as long haul, which in general does not lead to immediate hospitalissation. It's also worth noting that CDC acknowledges that waiting longer between mRNA doses may reduce the risk of myocarditis. It stands to reason that the same might apply for covid infection [[12]](https://www.cnbc.com/amp/2022/02/23/cdc-says-waiting-longer-between-pfizer-moderna-doses-may-reduce-myocarditis-risk.html){:target="_blank" data-targ=".citation-12-highlights" class="trigger-modal"}.
+
+### Vaccines do good, but it's not not 'one-size fits all', informed consent is necessary
+I'm for vaccination, but where there is (even a small) risk, there should be freedom of choice. Covid long haul patients should be informed about possible negative consequences of vaccination following long-haul. These adverse events are rare for the (mostly) safe and effective vaccines. But identifying some of the people at-risk may be possible, and worth doing. Professor Warren Tate, a ME/CFS specialist at the University of Otago in NZ has called for exemptions from vaccine mandates for some patients with ME/CFS, citing possible vulnerability to poor sequelae of vaccination. His sentiment is supported by preliminary data from a survey done by the ME/CFS society in NZ, showing a worsening of symptoms without return to baseline in a considerable proportion of patients [[4]](https://www.rnz.co.nz/news/national/456598/expert-says-some-chronic-fatigue-syndrome-sufferers-should-be-exempt-from-covid-19-vaccination){:target="_blank" data-targ=".citation-4-highlights" class="trigger-modal"}.
+
+### Problem with data collection
+Intuitively it would seem to make sense to investigate this with autoimmune disorders in general. Part of the problem is that we are not good at collecting healthcare data. Many symptoms/disorders that can't be immediately identified and diagnosed are dismissed and not reported. We should actively collect and rely more on patient-reported symptoms. Not just for ME/CFS and adverse events to vaccinations, but also f.ex. for women experiencing problems with their menstrual cycle post-vaccination (and presumably post-covid). I can't claim to know that this is happening without data but we could do better with collecting data. 
+
+### Why I mention the VLH onset
+I could have simply written that I'm suffering from long covid but it's important to point out the true cause of my symptoms in light of some countries calling for mandatory vaccinations (although this is currently old news). For some of us this is equivalent to mandating disability with ensuing misery for the affected individuals and loss of capital for society in general. 
+
+### Back to the background story and symptoms (move this above?)
+My illness starts in June 2021. On the 8th of that month I received my first dose, and my second on the 29th. The effect of the first dose was unremarkable. I wasn't concerned by it as evidenced by my showing up for the second jab 3 weeks later. Following the last dose I experienced various debilitating (and confusing) symptoms, the most meaningful of which I still struggle with every day.
+
+The first thing I remember is getting the worst '**migraine**' I'd ever experienced. I felt like my head was splitting in half and at times my **vision went dark**, as if the lights were being dimmed periodically. 
+
+For the next few months my **blood pressure** was **swinging** up an down, anywhere from 120/80, normal for me, up to ~187/110, and down again. **Resting heartrate**, even lying in bed, was constantly over 110 bpm, and at times this was accompanied by bad **chest pain** and **heart palpitations**. I had **tingling** that went **up the front of my throat/neck**, to the **back of my head**, and to my **ears**. I fainted once and today I still often bend down after standing up to prevent this from reoccurring. 
+
+My ears turned beet-red on a few occasions. I had periodic **tremors in my hands**, and for months I **couldn't sleep for more than 3 hours per night**, as was documented in an in-hospital sleep test a few months later. I had **muscle weakness**. I used to do weight lifting several times per week. I could bench press 125kg (275lbs), but at this point, if I tried to swim a lap in a 25 metre pool I had to stop for a long time to catch my breath and rest. 
+
+When I look at my phone's photos from that period most of the pictures are of my ears, skin, and blood pressure measurements. 
+
+My most debilitating symptoms were the following, I particularly still struggle with the first one: 
+- **Complete and total inability to concentrate**, **think**, and **make decisions**
+- Periods of bad **anxiet/agitation**, where I would often flood my girlfriend with texts where I speculated what might be wrong
+- Periods of the worst **irritability/anger** I've felt, with no logical explanation. My thinking was uncharacteristically violent, I'd 'think expletives' at people I cared about as well as strangers, after which I would think 'wow, something is really wrong here.'. I lost my temper easily. On one occasion a doctor I met suggested the tingling I got was 'muscle tension', but wanted to send me to a cardiologist for the heart symptoms. The latter being a sensible suggestion but I was so annoyed with his explanation of the tingling that I said: 'Simple solution for a simple man' and stormed out, having also refused the appointment with the cardiologist. And even doing *just* this required a great deal of self control.
+
+The anxiety and irritability has since then gotten a lot better, but my inability to concentrate remains. I lost my job early. I was so *out of it*, I couldn't focus on what I was working on. My feeling was that I couldn't think more than 2 simple thoughts per day. I should have contacted my clients and explained my situation to them but this seemed impossible. The project landed on my friend's shoulders with little explanation offered from me. The cognitive load involved in talking to anyone seemed to be too much.
+
+I've always been a hard worker. I was on the dean's list at university where I studied computer science. I worked overtime every day of the week at my first job where I was working as a software contractor for a bank, and I derive much of my self value from my ability to think, work, and make money. 
+
+### Regarding disability
+I used to think I would 'kill myself before applying for disability', as I could think of no worse fate than 'becoming a loser', someone who does not contribute to society. And if I tried to explain my current situation to my old self I'm unconvinced that I would be very understanding. I would write much of my actions (and inaction) today off as laziness. Which is why I can't really be too resentful of people not easily understanding where I'm coming from today.
+
+My perspective towards people who are sick and people who are on disability has changed much. I realise now that it's no one's dream to be on disability. You become an outlier in society. You don't feel like you're contributing, it's not desireable by opposite sex, and even people who don't look down on it per se will pity you. Some will have misplaced resentment for your 'time off'. I'm embarrassed by this to the extent where I hesitate/refuse to write this under my own name. I don't want to be seen as a victim. Talking to my friends is not helpful. It mostly serves as a reminder that I'm on timeout from life for the time being. 
+
+### Understanding, communication with friends and family
+Describing to my friends what is wrong is complicated, with self-isolation being easier on my mind. I don't want to answer phone calls because it's too much effort. If my phone rings unexpectedly I understand that I will be asked how I'm doing, and my response won't be readily understood. I understand logically that I can't expect anyone to understand something so distant from the reality they've experienced.
+
+What confuses my friends and family is that I am able to talk, I can form sentences, I seem like I'm fine outwardly. But my **entire days are spent lying flat on the couch because sitting upright is too much effort**. It depletes all my energy and I can't think or get anything done. **Contrast this with my previous life where I couldn't lie down to watch TV until late in the evening, preferably after being productive all day and after some exercise.**
+
+ I'm currently more than 2 months late in asking for financial support just because doing it seems like too much effort. I might have to read the contents of a website, compose an email, call someone, do some thinking.. all of which seem like impossible tasks for me. 
+
+When I do talk to my friends I remind them that they would be hard-pressed to find someone more ambitious than me, and that I'm not playing around when I say that I am this ill. That I am unable to do what I say. To work and function. This does help their understanding to a degree but I don't want to spend my time justifying myself or being pitied. I just want my situation acknowledged and preferably ignored. *All my personal time is spent thinking about how to solve these issues* and any off-hand input or questioning is unlikely to be helpful. 
+
+### Avoiding exercise, cognitive load
+I do best when I don't exercise. If I walk for more than an hour I experience a flare-up in symptoms. During a flare up, as an example, I may be at the store or pharmacy, but **I can't focus on anything**. I may walk around aimlessly, with no idea what I'm looking for, or what I'm doing. Asking for assistance would be too much effort, so the only option is to go hoome and try again later. **At my worst I can't really make sense of sentences or paragraphs I'm reading**. Sleeping is the only thing that really helps at those times, but I am not fixed or particularly rested after sleep. Just slightly less trashed. 
+
+### Flare ups in symptoms
+If I do intense exercise, such as **weightlifting**, my symptoms flare up as follows: 
+- I get intense **pressure**/heat inside of my face/**head**
+- My body, **limbs**, hands and feet in particular, **go ice-cold** and stay that way for hours
+- My **tinnitus** (developed at the start of this) is **sent roaring**
+- My **shortness of breath** is exacerbated / more noticeable with little or no straining involved 
+- My **thinking** becomes **confused**, I **can't focus, read, or write**
+- My **mood** plummets and I get **irritability and/or depression** like I did in the beginning 
+- My **muscles tense up**
+- The poor thinking in particular **takes days to recover** to the already-subpar baseline
+
+I experience similar symptoms after:
+- Eating sugar, this sounds to my prejudiced self as if I just buy into anyone pushing a no-sugar/plant-based diet, but I don't. Sugar makes my symptoms flare up for some reason. Not as intensely as exercise would but enough for me to avoid chocolate for the first time in my life. 
+- My ADHD medication, which worked well for me prior to the vaccination now helps for about an hour before triggering a flare-up as described above. This has caused me to avoid the medication from the start.  
+
+### Lost in the beginning
+I had no idea how to cope with this. When I got sick I got the feeling that this was out of the ordinary and that I wouldn't receive much help. The only person I felt could help me was me, and I'd never been more poorly equipped to help myself. I shortly gave up on trying to do my job. My girlfriend at the time was in the UK and I'd intended to sort out her car for her while she was abroad. 
+
+The little thinking I did do at the time was not very logical. All I focused on was my girlfriend's car, while half-dead and wondering whether I would die from the symptoms. I'd then lay down in the grass after exertion and rest, and when at home I'd try my best to do research and read about my symptoms. 
+
+### Relationshpi with my ex
+I suggested to my girlfriend that we take a break because I saw that how I was feeling was making her feel bad. We eventually broke up. I love and appreciate her still, but I'm happy she hasn't had to sit around and see me go through this process, or see how I'm doing today, even if somewhat improved moodwise. 
+
+### Losing my job
+I shortly realised I would not be getting another job unless I'd find a solution for my symptoms. A couple of months in I did find that I'd developed hyperthyroidism which I opted to have definitive treatment for, in the form of surgery. It took me much too long to realise and decide on this because it felt like I **couldn't think or make decisions**. I couldn't bring myself to go to the doctor or ask for testing. 
+
+### Surgery and moving abroad, trying to power through
+In the weeks after my surgery some of the irritability and perhaps particularly agitation seemed to subside to a degree, but I still couldn't think, or exercise. I flew to the UK and spent more than half a year in London to give myself a change of scenery. I wanted to be able to focus on recovery without being reminded every day that I was no longer participating in society like my friends and colleagues, and that I was no longer with the girlfriend who I loved. In London I did some exploring, I tried weight-lifting, climbing, and running. Both lifting and running made my symptoms worse, and excessively long walks seemed bad for my cognition too. But on a positive note.. the restaurants in London are amazing. Particularly I liked the amount of Korean restaurants. We happen to have a shortage of those where I'm from. Amazon next-day delivery is pretty good too. 
+
+### Finding people with the same set of symptoms
+Earlier on I'd found people with symptoms identical to mine through youtube interviews, and eventually I'd gotten into the online support groups and communities. I've added embedded YT videos of interviews with people with post-vaccine long haul down in the references [[15]](#vlh-1){:class="trigger-modal" data-targ=".citation-15-highlights"}[[16]](#vlh-2){:class="trigger-modal" data-targ=".citation-16-highlights"}. It's been insightful to read about other peoples experiences to see the different (but largely similar) presentation of symptoms. It also helped me to realise that, although my reaction to the vaccine is rare, I am not alone in this. 
+
+After noting that some people in these groups tended to get worse with exercise, in some cases without returning to their new baseline of symptoms, I decided to take it easy with the workouts for the time being. It already seemed like trying to power-through wasn't delivering much for me. 
+
+### My symptoms today
+This brings us to today, the 6th of April 2022. 
+
+I've tried various treatments with varying degrees of success at this point. 
+
+**All my waking**/lucid **hours are spent reading research papers**, **reading about other peoples experiences and symptoms**, and generally looking for possible solutions.
+
+Many of my physical symptoms I did manage to get under control to a great degree early on, but **my concentration and thinking remains poor**. I also still get much worse with exercise and ADHD medication. 
+
+Status today: 
+- Tingling and numbness is largely gone, unless symptoms are flaring up
+- Tinnitus is gone, - unless flare up 
+- Ears are not turning beet-red anymore
+- I don't get the agitation I did early on 
+- I sleep longer, unless my symptoms are flaring 
+- My blood pressure is not swinging wildly
+- My resting heartrate are fine unless I'm flaring up 
+- **I cannot sit upright for more than a few minutes at a time withoutu getting exhausted**
+- I cannot accomplish easy tasks or function as a person 
+- I **cannot concentrate at all**
+- I cannot live a normal life for the time being
+
+### Brief comparison with the CLH symptoms
+
+It may be interesting at this point to compare my list of symptoms with the symptoms of covid long haul as described by the CDC [[13]](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank" data-targ=".citation-13-highlights" class="trigger-modal"}. My symptoms align fairly well with other long haulers. Largely the symptoms could be split up into 'neurological, cardiovascular, and dysautonomia (neuro again)'. These are broadly the symptom categories all long haulers deal with, how much each category weighs for any given person varies greatly. 
+
+### Things looking up to an extent, brain semi-functional behind the scenes 
+
+To add some tentative positivity to this, **in the past month, I've been able to have days where I can be productive. I can think, perform tasks, and I can write software**. This is a **huge deal**, as I've wondered for most of this time **whether my brain was totally gone**, the most suitable way I found to explain my symptoms to anyone is that I **feel like I've had a stroke**, that's how impaired my thinking feels.
+
+So seeing that my brain can still work under any conditions is a big deal to me. *The caveat is that it's only possible with the help of medications, and they seem to put a great strain on my body. So I am hesitant to do this for extended periods, I only do this when I must get something done.* 
+
+**The rest of this post will go into blood tests and medications I've tried, some research I've done and my thoughts on it, as well as what I make of my future prospects. It might not be very interesting for anyone outside the 'Long Haul' community. Unless the reader is a big nerd.**
+
+## Consider writing about VLH/CLH after your whole story -- the set of symptoms -- similarity with CLH - the impact on peoples lives (as per facebook and reddit) 
+
+---
+
+# Testing, treatments and results so far (consider only a brief description here, with details in a follow-up post, as well as possible treatment targets)
+
+> Brief disclaimer: No one should imitate what I describe below. The methods mentioned are potentially dangerous and could lead to injury, permanent disability, or death. Always consult your physician.   
+
+> My intention is to slowly add to this post, an exhaustive list of symptoms experienced by long haulers, studies, possible etiologies, possible treatments, and my own experiments and results. This will probably take some time, and I can only write this while medicated, adding further delay. 
+
+> Anything that worked for me will not necessarily work for the reader. Even though there are broad similarities in the presentation of symptoms between most long haulers they aren't the same and the causes will likely vary. I believe the variation in presentation depends on where we get injured. It's well documented that the spike protein causes endothelial dysfunction [[14]](https://pubmed.ncbi.nlm.nih.gov/33360731/){:target="_blank" data-targ=".citation-14-highlights" class="trigger-modal"}. How this damage presents in the individual depends on where it occurs. If it's in the veins/around the kidney, it could cause dysfunction and symptoms related to renal impairment (which on its own, can be quite broad and confusing). Potentially some hypoxia and nerve damage could happen in the brain, with symptoms showing up in a variety of ways. This is why every stroke patient or patient with traumatic brain injury can present with just about any symptom under the sun. We're not all the same and the symptoms will depend on location, severity, and our body's response to the injury. 
+
+# My own blood test results
+Early on in my illness I had several blood tests. Most of them were unremarkable. Liver function tests were normal, the majority of kidney tests including electrolytes and creatinine were normal. Lipids (total cholesterol, LDL, HDL, and triglycerides) were consistently under the reference range. Which is unspecific but consistent with hyperthyroidism. High cholesterol on the contrary is common in hypothyroidism. 
+
+Early on I detected subclinical hyperthyroidism, with TSH entirely suppressed but FT4 and FT3 within range. Eventually this progressed to overt hyperthyroidism, with FT4 and FT3 very elevated, and I had a thyroidectomy for this. Complete blood count was broadly fine, ferritin low-normal, cortisol also low-normal, which some might say is unusual in the presence of hyperthyroidism but adrenal stimulation testing was fine. 
+
+I had some discolouration of the skin on my chest and between my eyebrows (loss of colour) that persists but hasn't gotten worse. 
+
+I was most curious about vaccine-induced autoimmunity, and thus I had the following tests: 
+
+TPO antibodies (such as those seen in Hashimotos hypothyroidism and Graves) slightly elevated on 2 occasions, fine in another laboratory. ANCA antibodies present but not elevated (Lupus, often associated with kidney damage). RF slightly elevated. Anti-phospholipid antibodies present but not elevated, clotting factors all normal. ds-DNA (primarily associated with Lupus) also present but not elevated. ANA very low in the range.RF-IgG slightly elevated. Adrenal cortex antibodies not detected, making primary AI via autoimmmunity unlikely. 
+
+On numerous occasions since then I've tested my AM cortisol, and it consistently comes back at around 150-200 nmol/L, which is low-normal, and in the 'equivocal' range [[3]](https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/cortisol.aspx){:target="_blank" data-targ=".citation-3-highlights" class="trigger-modal"}. With both negative ACA and a synacthen stimulation test showing normal adrenal response to synthetic ACTH there's little to indicate overt adrenal insufficiency. Hydrocortisone supplementation (very low dose) has still been beneficial for my symptoms, including mood, joint pain, and general flare-ups. Doses that are too high seem to magnify my tinnitus. If I don't take any I seem to get worse joint pain, some itching, and worse cognitive symptoms. 
+
+I noted early on, shortly after June 2021, that many of my physical symptoms seemed to get worse with eating, in particular when I ate something containing **potassium**. Since I suspected that this was the case, I restricted my diet quite a bit which likely influenced the test results that followed. 
+
+Despite the interventions I made, '**hyperkalemia**' was detected on 3 occasions, with 3 additional tests showing kalium within the reference range range. The reason for testing potassium was that a lot of my early symptoms were consistent with hyperkalemia. Including **tiredness, weakness, numbness, tingling, nausea, shortness of breath, chest pain,** and **palpitations** [[1]](https://www.healthline.com/health/high-potassium-hyperkalemia#symptoms){:target="_blank" data-targ=".citation-1-highlights" class="trigger-modal"}.
+
+**Fludrocortisone was helpful** for me with managing these symptoms, up to 0.3mg/daily helped me not having to be as limited with my diet. I could eat some potassium without tingling/chest pain and palpitations coming on. If I stopped the medicine my sensitivity to these foods increased again. 
+
+In addition to the hyperkalemia described above I also had a urine test that was slightly alkaline, which could indicate a compensatory mechanism for a state of acidosis.  
+
+Since then I've dropped fludrocortisone but I still think it's worth noting. Fludrocortisone is typically used for adrenal insufficiency (primary), to replace aldosterone. It increases sodium retention and decreases potassium, having only a mild alkolytic effect if potassium depletion is prevented (extrapolating from aldosterone suppl. result) [[2]](https://jasn.asnjournals.org/content/11/2/369){:target="_blank" data-targ=".citation-2-highlights" class="trigger-modal"}. It's also sometimes used off-label to treat orthostatic hypotension, which is a common complaint among long haulers [[13]](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank" data-targ=".citation-13-highlights" class="trigger-modal"}.
+
+</div>
