@@ -108,7 +108,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit co
 #### Studies 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit convallis, egestas erat sed, placerat nulla. Sed placerat rutrum ante, eget cursus dui molestie sed. Proin lobortis in ante vel accumsan. Etiam aliquam dictum metus, eleifend euismod quam semper eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla metus elit, tempus id neque at, imperdiet pellentesque sapien. Curabitur tincidunt ac metus et cursus. Suspendisse sagittis malesuada tortor, ac accumsan tortor luctus sit amet. Nullam nulla urna, malesuada a iaculis vitae, rutrum nec eros. Cras maximus efficitur aliquet. Suspendisse velit lectus, lobortis et purus.
+[[7]](https://onlinelibrary.wiley.com/doi/10.1002/jmv.27689){:target="_blank" data-targ=".citation-7-highlights" class="trigger-modal"}. The people with the **highest antibody response post-vaccination** were the ones who **developed worse symptoms**, perhaps indicating an excessive immune response in this group. Various UK studies show **up to 31% of long covid patients developing worse symptoms after vaccination** [[8]](https://ukhsa.koha-ptfs.co.uk/cgi-bin/koha/opac-retrieve-file.pl?id=fe4f10cd3cd509fe045ad4f72ae0dfff){:target="_blank" data-targ=".citation-8-highlights" class="trigger-modal"}.
 
 
 #### Community polls and surveys 
