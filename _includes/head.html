@@ -29,6 +29,19 @@
       }
     }
 
+    /* Vertical align */
+    .vertical-alignment-container {
+      display: inline-block;
+      /* line-height: 105px !important; */
+      line-height: 45px !important;
+      position: relative;
+    }
+
+    .vertical-alignment-container span {
+      display: inline-block;
+      vertical-align: middle;
+    }
+
     .sanity {
       font-size: 8px;
       position: relative;
@@ -69,22 +82,23 @@
       font-style: italic;
     }
 
-    #sidebar-scrollspy>ul>li a {
+    #sidebar-scrollspy>ul>li>a {
       border-left: 3px solid transparent;
     }
 
     #sidebar-scrollspy>ul>li.active>a {
-      background-color: #337ab7;
-      color: #fff;
+      /* background-color: #337ab7;
+      color: #fff; */
+      border-left: 3px solid #333;
     }
 
     #sidebar-scrollspy>ul>li ul>li>a {
-      border-left: 3px solid transparent;
+      border-left: 2px solid transparent;
       font-size: 12px;
     }
 
     #sidebar-scrollspy>ul>li.active ul>li.active>a {
-      border-left: 3px solid #337ab7;
+      border-left: 2px solid #337ab7;
     }
 
 
@@ -101,12 +115,28 @@
       display: none;
     }
 
-    @media (max-width: 566px) {
+    #sidebar-scrollspy ul li a {
+      font-size: 14px !important;
+      font-weight: 300 !important;
+      font-style: normal !important;
+      padding-top: 3px;
+      padding-bottom: 3px;
+    }
+
+    @media (max-width: 991px) {
       #sidebar-scrollspy {
         left: 0;
         right: 0;
         top: 102px;
         visibility: hidden;
+      }
+
+      #sidebar-scrollspy.expanded ul li a {
+        font-size: 14px !important;
+        font-weight: 300 !important;
+        font-style: normal !important;
+        padding-top: 3px;
+        padding-bottom: 3px;
       }
 
       #sidebar-scrollspy.expanded {
@@ -122,11 +152,35 @@
         left: 0;
         right: 0;
         bottom: 0;
-        height: 120px;
-        font-size: 32px;
+        height: 50px;
+        font-size: 18px;
         text-align: center;
-        padding-top: 40px;
+        /* padding-top: 40px; */
         cursor: pointer;
+      }
+    }
+
+    @media (max-width: 600px) {
+      #mobile-scrollspy-status-bar {
+        font-size: 14px !important;
+      }
+    }
+
+    .ref-list ol p {
+      word-break: break-all;
+    }
+
+    #references {
+      margin-bottom: 26px;
+    }
+
+    @media (max-width: 385px) {
+      .sanity {
+        display: none;
+      }
+
+      #mobile-scrollspy-status-bar {
+        font-size: 14px !important;
       }
     }
   </style>

@@ -359,8 +359,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit co
 
 #conclusion
 
+---
 
-# References:
+# References
+
+<div class="ref-list" markdown="1">
+
 1. Hyperkalemia (High Potassium): Symptoms, Causes, Treatment. Accessed April 7, 2022. https://www.healthline.com/health/high-potassium-hyperkalemia#symptoms
     {: .citation-1-title }
 
@@ -411,6 +415,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit co
 16. https://www.youtube.com/watch?v=H7inaTiDKaU - Vaccine long hauler, cyclist
     {: .citation-16-title }
 
+</div>
+
+<div class="hidden">
 # Relevant quotes from each citation
 
 1. > "The symptoms of high potassium depend on the level of the mineral in your blood. [...] if your potassium levels are high enough to cause symptoms, you *may* have: **tiredness** or **weakness**, a feeling of **numbness** or **tingling**, **nausea**,
@@ -468,9 +475,12 @@ symptoms following vaccination.
 14. > "**Endothelial cell damage** is the central part of COVID-19 and a mouse model induced by injection of the S1 subunit of the spike protein [...] The **S1 subunit localized to the endothelia of microvessels in the mice brain** and showed co-localization with caspase-3, **ACE2, IL6, TNFα**, and C5b-9. The surrounding neurons showed increased neuronal NOS and decreased MFSD2a. It is concluded that **ACE2+ endothelial damage is a central part of SARS-CoV2 pathology and may be induced by the spike protein alone**. Thus, the diagnostic pathologist can use either hematoxylin and eosin stain or immunohistochemistry for caspase 3 and ACE2 to document the endothelial cell damage of COVID-19."
     {: .citation-14-highlights }
 
-15. <iframe id="vlh-1" class="citation-15-highlights" width="560" height="315" src="https://www.youtube.com/embed/SobqUw7gqhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-16. <iframe id="vlh-2" class="citation-16-highlights" width="560" height="315" src="https://www.youtube.com/embed/H7inaTiDKaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+15. <iframe id="vlh-1" class="citation-15-highlights" width="auto" height="315" src="https://www.youtube.com/embed/SobqUw7gqhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+16. <iframe id="vlh-2" class="citation-16-highlights" width="auto" height="315" src="https://www.youtube.com/embed/H7inaTiDKaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 
 <div markdown="0" class="modal fade" id="citation-modal" tabindex="-1" role="dialog" aria-labelledby="citation-modal-label">
@@ -487,7 +497,7 @@ symptoms following vaccination.
       </div>
     </div>
   </div>
-</div>
+</div> 
 
 
 <script markdown="0" type="text/javascript">
@@ -570,7 +580,7 @@ symptoms following vaccination.
                 }
             }
 
-            $("#mobile-scrollspy-status-bar").text(currentScrollSpyText);
+            $("#mobile-scrollspy-status-bar span").text(currentScrollSpyText);
         });
 
         $(document).on('click','body *',function(e){
@@ -591,7 +601,9 @@ symptoms following vaccination.
 </script>
 
 <div id="mobile-scrollspy-status-bar">
-    <p></p>
+    <div class="vertical-alignment-container">
+        <span>Current location</span>
+    </div>
 </div>
 
 <nav markdown="0" id="sidebar-scrollspy" class="sidebar-scrollspy bs-docs-sidebar affix">
@@ -599,7 +611,7 @@ symptoms following vaccination.
 <ul class="nav bs-docs-sidenav">
 
 <li class="active">
-  <a href="#my-backstory" id="part-1-link">1. My backstory</a>
+  <a href="#my-backstory" id="part-1-link">1. Backstory</a>
   <ul class="nav">
     <li class="active"><a href="#personal-life" >Personal life</a></li>
     <li class=""><a href="#work-and-relationship" >Work and relationship</a></li>
@@ -613,7 +625,7 @@ symptoms following vaccination.
   </ul>
 </li>
 <li>
-  <a href="#covid--and-vaccine-long-haul" id="part-2-link">2. Covid- and vaccine long haul</a>
+  <a href="#covid--and-vaccine-long-haul" id="part-2-link">2. Long haul: Covid and vaccine</a>
   <ul class="nav">
     <li><a href="#clh-symptoms" >CLH symptoms</a></li>
     <li><a href="#other-similarities-between-clh-and-vlh" >Similarities between CLH and VLH</a></li>
