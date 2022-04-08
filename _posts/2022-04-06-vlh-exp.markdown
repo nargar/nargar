@@ -417,7 +417,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit co
 
 </div>
 
-<div class="hidden">
+<div class="hidden" markdown="1">
 # Relevant quotes from each citation
 
 1. > "The symptoms of high potassium depend on the level of the mineral in your blood. [...] if your potassium levels are high enough to cause symptoms, you *may* have: **tiredness** or **weakness**, a feeling of **numbness** or **tingling**, **nausea**,
@@ -550,10 +550,8 @@ symptoms following vaccination.
 
             if ($modalBody && $modalBody.length) {
                 if ($($modalBody[0]).prop('tagName') !== 'IFRAME') {
-                    console.log('Not iframe, copying to modal-body');
                     $("#citation-modal").find(".modal-body").html($modalBody.html());
                 } else {
-                    console.log('totes iframe');
                     var $currBody = $("#citation-modal").find(".modal-body");
                     $currBody.html('');
                     $($modalBody[0]).clone().appendTo($currBody);
