@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/nargar/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/nargar/" rel="alternate" type="text/html" /><updated>2022-04-08T22:27:19+00:00</updated><id>http://localhost:4000/nargar/feed.xml</id><title type="html">Nargar</title><subtitle>Feel free to get in touch at nargarvlh@gmail.com. </subtitle><entry><title type="html">Vlh Exp</title><link href="http://localhost:4000/nargar/2022/04/06/vlh-exp.html" rel="alternate" type="text/html" title="Vlh Exp" /><published>2022-04-06T00:00:00+00:00</published><updated>2022-04-06T00:00:00+00:00</updated><id>http://localhost:4000/nargar/2022/04/06/vlh-exp</id><content type="html" xml:base="http://localhost:4000/nargar/2022/04/06/vlh-exp.html">&lt;h1 id=&quot;my-experience-with-debilitating-illness-long-haul-and-potential-treatments&quot;&gt;My experience with debilitating illness (long haul) and potential treatments&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/nargar/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/nargar/" rel="alternate" type="text/html" /><updated>2022-04-09T15:04:45+00:00</updated><id>http://localhost:4000/nargar/feed.xml</id><title type="html">Nargar</title><subtitle>Feel free to get in touch at nargarvlh@gmail.com. </subtitle><entry><title type="html">Vlh Exp</title><link href="http://localhost:4000/nargar/2022/04/06/vlh-exp.html" rel="alternate" type="text/html" title="Vlh Exp" /><published>2022-04-06T00:00:00+00:00</published><updated>2022-04-06T00:00:00+00:00</updated><id>http://localhost:4000/nargar/2022/04/06/vlh-exp</id><content type="html" xml:base="http://localhost:4000/nargar/2022/04/06/vlh-exp.html">&lt;h1 id=&quot;my-experience-with-debilitating-illness-long-haul-and-potential-treatments&quot;&gt;My experience with debilitating illness (long haul) and potential treatments&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1470777639313-60af88918203?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1740&amp;amp;q=80&quot; style=&quot;max-width: 100%;&quot; /&gt;&lt;/p&gt;
 
@@ -22,7 +22,7 @@
 &lt;h2 id=&quot;my-own-story&quot;&gt;My own story&lt;/h2&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;I’m a computer science graduate. I was on the dean’s list at university and I worked overtime roughly every day for the few years following my entrance to the job market, post-graduation.&lt;/p&gt;
+&lt;p&gt;I’m a computer science graduate. I was on the dean’s list at university and I’d roughly every day for the few years following my entrance to the job market, post-graduation.&lt;/p&gt;
 
 &lt;p&gt;My salary went up quicker than anyone I knew from uni, and I derive a lot of my sense of self-worth from my ability to think logically, and work hard. I worked out 4 days per week and was fairly healthy prior to last year. I had been dealing with some fatigue but I’d gotten it under control with treatment for ADHD.&lt;/p&gt;
 
@@ -237,6 +237,17 @@ After my surgery for hyperthyroidism I improved to an extent, particularly mood-
 &lt;hr /&gt;
 &lt;p&gt;Contrast with my own symptoms. VLH symptoms in general. 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit convallis, egestas erat sed, placerat nulla. Sed placerat rutrum ante, eget cursus dui molestie sed. Proin lobortis in ante vel accumsan. Etiam aliquam dictum metus, eleifend euismod quam semper eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla metus elit, tempus id neque at, imperdiet pellentesque sapien. Curabitur tincidunt ac metus et cursus. Suspendisse sagittis malesuada tortor, ac accumsan tortor luctus sit amet. Nullam nulla urna, malesuada a iaculis vitae, rutrum nec eros. Cras maximus efficitur aliquet. Suspendisse velit lectus, lobortis et purus.&lt;/p&gt;
+
+&lt;!-- &lt;img src=&quot;https://i.imgur.com/GtlGgfE.png&quot; class=&quot;vlh-symptoms&quot; style=&quot;max-width: 100%;&quot;&gt; --&gt;
+
+&lt;div class=&quot;lh-symptoms-header-outer&quot;&gt;
+&lt;p&gt;Long Haul: Effects on the body&lt;/p&gt;
+&lt;div class=&quot;lh-symptoms-header&quot;&gt;
+    &lt;svg viewBox=&quot;0 0 500 150&quot; preserveAspectRatio=&quot;none&quot; style=&quot;height: 100%; width: 100%;&quot;&gt;&lt;path d=&quot;M-8.46,115.96 C107.78,222.54 525.40,13.33 530.47,185.04 L500.00,0.00 L0.00,0.00 Z&quot; style=&quot;stroke: none; fill: #337ab7;&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;canvas width=&quot;566&quot; height=&quot;762&quot; id=&quot;lh-symptoms-canvas&quot;&gt;&lt;/canvas&gt;
 
 &lt;h2 id=&quot;other-similarities-between-clh-and-vlh&quot;&gt;Other similarities between CLH and VLH&lt;/h2&gt;
 &lt;hr /&gt;
@@ -549,6 +560,80 @@ symptoms following vaccination.
 
             // scrollBy(0, -offset);
         });
+
+
+        // https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+        // The grid is as set by the canvas element.. width and height.. 150 and 150 would be..
+        // 150 wide, 150 high.. with the origin in the upper left corner 
+        // Canvas supports rectangles and paths (points connected by lines)
+        // fillRect(x, y, width, height), draws a filled rectangle, outline also possible, (x, y) is the starting point
+        // Also text and measureText.. 
+        // For the lines..  ctx.beginPath(); ctx.moveTo(125, 125); ctx.lineTo(125, 45); ctx.lineTo(45, 125); ctx.closePath() ctx.stroke();
+        // strokeStyle og fillStyle med colors.. 
+        // ctx.lineWidth.. 
+        //  ctx.font = '48px serif'; ctx.fillText('Hello world', 10, 50);
+
+
+        var canvasWidth = 566;
+        var canvasHeight = 762;
+        var horizontalCenter = parseInt(canvasWidth / 2);
+        var verticalCenter = parseInt(canvasHeight / 2);
+        var canvas = document.getElementById('lh-symptoms-canvas');
+        var ctx = canvas.getContext('2d');
+        var brainPercentageFromTop = 1.0 - 0.914698162729659; // 0,085301837270341
+        var brainVerticalPx = parseInt(canvasHeight * brainPercentageFromTop);
+
+        make_base();
+
+        function make_base()
+        {
+            console.log('Loading image for drawing in canvas');
+            base_image = new Image();
+            base_image.src = 'https://i.imgur.com/GtlGgfE.png';
+            base_image.onload = function() {
+                console.log('It loaded');
+                ctx.drawImage(base_image, 0, 0, canvasWidth, canvasHeight);
+                // Drawing the image first
+                draw_line();
+            }
+        }
+
+        function util_move_to_center(horizontal, vertical) {
+            var x = horizontal ? horizontalCenter : 0;
+            var y = vertical ? verticalCenter : 0;
+            ctx.moveTo(x, y);
+        }
+
+        function util_begin_path() {
+            var cGreen = &quot;#3c763d&quot;;
+            var cRed = &quot;#a94442&quot;;
+            var cBlack = &quot;#333&quot;;
+            ctx.beginPath();
+            ctx.lineWidth = 1;
+            var lineColour = cBlack;
+            ctx.strokeStyle = lineColour;
+            ctx.fillStyle = lineColour;
+        }
+
+        function util_end_path() {
+            ctx.closePath();
+            ctx.stroke();
+        }
+
+        function draw_line() {
+            // Ath pixelated: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors#line_styles
+
+            util_begin_path();
+            // util_move_to_center(true, false);
+            ctx.moveTo(horizontalCenter + 0.5, brainVerticalPx);
+            var circleRadius = 3;
+            ctx.arc(horizontalCenter + 0.5, brainVerticalPx,circleRadius,0,2*Math.PI);
+            ctx.fill();
+            ctx.lineTo(horizontalCenter + 0.5 + 60, brainVerticalPx);
+            ctx.moveTo(horizontalCenter + 0.5 + 60, brainVerticalPx);
+            ctx.lineTo(horizontalCenter + 0.5 + 60, brainVerticalPx - 20);
+            util_end_path();
+        }
     });
 &lt;/script&gt;
 

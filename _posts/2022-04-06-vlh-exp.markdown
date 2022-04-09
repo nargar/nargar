@@ -23,7 +23,7 @@ If you're dealing with long haul and looking for ideas on how to improve your sy
 ## My own story 
 ---
 
-I'm a computer science graduate. I was on the dean's list at university and I worked overtime roughly every day for the few years following my entrance to the job market, post-graduation.  
+I'm a computer science graduate. I was on the dean's list at university and I'd roughly every day for the few years following my entrance to the job market, post-graduation.  
 
 My salary went up quicker than anyone I knew from uni, and I derive a lot of my sense of self-worth from my ability to think logically, and work hard. I worked out 4 days per week and was fairly healthy prior to last year. I had been dealing with some fatigue but I'd gotten it under control with treatment for ADHD. 
 
@@ -226,6 +226,17 @@ Some of the terminology used below:
 Contrast with my own symptoms. VLH symptoms in general. 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit convallis, egestas erat sed, placerat nulla. Sed placerat rutrum ante, eget cursus dui molestie sed. Proin lobortis in ante vel accumsan. Etiam aliquam dictum metus, eleifend euismod quam semper eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla metus elit, tempus id neque at, imperdiet pellentesque sapien. Curabitur tincidunt ac metus et cursus. Suspendisse sagittis malesuada tortor, ac accumsan tortor luctus sit amet. Nullam nulla urna, malesuada a iaculis vitae, rutrum nec eros. Cras maximus efficitur aliquet. Suspendisse velit lectus, lobortis et purus.
 
+<!-- <img src="https://i.imgur.com/GtlGgfE.png" class="vlh-symptoms" style="max-width: 100%;"> -->
+
+
+<div class="lh-symptoms-header-outer">
+<p>Long Haul: Effects on the body</p>
+<div class="lh-symptoms-header">
+    <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-8.46,115.96 C107.78,222.54 525.40,13.33 530.47,185.04 L500.00,0.00 L0.00,0.00 Z" style="stroke: none; fill: #337ab7;"></path></svg>
+</div>
+</div>
+
+<canvas width="566" height="762" id="lh-symptoms-canvas"></canvas>
 
 ## Other similarities between CLH and VLH
 ---
@@ -525,6 +536,80 @@ symptoms following vaccination.
 
             // scrollBy(0, -offset);
         });
+
+
+        // https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+        // The grid is as set by the canvas element.. width and height.. 150 and 150 would be..
+        // 150 wide, 150 high.. with the origin in the upper left corner 
+        // Canvas supports rectangles and paths (points connected by lines)
+        // fillRect(x, y, width, height), draws a filled rectangle, outline also possible, (x, y) is the starting point
+        // Also text and measureText.. 
+        // For the lines..  ctx.beginPath(); ctx.moveTo(125, 125); ctx.lineTo(125, 45); ctx.lineTo(45, 125); ctx.closePath() ctx.stroke();
+        // strokeStyle og fillStyle med colors.. 
+        // ctx.lineWidth.. 
+        //  ctx.font = '48px serif'; ctx.fillText('Hello world', 10, 50);
+
+
+        var canvasWidth = 566;
+        var canvasHeight = 762;
+        var horizontalCenter = parseInt(canvasWidth / 2);
+        var verticalCenter = parseInt(canvasHeight / 2);
+        var canvas = document.getElementById('lh-symptoms-canvas');
+        var ctx = canvas.getContext('2d');
+        var brainPercentageFromTop = 1.0 - 0.914698162729659; // 0,085301837270341
+        var brainVerticalPx = parseInt(canvasHeight * brainPercentageFromTop);
+
+        make_base();
+
+        function make_base()
+        {
+            console.log('Loading image for drawing in canvas');
+            base_image = new Image();
+            base_image.src = 'https://i.imgur.com/GtlGgfE.png';
+            base_image.onload = function() {
+                console.log('It loaded');
+                ctx.drawImage(base_image, 0, 0, canvasWidth, canvasHeight);
+                // Drawing the image first
+                draw_line();
+            }
+        }
+
+        function util_move_to_center(horizontal, vertical) {
+            var x = horizontal ? horizontalCenter : 0;
+            var y = vertical ? verticalCenter : 0;
+            ctx.moveTo(x, y);
+        }
+
+        function util_begin_path() {
+            var cGreen = "#3c763d";
+            var cRed = "#a94442";
+            var cBlack = "#333";
+            ctx.beginPath();
+            ctx.lineWidth = 1;
+            var lineColour = cBlack;
+            ctx.strokeStyle = lineColour;
+            ctx.fillStyle = lineColour;
+        }
+
+        function util_end_path() {
+            ctx.closePath();
+            ctx.stroke();
+        }
+
+        function draw_line() {
+            // Ath pixelated: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors#line_styles
+
+            util_begin_path();
+            // util_move_to_center(true, false);
+            ctx.moveTo(horizontalCenter + 0.5, brainVerticalPx);
+            var circleRadius = 3;
+            ctx.arc(horizontalCenter + 0.5, brainVerticalPx,circleRadius,0,2*Math.PI);
+            ctx.fill();
+            ctx.lineTo(horizontalCenter + 0.5 + 60, brainVerticalPx);
+            ctx.moveTo(horizontalCenter + 0.5 + 60, brainVerticalPx);
+            ctx.lineTo(horizontalCenter + 0.5 + 60, brainVerticalPx - 20);
+            util_end_path();
+        }
     });
 </script>
 
