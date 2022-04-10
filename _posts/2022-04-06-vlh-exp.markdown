@@ -430,7 +430,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit co
 18. COVID-19 (coronavirus): Long-term effects - Mayo Clinic. Accessed April 10, 2022. https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-long-term-effects/art-20490351
     {: .citation-18-title }
 
-19. Post-COVID Conditions | CDC. Accessed April 7, 2022. https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html
+19. Post-COVID Conditions \| CDC. Accessed April 7, 2022. https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html
     {: .citation-19-title }
 
 
@@ -500,10 +500,8 @@ symptoms following vaccination.
 16. <iframe id="vlh-2" class="citation-16-highlights" width="auto" height="315" src="https://www.youtube.com/embed/H7inaTiDKaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 17. > **Symptoms of long COVID**
-There are *lots of symptoms* you can have after a COVID-19 infection.
-
-Common **long COVID symptoms** include:
-
+There are *lots of symptoms* you can have after a COVID-19 infection.  
+Common **long COVID symptoms** include:  
 - **extreme tiredness** (fatigue)
 - **shortness of breath**
 - **chest pain** or tightness
@@ -520,8 +518,7 @@ Common **long COVID symptoms** include:
 - **rashes**
     {: .citation-17-highlights }
 
-18. > **Common signs and symptoms that linger over time** include:
-
+18. > **Common signs and symptoms that linger over time** include:  
 - **Fatigue**
 - **Shortness of breath** or difficulty breathing
 - Cough
@@ -537,8 +534,7 @@ Common **long COVID symptoms** include:
 - **Worsened symptoms after physical or mental activities**
     {: .citation-18-highlights }
 
-19. > \[...\]**these symptoms can happen to anyone who has had COVID-19, even if the illness was mild, or if they had no initial symptoms**. People **commonly report experiencing different combinations of the following symptoms**:
-
+19. > \[...\]**these symptoms can happen to anyone who has had COVID-19, even if the illness was mild, or if they had no initial symptoms**. People **commonly report experiencing different combinations of the following symptoms**:  
 - Difficulty breathing or **shortness of breath**
 - **Tiredness** or **fatigue**
 - Symptoms that **get worse after physical or mental activities** (also known as post-exertional malaise)
