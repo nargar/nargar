@@ -251,11 +251,6 @@ Some of the terminology used below:
 
 ## CLH symptoms
 ---
-Contrast with my own symptoms. VLH symptoms in general. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit convallis, egestas erat sed, placerat nulla. Sed placerat rutrum ante, eget cursus dui molestie sed. Proin lobortis in ante vel accumsan. Etiam aliquam dictum metus, eleifend euismod quam semper eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla metus elit, tempus id neque at, imperdiet pellentesque sapien. Curabitur tincidunt ac metus et cursus. Suspendisse sagittis malesuada tortor, ac accumsan tortor luctus sit amet. Nullam nulla urna, malesuada a iaculis vitae, rutrum nec eros. Cras maximus efficitur aliquet. Suspendisse velit lectus, lobortis et purus.
-
-<!-- <img src="https://i.imgur.com/GtlGgfE.png" class="vlh-symptoms" style="max-width: 100%;"> -->
-
 
 The symptoms described below are based on the latest data provided by the CDC, Mayo Clinic, and the NHS [[17]](https://www.nhs.uk/conditions/coronavirus-covid-19/long-term-effects-of-coronavirus-long-covid/){:target="_blank" data-targ=".citation-17-highlights" class="trigger-modal"}[[18]](https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-long-term-effects/art-20490351){:target="_blank" data-targ=".citation-18-highlights" class="trigger-modal"}[[19]](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank" data-targ=".citation-19-highlights" class="trigger-modal"}. I'm using the symptoms listed for covid long haulers (*CLH*). To make the list mutually applicable to both CLH and vaccine long haulers (*VLH*), 'loss of smell/taste' has been omitted, as I've not seen this described in VLH. Further reading can be done on the reddit communities [[5]](https://reddit.com/r/vaccinelonghaulers){:target="_blank" data-targ=".citation-5-highlights" class="trigger-modal"}[[6]](https://reddit.com/r/covidlonghaulers){:target="_blank" data-targ=".citation-6-highlights" class="trigger-modal"}, in the facebook support groups, or by looking up case- or general CLH studies. I've also added a couple of youtube interviews with people experiencing VLH [[15]](#vlh-1){:class="trigger-modal" data-targ=".citation-15-highlights"}[[16]](#vlh-2){:class="trigger-modal" data-targ=".citation-16-highlights"}.
 
