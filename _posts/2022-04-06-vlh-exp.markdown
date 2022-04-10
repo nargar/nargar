@@ -6,6 +6,9 @@
 # 1. Intro
 ---
 
+This post is still a work in progress. Carry on to section #2 for a little bit of content. 
+
+<div class="hidden" markdown="1">
 The idea behind writing this post is to share my personal experience with long haul, to shed light on what the condition is, and what having it really **means** for the sufferer, with the aim of going beyond simply listing the symptoms. 
 
 Additionally I wish to provide some information about vaccine long haulers, how they are similar to covid long haulers, and the use of the covid vaccine in the context of covid long haul, as evidenced by the available literature, online surveys, and the experience of myself and others.
@@ -19,10 +22,14 @@ I will start with some pessimism (or realism), but end the post on a tentatively
 If you're in a hurry, depending on your interests, I recommend reading either just the sections about *my experience* (if you're someone who likes me), or, if interested in long haul, then jump straight to section #2 and read about covid- and vaccine long haul. Including especially the section on what the symptoms really *mean* for these people, though I expect my own experience should be insightful there too. The connection between covid vaccination and covid long haul is complicated and curious, and well worth reading about. 
 
 If you're dealing with long haul and looking for ideas on how to improve your symptoms and regain function I suggest you stay tuned for the next post I intend to write. I don't expect anyone except people dealing with these conditions would be even remotely interested in reading that. Although I'd say, *somewhat* objectively, that the material is really interesting. I am not and will not be handing out any medical advice. Following in my footsteps would be dumb and potentially dangerous.
+</div>
 
 ## My own story 
 ---
 
+Should probably reverse the order of the content. Start with a general explanation of the condition and then do the personal story for anybody who cares to read that stuff. 
+
+<div class="hidden" markdown="1">
 I'm a computer science graduate. I was on the dean's list at university and I'd roughly every day for the few years following my entrance to the job market, post-graduation.  
 
 My salary went up quicker than anyone I knew from uni, and I derive a lot of my sense of self-worth from my ability to think logically, and work hard. I worked out 4 days per week and was fairly healthy prior to last year. I had been dealing with some fatigue but I'd gotten it under control with treatment for ADHD. 
@@ -30,10 +37,14 @@ My salary went up quicker than anyone I knew from uni, and I derive a lot of my 
 By the start of summer 2021 I'd describe my life as pretty good. My health was looking better. I was running my own company with two of my friends, where I worked as a software consultant and developer. Our biggest client, a sizeable nordic hardware store chain, was happy with the value we were delivering for them, and VPs from abroad had shown interest in the software we were developing with them. 
 
 I had a great/beautiful girlfriend who I love, and appreciate still. She had supported me through some of my fatigue and related mood issues previously. It looked like everything was working in my favour at the time, in both my work and personal life.  
+</div>
 
 ## Onset of illness and symptom progression
 ---
 
+How did things start for me, how did the symptoms progress. 
+
+<div class="hidden" markdown="1">
 Things took a swift turn for the worse in June 2021, when I suddenly got very ill. I received both doses of my covid vaccination that month, the last dose by the end of the month, on the 29th.
 
 There was nothing concerning about my first dose, as evidenced by my showing up for the second one three weeks later. After completing my vaccination I experienced various debilitating (and confusing) symptoms, the most meaningful of which I still struggle with today (8th of April 2022, ~10 months later). 
@@ -71,9 +82,11 @@ Looking at data from my phone from around this time, all the photos are of blood
 Brief context for the muscle weakness and breathlessness. I'm very much at my ideal weight and I don't smoke or use drugs. Prior to VLH I used to do weightlifting 4 times per week. I could bench press 125kg (275lbs), but after the vaccination, if I tried to swim a lap in a 25 metre-long pool, I found I had to stop for a long time to catch my breath and let my heart calm down.
 
 In retrospect my thinking was not logical at all. My girlfriend had gone to London and I'd intended to fix up her car by the time she got back. I quickly lifted out of my job (I couldn't think or focus at all), and all I did was focus on the car, with some intermittent lying in the grass when exhauzted. When I was home I tried to research my condition. 
+</div>
 
 ### Work, relationship, and disability
 
+<div class="hidden" markdown="1">
 My life has changed in most ways and it's challenging to find the right words to explain my situation to friends and family. 
 
 I've always been a hard worker, and I derive a great deal of my self worth from my ability to think, work, and make money. If I tried to explain my current situation to my past self I'm not convinced that I would be very understanding. I think I would write-, a lot of what I have to say, off as laziness. 'Why doesn't he just do x and y, it only takes 5 minutes.'
@@ -105,9 +118,13 @@ We went on a trip somewhere shortly after the first vaccination, which.. I actua
 At some point she goes to London, I stay oddly focused on trying to fix up a car, and myself.. I find I have hyperthyroidism, have surgery, move abroad.. and we broke up.
 
 I'm grateful that she didn't have to sit and watch me go through all of this, and that she doesn't have to see how I am today. And I'm very thankful for our time together. 
+</div>
+
+Why so disabled. Why so weak. :p
 
 ### Anger and irritability
 
+<div class="hidden" markdown="1">
 One thing I find interesting about this has been the unfounded anger I've felt since getting sick. I felt more anger than I've ever deal with in my life before that, over nothing in particular. I would think more violent thoughts, think 'expletives' at people I cared about, as well as strangers, and I got very careless about burning bridges. 
 
 Some examples of relationships potentially harmed (without making too many excuses for myself..), is with my mom's family. 
@@ -117,6 +134,10 @@ My mom and her siblings had a dispute over inheritance at the time, where I got 
 Another example of irritability was, as I remember, one time when I went to a doctor's appointment. The doctor suggested I see a cardiologist, a reasonable idea, and suggested that the 'tingling' I experienced could be from 'muscle tension', an idea I found so ridiculous that, after refusing the cardiologist referral, I said to him: 'Simple solution for a simple man', and stormed out. Thus burning a bridge with someone who could have been my ally in this. And doing/saying 'just' that took a great deal of restraint on my part. 
 
 Both my anger issues and agitation/anxiety are much improved today.
+</div>
+
+Very of interest. 
+
 ### Laboratory tests and treatments
 
 I'll only skip over this part very briefly here. My intention is to go over this in detail in another post, for.. only the few who might potentially care. 
@@ -136,6 +157,9 @@ If you are fascinated by long haul at all, or dealing with it yourself, then per
 
 ### Focusing on recovery, moving abroad
 
+Some anecdotes.. 
+
+<div class="hidden" markdown="1">
 This part doesn't serve much of a purpose except to share an anecdote. 
 After my surgery for hyperthyroidism I improved to an extent, particularly mood-related symptoms, but I realised soon that it wasn't going to make me functional enough to be able to work. 
 
@@ -152,9 +176,13 @@ Amazon next-day delivery was very neat, and the variety of restaurants, although
 I shortly realised I wasn't going to 'power through' the sickness with intense exercise. For weight lifting and running in particular it was apparent that they were making me worse, which is in alignment with what many people online have described. 
 
 I'm happy I tried this and I'm more content with being home now after this journey abroad.
+</div>
 
 ### Current symptoms, flare ups and triggers 
 
+Symptoms today. What's a flare up. Do we care? 
+
+<div class="hidden" markdown="1">
 My symptoms today are broadly similar to what they were, although with the following changes:
 - The tinnitus is gone, unless I'm currently going through a flare up, this applies to most of the other symptoms that are gone as well
 - The extreme agitation, anxiety, and anger, is largely gone
@@ -182,10 +210,14 @@ When I do *intense exercise*, such as **weighlifting**, my symptoms flare up as 
 I experience similar symptoms after:
 - Eating **sugar**, this sounds to my prejudiced self as if I just buy into anyone pushing a no-sugar/plant-based diet, but I don't. Sugar makes my symptoms flare up for some reason. Not as intensely as exercise would but enough for me to avoid chocolate for the first time in my life. 
 - My **ADHD medication**, which helped me prior to the vaccination, now helps for about an hour before triggering a flare-up exactly as described above. This has meant that I've avoided this medicine since the beginning.
+</div>
 
 ### Life today, hope and future prospects
 ---
 
+Some hope. Not too loser-ish. 
+
+<div class="hidden" markdown="1">
 So.. where am I now. What's on the agenda, and is there any hope for the future? (my future that is, the only one that matters :p)
 
 As described above I'm still not capable of working. I'm still not doing well by the people I care about, I'm not able to take good care of myself.
@@ -207,19 +239,15 @@ Writing this post on its own is something that has been unthinkable for me since
  With any luck I will continue to improve, hopefully to a place where I can at least be productive and content with myself. If I can work and create things I'm happy, if not I'm miserable. 
 
  In the next section I'm going to briefly describe long haul in general. What it is, the effect of the vaccines, some interesting studies and polls, and other peoples experiences. In a future post, that I expect no one except **long haulers or huge medical nerds** will read, I intend to go into how I've finally managed to have some days of what I would describe as 'complete recovery', albeit with the limitations I briefly touched on above. 
+</div>
 
 # 2. Covid- and vaccine long haul
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit convallis, egestas erat sed, placerat nulla. Sed placerat rutrum ante, eget cursus dui molestie sed. Proin lobortis in ante vel accumsan. Etiam aliquam dictum metus, eleifend euismod quam semper eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla metus elit, tempus id neque at, imperdiet pellentesque sapien. Curabitur tincidunt ac metus et cursus. Suspendisse sagittis malesuada tortor, ac accumsan tortor luctus sit amet. Nullam nulla urna, malesuada a iaculis vitae, rutrum nec eros. Cras maximus efficitur aliquet. Suspendisse velit lectus, lobortis et purus.
-
 Some of the terminology used below:  
 - **CLH**: **Covid long hauler**. Someone who has been infected with covid-19 and has been dealing with ongoing symptoms for at least 12 weeks beyond the acute phase of the infection. [TODO: https://www.nice.org.uk/guidance/ng188/chapter/Recommendations] Also known as **PASC**.
 
-- **VLH**: **Vaccine long hauler**. Someone who has been vaccinated with one of the covid-19 vaccines, who deals with persistent symptoms near-identical to those of the average covid long hauler.
-
-- **ME/CFS**: Myalgic encephalomyelitis/**chronic fatigue syndrome**. Mildly related to the topic at hand, often connected to post-viral illness. 
-
+- **VLH**: **Vaccine long hauler**. Someone who has been vaccinated with one of the covid-19 vaccines and deals with ongoing symptoms similar to those of covid long haul.
 
 ## CLH symptoms
 ---
