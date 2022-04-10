@@ -229,6 +229,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit co
 <!-- <img src="https://i.imgur.com/GtlGgfE.png" class="vlh-symptoms" style="max-width: 100%;"> -->
 
 
+The symptoms described below are based on the latest data provided by the CDC, Mayo Clinic, and the NHS [[17]](https://www.nhs.uk/conditions/coronavirus-covid-19/long-term-effects-of-coronavirus-long-covid/){:target="_blank" data-targ=".citation-17-highlights" class="trigger-modal"}[[18]](https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-long-term-effects/art-20490351){:target="_blank" data-targ=".citation-18-highlights" class="trigger-modal"}[[19]](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank" data-targ=".citation-19-highlights" class="trigger-modal"}. I'm using the symptoms listed for covid long haulers (*CLH*). To make the list mutually applicable to both CLH and vaccine long haulers (*VLH*), 'loss of smell/taste' has been omitted, as I've not seen this described in VLH. Further reading can be done on the reddit communities [[5]](https://reddit.com/r/vaccinelonghaulers){:target="_blank" data-targ=".citation-5-highlights" class="trigger-modal"}[[6]](https://reddit.com/r/covidlonghaulers){:target="_blank" data-targ=".citation-6-highlights" class="trigger-modal"}, in the facebook support groups, or by looking up case- or general CLH studies. I've also added a couple of youtube interviews with people experiencing VLH [[15]](#vlh-1){:class="trigger-modal" data-targ=".citation-15-highlights"}[[16]](#vlh-2){:class="trigger-modal" data-targ=".citation-16-highlights"}.
+
 <div class="lh-symptoms-header-outer">
 <p>Long Haul: Effects on the body</p>
 <div class="lh-symptoms-header">
@@ -236,7 +238,62 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit co
 </div>
 </div>
 
-<canvas width="566" height="762" id="lh-symptoms-canvas"></canvas>
+<div class="canvas-container" style="position:relative;">
+    <div class="canvas-text-overlay brain" style="position: absolute;">
+        <p><strong>&#8226;</strong> Extreme <strong>tiredness</strong><br><strong>&#8226;</strong> Difficulty <strong>thinking</strong><br><strong>&#8226; Concentration</strong> issues<br><strong>&#8226; Memory</strong> problems<br><strong>&#8226; Confusion</strong><br><br>Mood changes<br><strong>&#8226; Depression</strong><br><strong>&#8226; Anxiety</strong><br><strong>&#8226; Irritability</strong><br><br>General<br><strong>&#8226;</strong> <strong>Insomnia</strong><br> <strong>&#8226;</strong> Chronic headache<br><strong>&#8226;</strong> Sleep problems<br><strong>&#8226;</strong> Lightheadedness<br><strong>&#8226;</strong> Head 'fullness' or pressure</p>
+    </div>
+    <div class="canvas-text-overlay heart" style="position: absolute;">
+        <p>
+            <strong>&#8226;</strong> <strong>Chest pain</strong><br>
+            <strong>&#8226;</strong> Tachycardia (<strong>HR</strong> &gt; 100bpm)<br>
+            <strong>&#8226;</strong> Heart <strong>palpitations</strong>
+        </p>
+    </div>
+    <div class="canvas-text-overlay ears" style="position: absolute;">
+        <p>
+            <strong>&#8226;</strong> Tinnitus (<strong>ears ringing</strong>)<br>
+            <strong>&#8226;</strong> Vertigo
+        </p>
+    </div>
+    <div class="canvas-text-overlay eyes" style="position: absolute;">
+        <p>
+            <strong>&#8226;</strong> Blurry vision
+        </p>
+    </div>
+    <div class="canvas-text-overlay lungs" style="position: absolute;">
+        <p>
+            <strong>&#8226;</strong> Shortness of breath
+        </p>
+    </div>
+    <div class="canvas-text-overlay digestion" style="position: absolute;">
+        <p>
+            <strong>&#8226;</strong> Nausea<br>
+            <strong>&#8226;</strong> Heartburn<br>
+            <strong>&#8226;</strong> Indigestion<br>
+            <strong>&#8226;</strong> Constipation<br>
+            <strong>&#8226;</strong> Loss of appetite<br>
+        </p>
+    </div>
+
+    <div class="canvas-text-overlay hand" style="position: absolute;">
+        <p>
+            <strong>&#8226;</strong> Pins and needless<br>
+            <strong>&#8226;</strong> Cold extremities<br>
+            <strong>&#8226;</strong> Reduced blood flow<br>
+            <strong>&#8226;</strong> Rashes<br>
+        </p>
+    </div>
+
+    <div class="canvas-text-overlay muscle" style="position: absolute;">
+        <p>
+            <strong>&#8226;</strong> Muscle weakness<br>
+            <strong>&#8226;</strong> Tremors<br>
+            <strong>&#8226;</strong> Muscle or joint pain<br>
+        </p>
+    </div>
+
+    <canvas width="566" height="762" id="lh-symptoms-canvas"></canvas>
+</div>
 
 ## Other similarities between CLH and VLH
 ---
@@ -344,6 +401,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit co
 16. https://www.youtube.com/watch?v=H7inaTiDKaU - Vaccine long hauler, cyclist
     {: .citation-16-title }
 
+17. Long-term effects of coronavirus (long COVID) - NHS. Accessed April 10, 2022. https://www.nhs.uk/conditions/coronavirus-covid-19/long-term-effects-of-coronavirus-long-covid/
+    {: .citation-17-title }
+
+18. COVID-19 (coronavirus): Long-term effects - Mayo Clinic. Accessed April 10, 2022. https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-long-term-effects/art-20490351
+    {: .citation-18-title }
+
+19. Post-COVID Conditions | CDC. Accessed April 7, 2022. https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html
+    {: .citation-19-title }
+
+
 </div>
 
 <div class="hidden" markdown="1">
@@ -409,6 +476,66 @@ symptoms following vaccination.
 
 16. <iframe id="vlh-2" class="citation-16-highlights" width="auto" height="315" src="https://www.youtube.com/embed/H7inaTiDKaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+17. > **Symptoms of long COVID**
+There are *lots of symptoms* you can have after a COVID-19 infection.
+
+Common **long COVID symptoms** include:
+
+- **extreme tiredness** (fatigue)
+- **shortness of breath**
+- **chest pain** or tightness
+- problems with **memory and concentration** ("**brain fog**")
+- difficulty sleeping (**insomnia**)
+- **heart palpitations**
+- **dizziness**
+- **pins and needles**
+- **joint pain**
+- **depression and anxiety**
+- **tinnitus**, earaches
+- **feeling sick, diarrhoea, stomach aches, loss of appetite**
+- a high temperature, cough, **headaches**, sore throat, changes to sense of smell or taste
+- **rashes**
+    {: .citation-17-highlights }
+
+18. > **Common signs and symptoms that linger over time** include:
+
+- **Fatigue**
+- **Shortness of breath** or difficulty breathing
+- Cough
+- **Joint pain**
+- **Chest pain**
+- **Memory, concentration** or **sleep problems**
+- **Muscle pain** or **headache**
+- **Fast** or **pounding heartbeat**
+- Loss of smell or taste
+- **Depression** or **anxiety**
+- Fever
+- **Dizziness when you stand**
+- **Worsened symptoms after physical or mental activities**
+    {: .citation-18-highlights }
+
+19. > \[...\]**these symptoms can happen to anyone who has had COVID-19, even if the illness was mild, or if they had no initial symptoms**. People **commonly report experiencing different combinations of the following symptoms**:
+
+- Difficulty breathing or **shortness of breath**
+- **Tiredness** or **fatigue**
+- Symptoms that **get worse after physical or mental activities** (also known as post-exertional malaise)
+- **Difficulty thinking** or **concentrating** (sometimes referred to as “**brain fog**”)
+- Cough
+- **Chest** or **stomach pain**
+- **Headache**
+- **Fast-beating** or **pounding heart** (also known as **heart palpitations**)
+- **Joint** or **muscle pain**
+- **Pins-and-needles** feeling
+- **Diarrhea**
+- **Sleep problems**
+- Fever
+- **Dizziness on standing (lightheadedness)**
+- **Rash**
+- **Mood changes**
+- Change in smell or taste
+- **Changes in menstrual period cycles**
+    {: .citation-19-highlights }
+
 </div>
 
 
@@ -430,6 +557,9 @@ symptoms following vaccination.
 
 
 <script markdown="0" type="text/javascript">
+    var img_coords = {
+        "brain": { "x": -1, "y": -1 },
+    };
     window.addEventListener("load", function() {
 
         var $spy = $('body').scrollspy({ target: '#sidebar-scrollspy', offset:82 });
@@ -571,6 +701,47 @@ symptoms following vaccination.
                 ctx.drawImage(base_image, 0, 0, canvasWidth, canvasHeight);
                 // Drawing the image first
                 draw_line();
+                // Text overlays.. 
+                var brainX = img_coords.brain.x;
+                var brainY = img_coords.brain.y;
+                brainY = brainY - 69;
+                $(".canvas-text-overlay.brain").css("left", brainX.toString() + "px");
+                $(".canvas-text-overlay.brain").css("top", brainY.toString() + "px");
+
+                var eyeX = img_coords.eye.x - 113;
+                var eyeY = img_coords.eye.y - 27;
+                $(".canvas-text-overlay.eyes").css("left", eyeX.toString() + "px");
+                $(".canvas-text-overlay.eyes").css("top", eyeY.toString() + "px");
+
+                var earX = img_coords.ear.x - 93;
+                var earY = img_coords.ear.y;
+                $(".canvas-text-overlay.ears").css("left", earX.toString() + "px");
+                $(".canvas-text-overlay.ears").css("top", earY.toString() + "px");
+
+                var lungX = img_coords.lung.x - 80;
+                var lungY = img_coords.lung.y - 27;
+                $(".canvas-text-overlay.lungs").css("left", lungX.toString() + "px");
+                $(".canvas-text-overlay.lungs").css("top", lungY.toString() + "px");
+
+                var muscleX = img_coords.muscle.x - 151;
+                var muscleY = img_coords.muscle.y - 27;
+                $(".canvas-text-overlay.muscle").css("left", muscleX.toString() + "px");
+                $(".canvas-text-overlay.muscle").css("top", muscleY.toString() + "px");
+
+                var heartX = img_coords.heart.x;
+                var heartY = img_coords.heart.y - 30;
+                $(".canvas-text-overlay.heart").css("left", heartX.toString() + "px");
+                $(".canvas-text-overlay.heart").css("top", heartY.toString() + "px");
+
+                var digestionX = img_coords.digestion.x - 122;
+                var digestionY = img_coords.digestion.y - 45;
+                $(".canvas-text-overlay.digestion").css("left", digestionX.toString() + "px");
+                $(".canvas-text-overlay.digestion").css("top", digestionY.toString() + "px");
+
+                var handX = img_coords.hand.x - 40;
+                var handY = img_coords.hand.y;
+                $(".canvas-text-overlay.hand").css("left", handX.toString() + "px");
+                $(".canvas-text-overlay.hand").css("top", handY.toString() + "px");
             }
         }
 
@@ -589,11 +760,16 @@ symptoms following vaccination.
             var lineColour = cBlack;
             ctx.strokeStyle = lineColour;
             ctx.fillStyle = lineColour;
+            ctx.font = "21px serif";
         }
 
         function util_end_path() {
             ctx.closePath();
             ctx.stroke();
+        }
+
+        function save_coords(key, x, y) {
+            img_coords[key] = { "x": x, "y": y };
         }
 
         function draw_line() {
@@ -603,11 +779,89 @@ symptoms following vaccination.
             // util_move_to_center(true, false);
             ctx.moveTo(horizontalCenter + 0.5, brainVerticalPx);
             var circleRadius = 3;
+            var brainX = horizontalCenter + 0.5;
+            var brainY = brainVerticalPx;
             ctx.arc(horizontalCenter + 0.5, brainVerticalPx,circleRadius,0,2*Math.PI);
             ctx.fill();
+            ctx.moveTo(brainX, brainY);
             ctx.lineTo(horizontalCenter + 0.5 + 60, brainVerticalPx);
             ctx.moveTo(horizontalCenter + 0.5 + 60, brainVerticalPx);
-            ctx.lineTo(horizontalCenter + 0.5 + 60, brainVerticalPx - 20);
+            save_coords('brain', horizontalCenter + 0.5 + 60, brainVerticalPx);
+            // ctx.lineTo(horizontalCenter + 0.5 + 60, brainVerticalPx - 20);
+            // save_coords('brain', horizontalCenter + 0.5 + 60, brainVerticalPx - 20);
+
+            var heartX = horizontalCenter - 20 + 0.5;
+            var heartY = brainVerticalPx + 220;
+            ctx.moveTo(heartX, heartY);
+            ctx.arc(heartX, heartY,circleRadius,0,2*Math.PI);
+            ctx.fill();
+            ctx.moveTo(heartX, heartY);
+            ctx.lineTo(heartX, heartY + 110);
+            ctx.moveTo(heartX, heartY + 110);
+            ctx.lineTo(heartX + 74, heartY + 140);
+            save_coords('heart', heartX + 74, heartY + 140);
+
+            var lungX = horizontalCenter - 40 + 0.5;
+            var lungY = brainVerticalPx + 180;
+            ctx.moveTo(lungX, lungY);
+            ctx.arc(lungX, lungY,circleRadius,0,2*Math.PI);
+            ctx.fill();
+            ctx.moveTo(lungX, lungY);
+            ctx.lineTo(lungX - 140, lungY);
+            ctx.moveTo(lungX - 140, lungY);
+            ctx.lineTo(lungX - 140, lungY - 20);
+            save_coords('lung', lungX - 140, lungY - 20);
+
+            var digestionX = horizontalCenter - 20 + 0.5 - 9;
+            var digestionY = brainVerticalPx + 220 + 76;
+            ctx.moveTo(digestionX, digestionY);
+            ctx.arc(digestionX, digestionY,circleRadius,0,2*Math.PI);
+            ctx.fill();
+            ctx.moveTo(digestionX, digestionY);
+            ctx.lineTo(digestionX - 130, digestionY);
+            save_coords('digestion', digestionX - 130, digestionY);
+
+            var legMuscleX = digestionX - 40;
+            var legMuscleY = digestionY + 240;
+            ctx.moveTo(legMuscleX, legMuscleY);
+            ctx.arc(legMuscleX, legMuscleY,circleRadius,0,2*Math.PI);
+            ctx.fill();
+            ctx.moveTo(legMuscleX, legMuscleY);
+            ctx.lineTo(legMuscleX - 40, legMuscleY);
+            save_coords('muscle', legMuscleX - 40, legMuscleY);
+
+            var earX = brainX - 50;  // Tinnitus, vertigo
+            var earY = brainY + 55;
+            ctx.moveTo(earX, earY);
+            ctx.arc(earX, earY,circleRadius,0,2*Math.PI);
+            ctx.fill();
+            ctx.moveTo(earX, earY);
+            ctx.lineTo(earX - 130, earY);
+            ctx.moveTo(earX - 130, earY);
+            ctx.lineTo(earX - 130, earY + 10);
+            save_coords('ear', earX - 130, earY + 10);
+
+            var eyeX = brainX + 10; // Blurred vision
+            var eyeY = brainY + 50;
+            ctx.moveTo(eyeX, eyeY);
+            ctx.arc(eyeX, eyeY,circleRadius,0,2*Math.PI);
+            ctx.fill();
+            ctx.moveTo(eyeX, eyeY);
+            ctx.lineTo(eyeX - 110, eyeY);
+            ctx.moveTo(eyeX - 110, eyeY);
+            ctx.lineTo(eyeX - 110, eyeY - 20);
+            save_coords('eye', eyeX - 110, eyeY - 20);
+
+            var handX = brainX + 110;  // Numbness, cold extremities.. 
+            var handY = brainY + 460;
+            ctx.moveTo(handX, handY);
+            ctx.arc(handX, handY,circleRadius,0,2*Math.PI);
+            ctx.fill();
+            ctx.moveTo(handX, handY);
+            ctx.moveTo(handX, handY);
+            ctx.lineTo(handX, handY + 70);
+            save_coords('hand', handX, handY + 70);
+
             util_end_path();
         }
     });
